@@ -1,5 +1,5 @@
 <!-- docs/_sidebar.md -->
 - [Home](/)
 
-- **Sprints e Reuniões**
-  - [2021-08-01 - Abertura da Sprint 0](/sprints/sprint0/31072021planning.md)
+- **Lean Inception**
+  - [2021-08-01 - Abertura da Lean Inception](/LeanInception/Meetings/31072021LeanInceptionPlanning.md)

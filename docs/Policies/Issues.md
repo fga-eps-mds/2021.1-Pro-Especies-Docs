@@ -1,4 +1,4 @@
-# Issues
+# Política de Issues
 
 | Data       | Versão | Descrição            | Autor             |
 |:----------:|:------:|:--------------------:|:-----------------:|
@@ -13,8 +13,8 @@ Caso a *issue* seja uma outra tarefa a ser realizada deve-se criar a *issue* com
 - Descrição simples da tarefa a se realizar.
 
 ## 2. Descrição da Issue
-Descrever a *issue* de forma objetiva, colocando quaisquer informações necessárias para a realização da mesma.
-Caso necessário também podem ser adicionadas imagens no texto explicativo da *issue*.
+<p align="justify"> &emsp;&emsp;Descrever a <i>issue</i> de forma objetiva, colocando quaisquer informações necessárias para a realização da mesma.
+Caso necessário também podem ser adicionadas imagens no texto explicativo da <i>issue</i>.</p>
 
 ### 2.1. Tasks: 
 Todas as atividades a serem realizadas devem estar elencadas em tópicos e ao serem finalizadas devem receber um check.
@@ -23,7 +23,7 @@ Todas as atividades a serem realizadas devem estar elencadas em tópicos e ao se
 - [ ] Task 3
 
 ### 2.2. Critérios de aceitação
-Caso os critérios de aceitação já tenham sido claramente definidos pela equipe, sobretudo pelo Product Owner, acrescentá-los na forma a seguir. Caso contrário, estes devem ser adicionados em um comentário pelo PO.
+<p align="justify"> &emsp;&emsp;Caso os critérios de aceitação já tenham sido claramente definidos pela equipe, sobretudo pelo <i>Product Owner</i>, acrescentá-los na forma a seguir. Caso contrário, estes devem ser adicionados em um comentário pelo PO.</p>
 
 - [ ] Critério de aceitação 1
 - [ ] Critério de aceitação 2

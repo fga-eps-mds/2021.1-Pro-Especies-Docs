@@ -6,4 +6,5 @@
   - [Metodologia](/Project/Methodology.md)
 
 - **Lean Inception**
-  - [2021-08-01 - Abertura da Lean Inception](/LeanInception/Meetings/31072021LeanInceptionPlanning.md)
+  - [01/08/2021 - Abertura da Lean Inception](/LeanInception/Meetings/31072021LeanInceptionPlanning.md)
+  - [04/08/2021 - KickOff, Visão de Produto e É/NÃO É/FAZ/NÃO FAZ](/LeanInception/Meetings/04082021LeanInception.md)

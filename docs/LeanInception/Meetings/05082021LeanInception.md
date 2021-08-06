@@ -4,6 +4,10 @@
 |:----------:|:------:|:--------------------:|:-----------------:|
 | 06/08/2021 | 1.0 | Criação do documento de Objetivos do Produto, *Personas* e *Brainstorming*  | [Lucas Fellipe](https://github.com/lucasfcm9) |
 
+**Data**: 05 de Agosto de 2021
+
+**Redigida por**: Lucas Fellipe
+
 **Participantes**:
 
 - Daniel Coimbra (MDS)

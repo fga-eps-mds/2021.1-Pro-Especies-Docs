@@ -3,6 +3,7 @@
 | Data       | Versão | Descrição            | Autor             |
 |:----------:|:------:|:--------------------:|:-----------------:|
 | 05/08/2021 | 1.0 | Criação do documento de KickOff, Visão de Produto e O Produto É/NÃO É/FAZ/NÃO FAZ  | [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 06/08/2021 | 1.1 | Atualização da Agenda do Lean Inception do documento de KickOff, Visão de Produto e O Produto É/NÃO É/FAZ/NÃO FAZ  | [João Pedro Guedes](https://github.com/sudjoao) |
 
 "***Pense pelo grande, comece pelo pequeno e aprenda rápido***".
 
@@ -44,9 +45,10 @@ Como vai funcionar a *Lean Inception*:
 |:----------:|:-------:|:---------------------------------------------------------------------------------------------------:|:------------:|
 | 04/08/2021 | 18:00   | Reunião para realizar as atividades de *Kickoff*, Visão do Produto e O Produto É/NÃO É/FAZ/NÃO FAZ  | Todos        |
 | 05/08/2021 | 19:30   | Reunião para realizar as atividades de Objetivos do Produto, Personas e Brainstorming               | Todos        |
-| 06/08/2021 | 18:00   | Reunião para realizar as atividades de Revisão Técnica de UX e de Negócios, Sequenciador e Jornadas | Todos        |
-| 07/08/2021 | 18:00   | Reunião para a construção do CANVAS MVP e *SHOWCASE*                                                | Todos        |
-| 08/08/2021 | 18:00   | *SHOWCASE*                                                                                          | Todos        |
+| 06/08/2021 | 18:00   | Reunião para realizar as atividades de Revisão Técnica de UX e de Negócios, Sequenciador            | Todos        |
+| 07/08/2021 | 14:00   | Reunião para a construção das  Jornadas de Usuário e CANVAS MVP                                     | Todos        |
+| 08/08/2021 - 10/08/2021 | Assíncrono   |Construção do *SHOWCASE*                                                                                          | Todos        |
+| 10/08/2021 | 20:00   | *SHOWCASE*                                                                                          | Todos        |
 
 ## O que é o Pró-Espécies?
 

@@ -2,7 +2,7 @@
 
 | Data       | Versão | Descrição            | Autor             |
 |:----------:|:------:|:--------------------:|:-----------------:|
-| 05/08/2021 | 1.0 | KickOff, Visão de Produto e É-NÃOÉ-FAZ-NÃOFAZ  | [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 05/08/2021 | 1.0 | Criação do documento de KickOff, Visão de Produto e O Produto É/NÃO É/FAZ/NÃO FAZ  | [Lucas Fellipe](https://github.com/lucasfcm9) |
 
 "***Pense pelo grande, comece pelo pequeno e aprenda rápido***".
 

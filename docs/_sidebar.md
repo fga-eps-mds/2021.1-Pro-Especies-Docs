@@ -9,3 +9,4 @@
 - **Lean Inception**
   - [01/08/2021 - Abertura da Lean Inception](/LeanInception/Meetings/31072021LeanInceptionPlanning.md)
   - [04/08/2021 - KickOff, Visão de Produto e É/NÃO É/FAZ/NÃO FAZ](/LeanInception/Meetings/04082021LeanInception.md)
+  - [05/08/2021 - Objetivos do Produto, Personas e Brainstorming](/LeanInception/Meetings/05082021LeanInception.md)

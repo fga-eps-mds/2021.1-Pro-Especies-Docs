@@ -5,8 +5,6 @@
 | 31/07/2021 |  1.0   | Abertura da *Lean Inception* | [Iuri Severo](https://github.com/iurisevero) |
 | 02/08/2021 |  1.1   | Atualização do documento da abertura da *Lean Inception* e adição da Tabela de Atividades | [Lucas Fellipe](https://github.com/lucasfcm9) |
 
-# Abertura da Lean Inception
-
 **Data**: 31 de Julho de 2021
 
 **Redigida por**: Iuri Severo

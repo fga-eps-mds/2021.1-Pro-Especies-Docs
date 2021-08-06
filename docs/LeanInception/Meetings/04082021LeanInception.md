@@ -8,6 +8,10 @@
 
 Reunião realizada no Gather (Sala de Guerra).
 
+**Data**: 04 de Agosto de 2021
+
+**Redigida por**: Lucas Fellipe
+
 **Participantes**:
 * Daniel Coimbra (MDS)
 * Gabriel Freitas (MDS)

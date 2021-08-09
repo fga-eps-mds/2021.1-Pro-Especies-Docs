@@ -4,6 +4,8 @@
 |:----------:|:------:|:--------------------:|:-----------------:|
 | 09/08/2021 | 1.0 | Criação do documento de Revisão Técnica de Negócios e de UX  | [Lucas Fellipe](https://github.com/lucasfcm9) |
 
+Reunião realizada no *Discord*.
+
 **Data**: 06 de Agosto de 2021
 
 **Redigida por**: Lucas Fellipe

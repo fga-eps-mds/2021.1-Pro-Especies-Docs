@@ -11,3 +11,4 @@
   - [04/08/2021 - KickOff, Visão de Produto e É/NÃO É/FAZ/NÃO FAZ](/LeanInception/Meetings/04082021LeanInception.md)
   - [05/08/2021 - Objetivos do Produto, Personas e Brainstorming](/LeanInception/Meetings/05082021LeanInception.md)
   - [06/08/2021 - Revisão Técnica de Negócios e de UX](/LeanInception/Meetings/06082021LeanInception.md)
+  - [07/08/2021 - Jornadas de Usuários e Sequenciador](/LeanInception/Meetings/07082021LeanInception.md)

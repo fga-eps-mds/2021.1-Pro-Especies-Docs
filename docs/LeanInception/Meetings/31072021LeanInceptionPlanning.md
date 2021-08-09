@@ -6,6 +6,8 @@
 | 02/08/2021 |  1.1   | Atualização do documento da abertura da *Lean Inception* e adição da Tabela de Atividades | [Lucas Fellipe](https://github.com/lucasfcm9) |
 | 09/08/2021 |  1.2   | Atualização da Tabela de Atividades | [Lucas Fellipe](https://github.com/lucasfcm9) |
 
+Reunião realizada no *Gather*.
+
 **Data**: 31 de Julho de 2021
 
 **Redigida por**: Iuri Severo

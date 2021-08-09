@@ -35,7 +35,7 @@
 ## Kanban
 
 - **Visualização do fluxo de trabalho**: Consiste em ter um modelo visual do fluxo de trabalho da equipe, onde é possível verificar todas as atividades e em qual etapa do processo ela se encontra. Existem vários benefícios dessa prática, como a transparência, a identificação de desperdícios, o aumento da comunicação e o aumento da colaboração.
-- A equipe utilizará o ***ZenHub*** para o Kanban.
+- A equipe utilizará o ***Projects*** do GitHub para o Kanban.
 
 ## Referências
 

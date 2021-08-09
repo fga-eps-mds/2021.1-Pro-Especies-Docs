@@ -8,7 +8,7 @@
 
 "***Pense pelo grande, comece pelo pequeno e aprenda rápido***".
 
-Reunião realizada no Gather (Sala de Guerra).
+Reunião realizada no *Gather*.
 
 **Data**: 04 de Agosto de 2021
 

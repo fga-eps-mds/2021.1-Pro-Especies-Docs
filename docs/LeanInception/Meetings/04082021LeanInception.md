@@ -3,6 +3,7 @@
 | Data       | Versão | Descrição            | Autor             |
 |:----------:|:------:|:--------------------:|:-----------------:|
 | 05/08/2021 | 1.0 | Criação do documento de KickOff, Visão de Produto e O Produto É/NÃO É/FAZ/NÃO FAZ  | [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 09/08/2021 | 1.1 | Atualização da agenda de atividades  | [Lucas Fellipe](https://github.com/lucasfcm9) |
 
 "***Pense pelo grande, comece pelo pequeno e aprenda rápido***".
 
@@ -44,9 +45,9 @@ Como vai funcionar a *Lean Inception*:
 |:----------:|:-------:|:---------------------------------------------------------------------------------------------------:|:------------:|
 | 04/08/2021 | 18:00   | Reunião para realizar as atividades de *Kickoff*, Visão do Produto e O Produto É/NÃO É/FAZ/NÃO FAZ  | Todos        |
 | 05/08/2021 | 19:30   | Reunião para realizar as atividades de Objetivos do Produto, Personas e Brainstorming               | Todos        |
-| 06/08/2021 | 18:00   | Reunião para realizar as atividades de Revisão Técnica de UX e de Negócios, Sequenciador e Jornadas | Todos        |
-| 07/08/2021 | 18:00   | Reunião para a construção do CANVAS MVP e *SHOWCASE*                                                | Todos        |
-| 08/08/2021 | 18:00   | *SHOWCASE*                                                                                          | Todos        |
+| 06/08/2021 | 18:00   | Reunião para realizar a atividade de Revisão Técnica de UX e de Negócios                            | Todos        |
+| 07/08/2021 | 14:00   | Reunião para a realizar as atividades de Jornadas e Sequenciador                                    | Todos        |
+| 09/08/2021 | 19:30   | Reunião para a construção do CANVAS MVP e *SHOWCASE*                                                | Todos        |
 
 ## O que é o Pró-Espécies?
 

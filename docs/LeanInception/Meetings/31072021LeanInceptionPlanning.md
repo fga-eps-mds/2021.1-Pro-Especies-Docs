@@ -4,6 +4,7 @@
 | :--------: | :----: | :-----------------------: | :---------------------------: |
 | 31/07/2021 |  1.0   | Abertura da *Lean Inception* | [Iuri Severo](https://github.com/iurisevero) |
 | 02/08/2021 |  1.1   | Atualização do documento da abertura da *Lean Inception* e adição da Tabela de Atividades | [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 09/08/2021 |  1.2   | Atualização da Tabela de Atividades | [Lucas Fellipe](https://github.com/lucasfcm9) |
 
 **Data**: 31 de Julho de 2021
 
@@ -69,6 +70,6 @@ Esse primeiro planning foi dividido em duas reuniões, uma inicial obrigatória 
 |:----------:|:-------:|:---------------------------------------------------------------------------------------------------:|:------------:|
 | 04/08/2021 | 18:00   | Reunião para realizar as atividades de *Kickoff*, Visão do Produto e O Produto É/NÃO É/FAZ/NÃO FAZ  | Todos        |
 | 05/08/2021 | 19:30   | Reunião para realizar as atividades de Objetivos do Produto, Personas e Brainstorming               | Todos        |
-| 06/08/2021 | 18:00   | Reunião para realizar as atividades de Revisão Técnica de UX e de Negócios, Sequenciador e Jornadas | Todos        |
-| 07/08/2021 | 14:00   | Reunião para a construção do CANVAS MVP e *SHOWCASE*                                                | Todos        |
-| 09/08/2021 | 18:00   | *SHOWCASE*                                                                                          | Todos        |
+| 06/08/2021 | 18:00   | Reunião para realizar a atividade de Revisão Técnica de UX e de Negócios                            | Todos        |
+| 07/08/2021 | 14:00   | Reunião para a realizar as atividades de Jornadas e Sequenciador                                    | Todos        |
+| 09/08/2021 | 19:30   | Reunião para a construção do CANVAS MVP e *SHOWCASE*                                                | Todos        |

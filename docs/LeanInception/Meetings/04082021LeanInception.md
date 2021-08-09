@@ -46,16 +46,10 @@ Como vai funcionar a *Lean Inception*:
 |:----------:|:-------:|:---------------------------------------------------------------------------------------------------:|:------------:|
 | 04/08/2021 | 18:00   | Reunião para realizar as atividades de *Kickoff*, Visão do Produto e O Produto É/NÃO É/FAZ/NÃO FAZ  | Todos        |
 | 05/08/2021 | 19:30   | Reunião para realizar as atividades de Objetivos do Produto, Personas e Brainstorming               | Todos        |
-<<<<<<< HEAD
-| 06/08/2021 | 18:00   | Reunião para realizar a atividade de Revisão Técnica de UX e de Negócios                            | Todos        |
-| 07/08/2021 | 14:00   | Reunião para a realizar as atividades de Jornadas e Sequenciador                                    | Todos        |
-| 09/08/2021 | 19:30   | Reunião para a construção do CANVAS MVP e *SHOWCASE*                                                | Todos        |
-=======
-| 06/08/2021 | 18:00   | Reunião para realizar as atividades de Revisão Técnica de UX e de Negócios, Sequenciador            | Todos        |
-| 07/08/2021 | 14:00   | Reunião para a construção das  Jornadas de Usuário e CANVAS MVP                                     | Todos        |
-| 08/08/2021 - 10/08/2021 | Assíncrono   |Construção do *SHOWCASE*                                                                                          | Todos        |
+| 06/08/2021 | 18:00   | Reunião para realizar as atividades de Revisão Técnica de Negócios e de UX                          | Todos        |
+| 07/08/2021 | 14:00   | Reunião para a construção das Jornadas de Usuário e Sequenciador                                    | Todos        |
+| 09/08/2021 | 19:30   | Reunião para a construção do CANVAS MVP                                                             | Todos        |
 | 10/08/2021 | 20:00   | *SHOWCASE*                                                                                          | Todos        |
->>>>>>> refs/remotes/origin/main
 
 ## O que é o Pró-Espécies?
 

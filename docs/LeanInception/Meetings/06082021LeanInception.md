@@ -1,5 +1,9 @@
 # Revisão Técnica de Negócios e de UX
 
+| Data       | Versão | Descrição            | Autor             |
+|:----------:|:------:|:--------------------:|:-----------------:|
+| 09/08/2021 | 1.0 | Criação do documento de Revisão Técnica de Negócios e de UX  | [Lucas Fellipe](https://github.com/lucasfcm9) |
+
 **Data**: 06 de Agosto de 2021
 
 **Redigida por**: Lucas Fellipe
@@ -20,7 +24,7 @@ Hoje vai acontecer a seguinte atividade: **Revisão Técnica de Negócios e de U
 
 ## Revisão Técnica de Negócios e UX
 
-Essa etapa tem o objetivo de verificar como a equipe se sente em relação ao entendimento técnico, o de negócio e o de UX para cada funcionalidade definida nas etapas anteriores. Aqui vamos verificar qual é o esforço necessário para realizar tal atividade, o valor de negócio e o valor de usuário. É uma etapa bem importante para a definição do MVP. Os níveis são: baixo, médio e alto. Cada integrante da equipe escolheu uma funcionalidade e falou sua opinião em relação ao esforço, ao valor de negócio e ao valor de usuário. 
+<p align="justify"> &emsp;&emsp;Essa etapa tem o objetivo de verificar como a equipe se sente em relação ao entendimento técnico, o de negócio e o de UX para cada funcionalidade definida nas etapas anteriores. Aqui vamos verificar qual é o esforço necessário para realizar tal atividade, o valor de negócio e o valor de usuário. É uma etapa bem importante para a definição do MVP. Os níveis são: baixo, médio e alto. Cada integrante da equipe escolheu uma funcionalidade e falou sua opinião em relação ao esforço, ao valor de negócio e ao valor de usuário.</p>
 
 **Significado dos símbolos**:
 
@@ -58,4 +62,4 @@ A tabela mostra os resultados:
 |       Compartilhar pescas em redes sociais      |         E        |         $        |         ❤️        |
 |        PBL (Pontos, medalhas e *ranking*)       |        EE        |        $$        |         ❤️        |
 
-Logo após a realização da tabela, a equipe utilizou o gráfico de farol para definir o nível de confiança (o que fazer?) e (como fazer?) para cada funcionalidade.
+Logo após a realização da tabela, a equipe utilizou o gráfico de farol para definir o nível de confiança (o que fazer?) e (como fazer?) para cada funcionalidade. No geral, a equipe foi bem unânime nas respostas.

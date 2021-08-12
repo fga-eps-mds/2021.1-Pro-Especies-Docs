@@ -5,6 +5,7 @@
 - **Definição de Metodologia**
   - [Metodologia](/Project/Methodology.md)
   - [Plano de Gerenciamento de Comunicação](/Project/CommunicationPlan.md)
+  - [Gráfico de Gantt](/Project/GanttChartSchedule.md)
 
 - **Lean Inception**
   - [01/08/2021 - Abertura da Lean Inception](/LeanInception/Meetings/31072021LeanInceptionPlanning.md)

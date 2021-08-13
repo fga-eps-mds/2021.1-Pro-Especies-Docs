@@ -14,3 +14,7 @@
   - [06/08/2021 - Revisão Técnica de Negócios e de UX](/LeanInception/Meetings/06082021LeanInception.md)
   - [07/08/2021 - Jornadas de Usuários e Sequenciador](/LeanInception/Meetings/07082021LeanInception.md)
   - [09/08/2021 - Canvas MVP](/LeanInception/Meetings/09082021LeanInception.md)
+  - [10/08/2021 - Showcase](/LeanInception/Meetings/10082021LeanInception.md)
+
+  - **Protótipos**
+    - [Protótipo de Baixa Fidelidade](/Project/LowFidelityPrototype.md)

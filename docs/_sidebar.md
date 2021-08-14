@@ -18,3 +18,6 @@
 
   - **Protótipos**
     - [Protótipo de Baixa Fidelidade](/Project/LowFidelityPrototype.md)
+
+  - **Projeto**
+    - [Plano de Gerenciamento de Riscos](/Project/RiskPlan.md)

@@ -6,6 +6,7 @@
 | 13/08/2021 | 1.1 | Adição do protótipo 1  | [Paulo Henrique](https://github.com/phrezende-eng) |
 | 14/08/2021 | 1.2 | Adição do protótipo 2  | [Daniel Coimbra](https://github.com/DanielCoimbra) |
 | 14/08/2021 | 1.3 | Adição do protótipo 3  | [Natan Tavares Santana](https://github.com/Neitan2001) |
+| 15/08/2021 | 1.4 | Adição do protótipo 4 | [Gabriel Freitas](https://github.com/gabrielfreitass1) |
 
 ## Protótipo 1 - Paulo Henrique
 - ![1](/docs/Assets/Images/LowFidelityPrototype/PauloHenrique/1.jpg)
@@ -17,8 +18,8 @@
 - ![1](/docs/Assets/Images/LowFidelityPrototype/NatanTavaresSantana/1.jpg)
 - ![2](/docs/Assets/Images/LowFidelityPrototype/NatanTavaresSantana/2.jpg)
 
-## Protótipo 4 - <nome>
-![]()
+## Protótipo 4 - Gabriel Freitas
+- ![Projeto de Baixa Fidelidade](/docs/Assets/Images/LowFidelityPrototype/GabrielFreitas/PrototipoBaixaFidelidade.jpg)
 
 ## Protótipo 5 - <nome>
 ![]()

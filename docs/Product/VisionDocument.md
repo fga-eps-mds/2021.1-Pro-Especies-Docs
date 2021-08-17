@@ -75,3 +75,52 @@ prioritários para a conservação das espécies ameaçadas.</p>
   <tr><th> Diferente de  </th><td>Pesca+ e iNaturalist</td></tr>
   <tr><th> Nosso produto  </th><td>tem praticidade de acesso a informação, é acessível e focado na preservação das espécies de peixes</td></tr>
 </table>
+
+## 3. Descrições da Parte Interessada e do Usuário
+
+### 3.1 Resumo da Parte Interessada:
+| **Nomes**                                   | **Descrição**                                                                                                | #Responsabilidades** |
+|---------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------|
+| Equipe de Desenvolvimento de Software       | Estudantes da disciplina de Métodos de Desenvolvimento de Software, da Universidade de Brasília. | xx                   |
+| Equipe de Engenharia de Produto de Software | Estudantes da disciplina de Engenharia de Produto de Software, da Universidade de Brasília.      | xx                   |
+| Equipe de Orientação                        | Professores e monitores das disciplinas de EPS e MDS.                                            | xxx                  |
+
+### 3.2 Resumo do Usuário:
+  O <Nome do produto> tem como principal objetivo coletar dados sobre o nicho ecológico de peixes, inicialmente no Estado de Tocantins. Os usuários podem ser dividos em dois grupos principais:
+  [!] O pesquisador, que é quem busca os dados sobre os peixes
+  [!] Os pescadores, sejam guias de pesca, pescadores esportivos ou pescadores recreativos.
+
+### 3.3 Ambiente do Usuário:
+  O usuário irá usar um smartphone para fazer os registros. Como o ambiente será o local de pesca/pesquisa, corpos d'água em geral é importante salientar que a conexão à Internet será escassa.
+
+### 3.4 Perfis das Partes Interessadas:
+  #### 3.4.1 Equipe de Desenvolvimento de Software
+| Representantes                                   | Daniel Coimbra, Gabriel Freitas, Natan Tavares, João Victor, Paulo Henrique|
+|---------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Descrição       | Estudantes da disciplina de Métodos de Desenvolvimento de Software, da Universidade de Brasília. 
+| Responsabilidades       | Estudantes da disciplina de Métodos de Desenvolvimento de Software, da Universidade de Brasília. 
+| Critérios de Sucesso | Estudantes da disciplina de Engenharia de Produto de Software, da Universidade de Brasília.      |
+| Envolvimento                        | Professores e monitores das disciplinas de EPS e MDS.                                            |
+| Comentários ou Problemas                        | Professores e monitores das disciplinas de EPS e MDS.                                            |
+
+#### 3.4.2 Equipe de Engenharia de Produto de Software
+| Representantes                                   | Daniel Coimbra, Gabriel Freitas, Natan Tavares, João Victor, Paulo Henrique|
+|---------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Descrição       | Estudantes da disciplina de Métodos de Desenvolvimento de Software, da Universidade de Brasília. 
+| Responsabilidades       | Estudantes da disciplina de Métodos de Desenvolvimento de Software, da Universidade de Brasília. 
+| Critérios de Sucesso | Estudantes da disciplina de Engenharia de Produto de Software, da Universidade de Brasília.      |
+| Envolvimento                        | Professores e monitores das disciplinas de EPS e MDS.                                            |
+| Comentários ou Problemas                        | Professores e monitores das disciplinas de EPS e MDS.                                            |
+
+#### 3.4.3 Equipe de Orientação
+| Representantes                                   | Daniel Coimbra, Gabriel Freitas, Natan Tavares, João Victor, Paulo Henrique|
+|---------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Descrição       | Estudantes da disciplina de Métodos de Desenvolvimento de Software, da Universidade de Brasília. 
+| Responsabilidades       | Estudantes da disciplina de Métodos de Desenvolvimento de Software, da Universidade de Brasília. 
+| Critérios de Sucesso | Estudantes da disciplina de Engenharia de Produto de Software, da Universidade de Brasília.      |
+| Envolvimento                        | Professores e monitores das disciplinas de EPS e MDS.                                            |
+| Comentários ou Problemas                        | Professores e monitores das disciplinas de EPS e MDS.                                            |
+
+
+### 3.5 Perfis do Usuário
+### 3.6 Principais Necessidades da Parte Interessada ou do Usuário:

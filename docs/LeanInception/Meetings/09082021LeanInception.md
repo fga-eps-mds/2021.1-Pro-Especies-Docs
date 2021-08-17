@@ -3,6 +3,7 @@
 | Data       | Versão | Descrição            | Autor             |
 |:----------:|:------:|:--------------------:|:-----------------:|
 | 10/08/2021 | 1.0 | Criação do documento do Canvas MVP  | [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 14/08/2021 | 1.1 | Adição da versão 2.0 do Canvas MVP  | [Lucas Fellipe](https://github.com/lucasfcm9) |
 
 Reunião realizada no *Discord*.
 
@@ -80,4 +81,8 @@ Custo e Cronograma:
     - Semana 2 - Onda 2 e Onda 3;
     - Semana 3 - Onda 4.
 
-![CanvasMVP](../../Assets/Images/LeanInception/CanvasMVP.png)
+# Canvas MVP v1.0
+![CanvasMVP1.0](../../Assets/Images/LeanInception/CanvasMVP1.0.png)
+
+# Canvas MVP v2.0
+![CanvasMVP1.0](../../Assets/Images/LeanInception/CanvasMVP2.0.png)

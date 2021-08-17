@@ -26,5 +26,5 @@ O grupo realizou o protótipo no [Figma](https://www.figma.com/file/s6YfyPkDcku8
 
 
 ## Referências
-- *Fidelidade de protótipos: Baixa, Média ou Alta, conheça os tipos*. NEVES, Rodrigo. Disponível em < https://www.vitaminaweb.com.br/fidelidade-de-prototipos-baixa-media-ou-alta/ >
-- *Protótipos de baixa, média e alta fidelidade*. ALEX, Jefferson. Disponível em < https://jeffersonalex.com.br/blog/2017/05/07/prototipos-de-baixa-media-e-alta-fidelidade/ >
+- *Fidelidade de protótipos: Baixa, Média ou Alta, conheça os tipos*. NEVES, Rodrigo. Disponível em < https://www.vitaminaweb.com.br/fidelidade-de-prototipos-baixa-media-ou-alta/ >. Acesso em: 13 ago. 2021.
+- *Protótipos de baixa, média e alta fidelidade*. ALEX, Jefferson. Disponível em < https://jeffersonalex.com.br/blog/2017/05/07/prototipos-de-baixa-media-e-alta-fidelidade/ >. Acesso em: 14 ago. 2021.

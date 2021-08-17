@@ -21,3 +21,6 @@
 
   - **Projeto**
     - [Plano de Gerenciamento de Riscos](/Project/RiskPlan.md)
+- **Sprints**
+  - [09/08/2021 - Abertura da *Sprint* 0](/Sprints/Sprint0/09082021Sprint0Opening.md)
+  - [14/08/2021 - Fechamento da *Sprint* 0](/Sprints/Sprint0/14082021Sprint0Closure.md)

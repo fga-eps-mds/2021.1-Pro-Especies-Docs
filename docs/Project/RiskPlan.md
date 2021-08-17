@@ -156,5 +156,5 @@ Risco <= 5: Baixo.
 
 ## Referências
 
-* FILHO, Ateldy; GOMES, Vitor; SOUZA, João; DANTAS, Bruno; Ada - Plano de Gerenciamento de Riscos. Disponível em: https://fga-eps-mds.github.io/2019.1-ADA/#/docs/project/risk_management_plan>. Acesso em: 13 ago. 2021.
+* FILHO, Ateldy; GOMES, Vitor; SOUZA, João; DANTAS, Bruno; Ada - Plano de Gerenciamento de Riscos. Disponível em: <https://fga-eps-mds.github.io/2019.1-ADA/#/docs/project/risk_management_plan>. Acesso em: 13 ago. 2021.
 * Aula13-1 - Gerenciamento dos Riscos: Processo: Planejar o gerenciamento dos riscos. Disponível em: <https://www.youtube.com/watch?v=HDMS7ftQJb0&feature=youtu.be>. Acesso em: 13 ago. 2021.

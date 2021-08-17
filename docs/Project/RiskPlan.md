@@ -6,18 +6,17 @@
 
 ## 1. Introdução
 
-<p align="justify"> &emsp;&emsp;O plano de gerenciamento de riscos fornece informações sobre papéis e responsabilidades relativas aos riscos, indica como as atividades do gerenciamento dos riscos são incluídas no orçamento e no cronograma. Além disso, descreve as categorias de risco que podem ser expressas como uma EAR (Estrutura Analítica dos Riscos).</p>
+<p align="justify"> &emsp;&emsp;O Plano de Gerenciamento de Riscos fornece informações sobre papéis e responsabilidades relativas aos riscos, indicando como as atividades do gerenciamento dos riscos são incluídas no orçamento e no cronograma do projeto. Além disso, descreve as categorias de risco que podem ser expressas como uma EAR (Estrutura Analítica dos Riscos).</p>
 
 ## 2. Objetivo
 
-<p align="justify"> &emsp;&emsp;O plano de gerenciamento de riscos tem como objetivo descrever quais são os riscos do projeto, como eles serão monitorados e controlados ao longo das <i>sprints</i>, visando entender seus impactos, procurando formas de mitigar esses possíveis riscos.</p>
+<p align="justify"> &emsp;&emsp;O plano de gerenciamento de riscos tem como objetivo descrever quais são os riscos do projeto, como eles serão monitorados e controlados ao longo das <i>sprints</i>, visando entender seus impactos e procurando formas de mitigar esses possíveis riscos.</p>
 
 <p align="justify"> &emsp;&emsp;A EAR facilita a identicação dos riscos em projetos. Tem por função mostrar as principais categorias de riscos para um projeto, auxiliando como guia para análise do contexto, da documentação e para o questionamento das partes interessadas, buscando ganho de tempo na identificação dos riscos. Os riscos podem ser divididos nas seguintes categorias:</p>
 
 ## 3. Estrutura Analítica dos Riscos
 
--- Imagem
-
+![EAR](../Assets/Images/EAR/EAR.png)
 
 
 * Riscos Técnicos:
@@ -69,11 +68,11 @@
 
 | **Probabilidade** |  Certeza  | **Peso** |
 | :---------------: | :-------: | :------: |
-|    Muito baixa    |  0 - 20%  |    1     |
-|       Baixa       | 20 - 40%  |    2     |
-|       Média       | 40 - 60%  |    3     |
-|       Alta        | 60 - 80%  |    4     |
-|    Muito Alta     | 80 - 100% |    5     |
+|    Muito baixa    |  < 10%        |    1     |
+|       Baixa       | de 10% a 25%  |    2     |
+|       Média       | de 25% a 50%  |    3     |
+|       Alta        | de 50% a 75%  |    4     |
+|    Muito Alta     | > 75%         |    5     |
 
 ### Tabela 4.2 - Impacto
 
@@ -149,7 +148,7 @@ Risco <= 5: Baixo.
 |  13  | Muito Alto |  Muito Alta   |    25     | Realizar a refatoração do código e dos testes e, além disso, validações com o cliente | Realizar treinamento de todas as tecnologias utilizadas, garantir a realização de testes, boas práticas de programação e validações com o cliente |
 |  14  |    Alto    |     Média     |    12     | Realocar as tarefas entre os membros da equipe que possuem equipamentos sem defeitos |      Incentivar a manutenção recorrente de equipamentos      |
 |  15  | Muito Alto |  Muito baixa  |     5     |  Oferecer a melhor possibilidade de produto para o cliente   |          Manter comunicação constante com o cliente          |
-|  16  | Muito Alto |     Média     |    15     |         Aceitar o risco pois não pode-se fazer nada          |                              -                               |
+|  16  | Muito Alto |     Média     |    15     |  Realocar as atividades entre os membros da equipe          |                                  Conversar com a equipe a fim de reatribuir todas as tarefas enquanto o(s) membro(s) está(ão) ausente(s)                           |
 |  17  |    Alto    |     Alta      |    16     | Procurar ajuda de professores, alunos e pessoas fora do ambiente universitário e aumentar o tempo de estudo | Realização de pesquisas constantes e consultoria com outros alunos, professores e pessoas fora do ambiente universitário |
 |  18  |    Alto    |     Média     |    12     | Conversar com os membros imaturos e mostrar que o projeto deve ser levado a sério | Manter o pensamento crítico e estratégico a respeito das métricas coletadas e realizando todos os rituais das metologias definidas |
 

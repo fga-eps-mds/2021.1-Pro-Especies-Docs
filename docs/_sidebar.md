@@ -17,7 +17,11 @@
   - [10/08/2021 - Showcase](/LeanInception/Meetings/10082021LeanInception.md)
 
   - **Protótipos**
+    - [Protótipo de Baixa Fidelidade](/Project/LowFidelityPrototype.md)
     - [Protótipo de Média Fidelidade](/Project/MediumFidelityPrototype.md)
+
+  - **Projeto**
+    - [Plano de Gerenciamento de Riscos](/Project/RiskPlan.md)
 
 - **Sprints**
   - [09/08/2021 - Abertura da *Sprint* 0](/Sprints/Sprint0/09082021Sprint0Opening.md)

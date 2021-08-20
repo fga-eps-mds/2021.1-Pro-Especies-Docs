@@ -2,18 +2,13 @@
 
 | Data       | Versão | Descrição            | Autor             |
 |:----------:|:------:|:--------------------:|:-----------------:|
-<<<<<<< HEAD
-| 16/08/2021 | 1.0 | Criação do documento de visão  | [Natan Tavares Santana](https://github.com/Neitan2001) |
-| 16/08/2021 | 1.1 | Tópico 1  | [Natan Tavares Santana](https://github.com/Neitan2001) |
-| 17/08/2021 | 1.2 | Tópico 2  | [Natan Tavares Santana](https://github.com/Neitan2001) |
-=======
-| 16/08/2021 | 0.1 | Criação do documento de visão  | [Natan Tavares Santana](https://github.com/Neitan2001) |
+ 16/08/2021 | 0.1 | Criação do documento de visão  | [Natan Tavares Santana](https://github.com/Neitan2001) |
 | 16/08/2021 | 0.2 | Introdução  | [Natan Tavares Santana](https://github.com/Neitan2001) |
 | 17/08/2021 | 0.3 | Posicionamento  | [Natan Tavares Santana](https://github.com/Neitan2001) |
 | 19/08/2021 | 0.4 | Visão Geral do Produto e Restrições  | [João Victor Batista](https://github.com/jvBatista) |
-| 20/08/2021 | 0.5 | Recursos do Produto | [Gabriel Freitas Balbino](https://github.com/gabrielfreitass1 |
+| 20/08/2021 | 0.5 | Recursos do Produto | [Gabriel Freitas Balbino](https://github.com/gabrielfreitass1) |
 | 20/08/2021 | 0.6 | Descrições da Parte Interessada e do Usuário  | [Daniel Coimbra dos Santos](https://github.com/DanielCoimbra) |
->>>>>>> 5a976a1d5168b2f06d408aa317287cc8a5eb90d2
+
 ## 1. Introdução
 
 ### 1.1 Propósito

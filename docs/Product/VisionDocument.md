@@ -2,9 +2,10 @@
 
 | Data       | Versão | Descrição            | Autor             |
 |:----------:|:------:|:--------------------:|:-----------------:|
-| 16/08/2021 | 1.0 | Criação do documento de visão  | [Natan Tavares Santana](https://github.com/Neitan2001) |
-| 16/08/2021 | 1.1 | Tópico 1  | [Natan Tavares Santana](https://github.com/Neitan2001) |
-| 17/08/2021 | 1.2 | Tópico 2  | [Natan Tavares Santana](https://github.com/Neitan2001) |
+| 16/08/2021 | 0.1 | Criação do documento de visão  | [Natan Tavares Santana](https://github.com/Neitan2001) |
+| 16/08/2021 | 0.2 | Introdução  | [Natan Tavares Santana](https://github.com/Neitan2001) |
+| 17/08/2021 | 0.3 | Posicionamento  | [Natan Tavares Santana](https://github.com/Neitan2001) |
+| 19/08/2021 | 0.4 | Visão Geral do Produto e Restrições  | [João Victor Batista](https://github.com/jvBatista) |
 
 ## 1. Introdução
 
@@ -75,3 +76,25 @@ prioritários para a conservação das espécies ameaçadas.</p>
   <tr><th> Diferente de  </th><td>Pesca+ e iNaturalist</td></tr>
   <tr><th> Nosso produto  </th><td>tem praticidade de acesso a informação, é acessível e focado na preservação das espécies de peixes</td></tr>
 </table>
+
+## 4. Visão Geral do Produto
+
+### 4.1 Perspectiva do Produto
+
+<p>&emsp;&emsp;O produto tem por objetivo principal a disponibilização de informações a respeito da fauna aquática (principalmente peixes) do Brasil, inicialmente com ênfase no estado do Tocatins. Diferentemente dos demais no mercado, que buscam, em sua maioria, incetivar a prática da pesca, o produto aborda o tema da pesca visando facilitar o levantamento e recolhimento de dados para pesquisadores da área de ictiologia da região e, assim, ajudar a preservação de tais espécies de peixes. Dessa forma, o produto possui funcionalidades que incentivam a participação de pescadores locais, não reforçando a prática da pesca em si, mas sim, procurando a colaboração de tais profissionais para que possam, através do preenchimento e envio de relatórios, contribuir com a coleta de dados científicos.</p>
+
+### 4.2 Resumo das Capacidades
+
+| Benefício para o Cliente | Recursos de Suporte |
+|-|-|
+| Facilitar o recolhimento de dados científicos para usuários pesquisadores, para os quais faltam tempo, recursos e acesso a áreas mais remotas | Sistema de criação e envio de relatórios flexíveis por parte dos usuários pescadores para os pesquisadores, como alternativa a pesquisas de campo |
+| Disponibilizar, para os usuários pescadores, informações a respeito de espécies de peixes da região | Sistema de biblioteca que contém informações, fornecidas pelos pesquisadores, a respeito de variadas espécies de peixes |
+| Disponibilizar, para os usuários pescadores, referências sobre a localização de espécies de peixes da região | Sistema de mapeamento da região foco do produto com indicação da localização de espécies de peixes selecionadas pelos pesquisadores |
+
+## 6. Restrições
+
+- Acesso à internet;
+
+- Acesso a um dispositivo com sistema operacional **Android API 19** ou superior e/ou **iOS 9** ou superior;
+
+- Toda interação com o aplicativio deve ser feita de forma intuitiva e natural, de modo que o usuário não tenha dúvidas sobre como realizar determinada ação dentro da plataforma. As funcionalidades as quais os usuários têm acesso devem ser de fácil entendimento, dessa forma, a complexidade e dinamismo das funcionalidades serão limitados, visando priorizar a clareza e acessibilidade do produto.

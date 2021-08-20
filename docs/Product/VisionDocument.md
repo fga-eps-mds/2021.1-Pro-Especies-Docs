@@ -6,7 +6,7 @@
 | 16/08/2021 | 0.2 | Introdução  | [Natan Tavares Santana](https://github.com/Neitan2001) |
 | 17/08/2021 | 0.3 | Posicionamento  | [Natan Tavares Santana](https://github.com/Neitan2001) |
 | 19/08/2021 | 0.4 | Visão Geral do Produto e Restrições  | [João Victor Batista](https://github.com/jvBatista) |
-
+| 20/08/2021 | 0.5 | Recursos do Produto | [Gabriel Freitas Balbino](https://github.com/gabrielfreitass1 |
 ## 1. Introdução
 
 ### 1.1 Propósito
@@ -90,6 +90,20 @@ prioritários para a conservação das espécies ameaçadas.</p>
 | Facilitar o recolhimento de dados científicos para usuários pesquisadores, para os quais faltam tempo, recursos e acesso a áreas mais remotas | Sistema de criação e envio de relatórios flexíveis por parte dos usuários pescadores para os pesquisadores, como alternativa a pesquisas de campo |
 | Disponibilizar, para os usuários pescadores, informações a respeito de espécies de peixes da região | Sistema de biblioteca que contém informações, fornecidas pelos pesquisadores, a respeito de variadas espécies de peixes |
 | Disponibilizar, para os usuários pescadores, referências sobre a localização de espécies de peixes da região | Sistema de mapeamento da região foco do produto com indicação da localização de espécies de peixes selecionadas pelos pesquisadores |
+
+## 5. Recursos do Produto
+
+### 5.1 Realizar Relatórios
+<p>&emsp;&emsp;O usuário consegue fazer um relatório sobre um peixe e manda-lo para um pesquisador analisa-lo.</p>
+
+### 5.2 Ajudar Pesquisadores
+<p>&emsp;&emsp;Pesquisadores previamente cadastrados conseguem ver relatórios feitos por outros usuários e assim identificar novas espécies ou atualizar informações sobre os já existentes.</p>
+
+### 5.3 Georeferência 
+<p>&emsp;&emsp;O usuário consegue visualizar onde é possivel encontrar uma espécie de peixe com a ajuda de um mapa com a georêfencia da espécie.Função não disponível para espécies em risco de extinção.</p>
+
+### 5.4 Biblioteca Virtual
+<p>&emsp;&emsp;O usuário consegue acessar uma biblioteca virtual de peixes pré-cadastrados e visualizar uma foto da espécie e suas informações.</p>
 
 ## 6. Restrições
 

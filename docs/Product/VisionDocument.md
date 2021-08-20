@@ -5,6 +5,7 @@
 | 16/08/2021 | 1.0 | Criação do documento de visão  | [Natan Tavares Santana](https://github.com/Neitan2001) |
 | 16/08/2021 | 1.1 | Tópico 1  | [Natan Tavares Santana](https://github.com/Neitan2001) |
 | 17/08/2021 | 1.2 | Tópico 2  | [Natan Tavares Santana](https://github.com/Neitan2001) |
+| 20/08/2021 | 1.3 | Tópico 3  | [Daniel Coimbra dos Santos](https://github.com/DanielCoimbra) |
 
 ## 1. Introdução
 
@@ -79,48 +80,55 @@ prioritários para a conservação das espécies ameaçadas.</p>
 ## 3. Descrições da Parte Interessada e do Usuário
 
 ### 3.1 Resumo da Parte Interessada:
-| **Nomes**                                   | **Descrição**                                                                                                | #Responsabilidades** |
+| **Nomes**                                   | **Descrição**                                                                                                | **Responsabilidades** |
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------|
 | Equipe de Desenvolvimento de Software       | Estudantes da disciplina de Métodos de Desenvolvimento de Software, da Universidade de Brasília. | xx                   |
 | Equipe de Engenharia de Produto de Software | Estudantes da disciplina de Engenharia de Produto de Software, da Universidade de Brasília.      | xx                   |
 | Equipe de Orientação                        | Professores e monitores das disciplinas de EPS e MDS.                                            | xxx                  |
 
 ### 3.2 Resumo do Usuário:
-  O <Nome do produto> tem como principal objetivo coletar dados sobre o nicho ecológico de peixes, inicialmente no Estado de Tocantins. Os usuários podem ser dividos em dois grupos principais:
-  [!] O pesquisador, que é quem busca os dados sobre os peixes
-  [!] Os pescadores, sejam guias de pesca, pescadores esportivos ou pescadores recreativos.
+  O **Nome do produto** tem como principal objetivo coletar dados sobre o nicho ecológico de peixes, inicialmente no Estado de Tocantins. Os usuários podem ser dividos em dois grupos:
+  [!] O pesquisador, que é quem busca os dados sobre os peixes;
+  [!] e os pescadores, sejam guias de pesca, pescadores esportivos ou pescadores recreativos, os principais agentes da coleta dos dados.
 
 ### 3.3 Ambiente do Usuário:
-  O usuário irá usar um smartphone para fazer os registros. Como o ambiente será o local de pesca/pesquisa, corpos d'água em geral é importante salientar que a conexão à Internet será escassa.
+  O usuário irá usar um smartphone para fazer os registros. Como os locais de pesca/pesquisa serão corpos d'água em geral é importante salientar que a conexão à Internet será escassa. Por esse motivo, o aplicativo suportará a falta de internet durante a composição dos relatórios.
 
 ### 3.4 Perfis das Partes Interessadas:
   #### 3.4.1 Equipe de Desenvolvimento de Software
-| Representantes                                   | Daniel Coimbra, Gabriel Freitas, Natan Tavares, João Victor, Paulo Henrique|
+| **Representantes**                                   | Daniel Coimbra, Gabriel Freitas, Natan Tavares, João Victor, Paulo Henrique|
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| Descrição       | Estudantes da disciplina de Métodos de Desenvolvimento de Software, da Universidade de Brasília. 
-| Responsabilidades       | Estudantes da disciplina de Métodos de Desenvolvimento de Software, da Universidade de Brasília. 
-| Critérios de Sucesso | Estudantes da disciplina de Engenharia de Produto de Software, da Universidade de Brasília.      |
-| Envolvimento                        | Professores e monitores das disciplinas de EPS e MDS.                                            |
-| Comentários ou Problemas                        | Professores e monitores das disciplinas de EPS e MDS.                                            |
+| **Descrição**       | Desenvolvimento do Software.
+| **Tipo**       | Estudantes da disciplina de Métodos de Desenvolvimento de Software, da Universidade de Brasília. 
+| **Responsabilidades**       | Desenvolvimento, implementação e teste do Software. 
+| **Critérios de Sucesso** | Entrega do aplicativo com todas as funcionalidades, dentro do prazo estipulado.
+| **Envolvimento**                        | Alto.| 
+| **Comentários ou Problemas**                        |  \*\*\* \*\*\*
 
 #### 3.4.2 Equipe de Engenharia de Produto de Software
-| Representantes                                   | Daniel Coimbra, Gabriel Freitas, Natan Tavares, João Victor, Paulo Henrique|
+| **Representantes**                                   | Iuri Severo, João Pedro, Lucas Fellipe, Pedro Rodrigues|
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| Descrição       | Estudantes da disciplina de Métodos de Desenvolvimento de Software, da Universidade de Brasília. 
-| Responsabilidades       | Estudantes da disciplina de Métodos de Desenvolvimento de Software, da Universidade de Brasília. 
-| Critérios de Sucesso | Estudantes da disciplina de Engenharia de Produto de Software, da Universidade de Brasília.      |
-| Envolvimento                        | Professores e monitores das disciplinas de EPS e MDS.                                            |
-| Comentários ou Problemas                        | Professores e monitores das disciplinas de EPS e MDS.                                            |
+| **Descrição** | Estudantes da disciplina de Engenharia de Produto de Software, da Universidade de Brasília. 
+| **Responsabilidades**       | Cada um dos alunos tem um responsabilidade diferente na da Equipe: Product Owner, Arquiteto De Software, Engenheiro DevOps e Scrum Master;|---------------------------------------------|--------------------------------------------------------------------------------------------------|
+| **Critérios de Sucesso** | Certificar de manter as entregas dentro do prazo e controlar a qualidade do Software em desenvolvimento|
+| **Envolvimento** | Alto.|
+| **Comentários ou Problemas**| \*\*\* \*\*\*|
 
 #### 3.4.3 Equipe de Orientação
-| Representantes                                   | Daniel Coimbra, Gabriel Freitas, Natan Tavares, João Victor, Paulo Henrique|
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| Descrição       | Estudantes da disciplina de Métodos de Desenvolvimento de Software, da Universidade de Brasília. 
-| Responsabilidades       | Estudantes da disciplina de Métodos de Desenvolvimento de Software, da Universidade de Brasília. 
-| Critérios de Sucesso | Estudantes da disciplina de Engenharia de Produto de Software, da Universidade de Brasília.      |
-| Envolvimento                        | Professores e monitores das disciplinas de EPS e MDS.                                            |
-| Comentários ou Problemas                        | Professores e monitores das disciplinas de EPS e MDS.                                            |
-
+Hilmer Rodrigues Neri, professor da Universidade de Brasília, das matérias Métodos de Desenvolvimento de Software e Engenharia de Produto de Software. Tem como objetivos:
+* Capacitar o aluno a compreender e aplicar conhecimentos de diferentes métodos, ferramentas, procedimentos e paradigmas de desenvolvimento de software.
+* Formar o aluno em diferentes técnicas de como se gerenciar, de forma sistemática e disciplinada, todo o ciclo de vida do software.
 
 ### 3.5 Perfis do Usuário
+  #### 3.5.1 Pesquisador
+  Pesquisadores, terão acesso a áreas restritas do aplicativo. Como leitura e escrita dos relatórios enviados, área para convite de novos pesquisadores, além das demais funcionalidades  do aplicativo. Serão uma espécie de moderador do app.
+  #### 3.5.2 Pescador esportivo
+  Pescadores entusiastas, podem contribuir com suas observações e pescas de espécies da região.
+  #### 3.5.3 Pescador artesanal 
+  Pescadores locais, de linha de frente; Também têm acesso às espécies, seja observando ou pescando podem contribuir para a coleta.
 ### 3.6 Principais Necessidades da Parte Interessada ou do Usuário:
+  #### 3.6.1 Necessidades da Parte Interessada
+  Uma forma de coletar de dados de peixes, inicialmente para o estado de Tocantins. A população que já tem contato com essas espécies poderá ajudar o estado fazendo relatórios sobre pescas e observações e os enviando através do \<Nome do Produto\>.
+  #### 3.6.2 Necessidades do Usuário
+  O usuário irá se beneficiar da biblioteca de dados sobre as espécies de peixes, com grande contribuição da equipe dos Pesquisadores. Também será possível se orientar utilizando georeferência em um mapa.
+  

@@ -18,7 +18,14 @@
 
 - **Produto**
   - [Documento de Visão](/Product/VisionDocument.md)
+- **Protótipos**
+  - [Protótipo de Baixa Fidelidade](/Project/LowFidelityPrototype.md)
+  - [Protótipo de Média Fidelidade](/Project/MediumFidelityPrototype.md)
+
+- **Projeto**
+  - [Plano de Gerenciamento de Riscos](/Project/RiskPlan.md)
 
 - **Sprints**
   - [09/08/2021 - Abertura da *Sprint* 0](/Sprints/Sprint0/09082021Sprint0Opening.md)
   - [14/08/2021 - Fechamento da *Sprint* 0](/Sprints/Sprint0/14082021Sprint0Closure.md)
+  - [16/08/2021 - Abertura da *Sprint* 1](/Sprints/Sprint1/16082021Sprint1Opening.md) 

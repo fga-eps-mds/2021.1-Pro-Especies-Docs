@@ -86,9 +86,9 @@ prioritários para a conservação das espécies ameaçadas.</p>
 ### 3.1 Resumo da Parte Interessada:
 | **Nomes**                                   | **Descrição**                                                                                                | **Responsabilidades** |
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------|
-| Equipe de Desenvolvimento de Software       | Estudantes da disciplina de Métodos de Desenvolvimento de Software, da Universidade de Brasília. | xx                   |
-| Equipe de Engenharia de Produto de Software | Estudantes da disciplina de Engenharia de Produto de Software, da Universidade de Brasília.      | xx                   |
-| Equipe de Orientação                        | Professores e monitores das disciplinas de EPS e MDS.                                            | xxx                  |
+| Equipe de Desenvolvimento de Software       | Estudantes da disciplina de Métodos de Desenvolvimento de Software, da Universidade de Brasília. | Desenvolver e implementar o Software descrito no documento.                   |
+| Equipe de Engenharia de Produto de Software | Estudantes da disciplina de Engenharia de Produto de Software, da Universidade de Brasília.      | Gestão da Equipe de Desenvolvimento, garantindo a viabilidade do produto por meio de entregas contínuas.                   |
+| Equipe de Orientação                        | Professores e monitores das disciplinas de EPS e MDS.                                            | Auxiliar a equipe durante o desenvolvimento do Software.                  |
 
 ### 3.2 Resumo do Usuário:
   O **Nome do produto** tem como principal objetivo coletar dados sobre o nicho ecológico de peixes, inicialmente no Estado de Tocantins. Os usuários podem ser dividos em dois grupos:

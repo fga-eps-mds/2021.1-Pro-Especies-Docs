@@ -1,57 +1,58 @@
 # Documento de Visão
 
-| Data       | Versão | Descrição            | Autor             |
-|:----------:|:------:|:--------------------:|:-----------------:|
- 16/08/2021 | 0.1 | Criação do documento de visão  | [Natan Tavares Santana](https://github.com/Neitan2001) |
-| 16/08/2021 | 0.2 | Introdução  | [Natan Tavares Santana](https://github.com/Neitan2001) |
-| 17/08/2021 | 0.3 | Posicionamento  | [Natan Tavares Santana](https://github.com/Neitan2001) |
-| 19/08/2021 | 0.4 | Visão Geral do Produto e Restrições  | [João Victor Batista](https://github.com/jvBatista) |
-| 20/08/2021 | 0.5 | Recursos do Produto | [Gabriel Freitas Balbino](https://github.com/gabrielfreitass1) |
-| 20/08/2021 | 0.6 | Descrições da Parte Interessada e do Usuário  | [Daniel Coimbra dos Santos](https://github.com/DanielCoimbra) |
-| 21/08/2021 | 0.7 | Precedência e Prioridade, Outros Requisitos do Produto e Requisitos de Documentação | [Paulo Henriuqe Rezende](https://github.com/phrezende-eng) |
-
+|    Data    | Versão |                                      Descrição                                      |                             Autor                              |
+| :--------: | :----: | :---------------------------------------------------------------------------------: | :------------------------------------------------------------: |
+| 16/08/2021 |  0.1   |                            Criação do documento de visão                            |     [Natan Tavares Santana](https://github.com/Neitan2001)     |
+| 16/08/2021 |  0.2   |                                     Introdução                                      |     [Natan Tavares Santana](https://github.com/Neitan2001)     |
+| 17/08/2021 |  0.3   |                                   Posicionamento                                    |     [Natan Tavares Santana](https://github.com/Neitan2001)     |
+| 19/08/2021 |  0.4   |                         Visão Geral do Produto e Restrições                         |      [João Victor Batista](https://github.com/jvBatista)       |
+| 20/08/2021 |  0.5   |                                 Recursos do Produto                                 | [Gabriel Freitas Balbino](https://github.com/gabrielfreitass1) |
+| 20/08/2021 |  0.6   |                    Descrições da Parte Interessada e do Usuário                     | [Daniel Coimbra dos Santos](https://github.com/DanielCoimbra)  |
+| 21/08/2021 |  0.7   | Precedência e Prioridade, Outros Requisitos do Produto e Requisitos de Documentação |   [Paulo Henriuqe Rezende](https://github.com/phrezende-eng)   |
+| 21/08/2021 |  1.0   |                Correção de erros ortográficos e adição de referência                |     [Natan Tavares Santana](https://github.com/Neitan2001)     |
 
 ## 1. Introdução
 
 ### 1.1 Propósito
 
-<p align="justify"> &emsp;&emsp;Este documento tem como objetivo esclarecer e documentar as características e aplicações do desenvolvimento da plataforma Pró-Espécies Peixes (nome em desenvolvimento). A fim de expressar a visão desse <i>software</i>, diversos aspectos relacionados ao mesmo serão expostos.</p>
+<p align="justify"> &emsp;&emsp;Este documento tem como objetivo esclarecer as características e aplicações da plataforma Pró-Espécies Peixes (nome temporário), a fim de expressar a visão deste <i>software</i>, diversos aspectos relacionados ao mesmo serão expostos.</p>
 
 ### 1.2 Escopo
 
-<p align="justify"> &emsp;&emsp;O Pró-Espécies Peixes (nome em desenvolvimento) é um aplicativo <i>mobile</i>, desenvolvido por alunos de Engenharia de Software da UnB do campus da FGA, que possui o objetivo de auxiliar o projeto “Pró-Espécies: Todos contra a extinção” que foi aprovado pela coordenação técnica do Ministério
+<p align="justify"> &emsp;&emsp;O Pró-Espécies Peixes (nome temporário) é um aplicativo <i>mobile</i>, desenvolvido por alunos de Engenharia de Software da UnB do campus da FGA, que possui o objetivo de auxiliar o projeto “Pró-Espécies: Todos contra a extinção” que foi aprovado pela coordenação técnica do Ministério
 do Meio Ambiente em 2014 e tem como agência executora o WWF-Brasil.</p>
 <p align="justify">&emsp;&emsp;Neste projeto estão incluídos os Planos de Ação para conservação de espécies
-avaliadas como criticamente ameaçadas de extinção pelas avaliações nacionais além dos Planos de Ação Territoriais (PATs) para territórios identificados como
+classificadas como criticamente ameaçadas de extinção pelas avaliações nacionais além dos Planos de Ação Territoriais (PATs) para territórios identificados como
 prioritários para a conservação das espécies ameaçadas.</p>
-<p align="justify">&emsp;&emsp;Dito isso, o Pró-Espécies Peixes (nome em desenvolvimento) atua dentro da ação 4.1 do Plano de Ação para conservação das espécies do Território Cerrado Tocantins com a finalidade aumentar o volume de informações disponíveis sobre as espécies de peixes que compõem parte significativa das espécies ameaçadas de extinção no Cerrado brasileiro.</p>
+<p align="justify">&emsp;&emsp;Sendo assim, o Pró-Espécies Peixes (nome temporário) atua dentro da ação 4.1 do Plano de Ação para conservação das espécies do Território Cerrado Tocantins com a finalidade aumentar o volume de informações disponíveis sobre as espécies de peixes que compõem parte significativa das espécies ameaçadas de extinção no Cerrado brasileiro.</p>
 
 ### 1.3 Definições, acrônimos e abreviações
 
-| Termos      | Definição |
-|:----------:|:------:|
-| UnB | Universidade de Brasília | 
-| FGA | Faculdade do Gama | 
-| EPS | Equipe de Engenharia de Produto de Software | 
-| MDS | Equipe de Métodos de Desenvolvimento de Software |
-| Git | Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software|
-| WWF-Brasil | O WWF-Brasil é uma organização da sociedade civil brasileira, apartidária e sem fins lucrativos que trabalha em defesa da vida, com o propósito de mudar a atual trajetória de degradação socioambiental|
+|   Termos   |                                                                                                Definição                                                                                                 |
+| :--------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|    UnB     |                                                                                         Universidade de Brasília                                                                                         |
+|    FGA     |                                                                                            Faculdade do Gama                                                                                             |
+|    EPS     |                                                                               Equipe de Engenharia de Produto de Software                                                                                |
+|    MDS     |                                                                             Equipe de Métodos de Desenvolvimento de Software                                                                             |
+|    Git     |                                                 Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software                                                 |
+| WWF-Brasil | O WWF-Brasil é uma organização da sociedade civil brasileira, apartidária e sem fins lucrativos que trabalha em defesa da vida, com o propósito de mudar a atual trajetória de degradação socioambiental |
 
 ### 1.4 Referências
 
 - IBM Knowledge Center - Documento de Visão: A estrutura de tópicos do documento de visão. Disponível em: https://www.ibm.com/docs/pt-br/elm/6.0.5?topic=requirements-vision-document. Acesso em 16 de ago. de 2021;
 - Disponível em: https://fga-eps-mds.github.io/2019.1-ADA/#/docs/product/vision_document?id=_1-introdu%c3%a7%c3%a3o. Acesso em 16 de ago. de 2021;
 - Disponível em: https://fga-eps-mds.github.io/2019.1-Aix/projeto/2019/03/29/documento-de-visao/. Acesso em 16 de ago. de 2021;
+- WWF- Brasil. Disponível em: https://www.wwf.org.br/wwf_brasil/. Acesso em 16 de ago. de 2021;
 
 ### 1.5 Visão Geral
-<p>&emsp;&emsp;Desta forma, a ideia principal deste documento de visão é fornecer de maneira objetiva e organizada os assuntos que tangem à problemática inicial.</p>
-<p>&emsp;&emsp;As informações serão organizadas em tópicos referentes aos seguintes temas, como modelos de exemplo: o contexto da tecnologia no meio pedagógico, o detalhamento dos perfis interessados, as funcionalidades principais da ferramenta a ser produzida bem como característica técnicas do produto.</p>
+<p>&emsp;&emsp;A deia principal deste documento de visão é fornecer de maneira objetiva e organizada os assuntos que tangem à problemática inicial.</p>
+<p>&emsp;&emsp;As informações serão organizadas em tópicos referentes aos seguintes temas, como modelos de exemplo: o contexto da tecnologia no meio ambiental, o detalhamento dos perfis interessados, as funcionalidades principais da ferramenta a ser produzida, bem como característica técnicas do produto.</p>
 
 ## 2. Posicionamento
 
 ### 2.1 Oportunidades de negócios
-<p>&emsp;&emsp;Um dos grandes desafios do projeto “Pró-Espécies: Todos contra a extinção” é a coleta de dados sobre as espécies ameaçadas de extinção dado que para fazer isso, é necessário muitos recursos e muito tempo em pesquisa de campo. Assim, umas das soluções levantadas para esse problema é usar o apio da população brasileira para fazer essa coleta de dados por meio de um aplicativo de celular.</p>
-<p>&emsp;&emsp;Nesse sentido, o Pró-Espécies Peixes (nome em desenvolvimento) possui o objetivo de incentivar pescadores a fazer relatórios sobre os peixes pescados, a fim de mapear e juntar dados sobre peixes em risco de extinção.</p>
+<p>&emsp;&emsp;Um dos grandes desafios do projeto “Pró-Espécies: Todos contra a extinção” é a coleta de dados sobre as espécies ameaçadas de extinção, dado que, para fazer isso, é necessário muitos recursos e muito tempo em pesquisa de campo. Assim, umas das soluções levantadas para esse problema é usar o apoio da população brasileira para fazer essa coleta de dados por meio de um aplicativo de celular.</p>
+<p>&emsp;&emsp;Nesse sentido, o Pró-Espécies Peixes (nome temporário) possui o objetivo de incentivar pescadores a fazerem relatórios sobre os peixes pescados, a fim de mapear e juntar dados sobre peixes em risco de extinção.</p>
 
 ### 2.2 Descrição do Projeto
 
@@ -84,14 +85,14 @@ prioritários para a conservação das espécies ameaçadas.</p>
 ## 3. Descrições da Parte Interessada e do Usuário
 
 ### 3.1 Resumo da Parte Interessada:
-| **Nomes**                                   | **Descrição**                                                                                                | **Responsabilidades** |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------|
-| Equipe de Desenvolvimento de Software       | Estudantes da disciplina de Métodos de Desenvolvimento de Software, da Universidade de Brasília. | Desenvolver e implementar o Software descrito no documento.                   |
-| Equipe de Engenharia de Produto de Software | Estudantes da disciplina de Engenharia de Produto de Software, da Universidade de Brasília.      | Gestão da Equipe de Desenvolvimento, garantindo a viabilidade do produto por meio de entregas contínuas.                   |
-| Equipe de Orientação                        | Professores e monitores das disciplinas de EPS e MDS.                                            | Auxiliar a equipe durante o desenvolvimento do Software.                  |
+| **Nomes**                                   | **Descrição**                                                                                    | **Responsabilidades**                                                                                    |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| Equipe de Desenvolvimento de Software       | Estudantes da disciplina de Métodos de Desenvolvimento de Software, da Universidade de Brasília. | Desenvolver e implementar o Software descrito no documento.                                              |
+| Equipe de Engenharia de Produto de Software | Estudantes da disciplina de Engenharia de Produto de Software, da Universidade de Brasília.      | Gestão da Equipe de Desenvolvimento, garantindo a viabilidade do produto por meio de entregas contínuas. |
+| Equipe de Orientação                        | Professores e monitores das disciplinas de EPS e MDS.                                            | Auxiliar a equipe durante o desenvolvimento do Software.                                                 |
 
 ### 3.2 Resumo do Usuário:
-  O **Nome do produto** tem como principal objetivo coletar dados sobre o nicho ecológico de peixes, inicialmente no Estado de Tocantins. Os usuários podem ser dividos em dois grupos:
+  O Pró-espécies Peixes (nome temporário) tem como principal objetivo coletar dados sobre o nicho ecológico de peixes, inicialmente no Estado de Tocantins. Os usuários podem ser dividos em dois grupos:
   [!] O pesquisador, que é quem busca os dados sobre os peixes;
   [!] e os pescadores, sejam guias de pesca, pescadores esportivos ou pescadores recreativos, os principais agentes da coleta dos dados.
 
@@ -100,23 +101,21 @@ prioritários para a conservação das espécies ameaçadas.</p>
 
 ### 3.4 Perfis das Partes Interessadas:
   #### 3.4.1 Equipe de Desenvolvimento de Software
-| **Representantes**                                   | Daniel Coimbra, Gabriel Freitas, Natan Tavares, João Victor, Paulo Henrique|
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| **Descrição**       | Desenvolvimento do Software.
-| **Tipo**       | Estudantes da disciplina de Métodos de Desenvolvimento de Software, da Universidade de Brasília. 
-| **Responsabilidades**       | Desenvolvimento, implementação e teste do Software. 
-| **Critérios de Sucesso** | Entrega do aplicativo com todas as funcionalidades, dentro do prazo estipulado.
-| **Envolvimento**                        | Alto.| 
-| **Comentários ou Problemas**                        |  \*\*\* \*\*\*
+| **Representantes**       | Daniel Coimbra, Gabriel Freitas, Natan Tavares, João Victor, Paulo Henrique                      |
+| ------------------------ | ------------------------------------------------------------------------------------------------ |
+| **Descrição**            | Desenvolvimento do Software.                                                                     |
+| **Tipo**                 | Estudantes da disciplina de Métodos de Desenvolvimento de Software, da Universidade de Brasília. |
+| **Responsabilidades**    | Desenvolvimento, implementação e teste do Software.                                              |
+| **Critérios de Sucesso** | Entrega do aplicativo com todas as funcionalidades, dentro do prazo estipulado.                  |
+| **Envolvimento**         | Alto.                                                                                            |
 
 #### 3.4.2 Equipe de Engenharia de Produto de Software
-| **Representantes**                                   | Iuri Severo, João Pedro, Lucas Fellipe, Pedro Rodrigues|
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| **Descrição** | Estudantes da disciplina de Engenharia de Produto de Software, da Universidade de Brasília. 
-| **Responsabilidades**       | Cada um dos alunos tem um responsabilidade diferente na da Equipe: Product Owner, Arquiteto De Software, Engenheiro DevOps e Scrum Master;|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| **Critérios de Sucesso** | Certificar de manter as entregas dentro do prazo e controlar a qualidade do Software em desenvolvimento|
-| **Envolvimento** | Alto.|
-| **Comentários ou Problemas**| \*\*\* \*\*\*|
+| **Representantes**       | Iuri Severo, João Pedro, Lucas Fellipe, Pedro Rodrigues                                                                                    |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Descrição**            | Estudantes da disciplina de Engenharia de Produto de Software, da Universidade de Brasília.                                                |
+| **Responsabilidades**    | Cada um dos alunos tem um responsabilidade diferente na da Equipe: Product Owner, Arquiteto De Software, Engenheiro DevOps e Scrum Master; | --------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| **Critérios de Sucesso** | Certificar de manter as entregas dentro do prazo e controlar a qualidade do Software em desenvolvimento                                    |
+| **Envolvimento**         | Alto.                                                                                                                                      |
 
 #### 3.4.3 Equipe de Orientação
 Hilmer Rodrigues Neri, professor da Universidade de Brasília, das matérias Métodos de Desenvolvimento de Software e Engenharia de Produto de Software. Tem como objetivos:
@@ -125,14 +124,14 @@ Hilmer Rodrigues Neri, professor da Universidade de Brasília, das matérias Mé
 
 ### 3.5 Perfis do Usuário
   #### 3.5.1 Pesquisador
-  Pesquisadores, terão acesso a áreas restritas do aplicativo. Como leitura e escrita dos relatórios enviados, área para convite de novos pesquisadores, além das demais funcionalidades  do aplicativo. Serão uma espécie de moderador do app.
+  Pesquisadores, terão acesso a áreas restritas do aplicativo. Como leitura e escrita dos relatórios enviados, além das demais funcionalidades  do aplicativo. Serão como de moderadores do app.
   #### 3.5.2 Pescador esportivo
   Pescadores entusiastas, podem contribuir com suas observações e pescas de espécies da região.
   #### 3.5.3 Pescador artesanal 
   Pescadores locais, de linha de frente; Também têm acesso às espécies, seja observando ou pescando podem contribuir para a coleta.
 ### 3.6 Principais Necessidades da Parte Interessada ou do Usuário:
   #### 3.6.1 Necessidades da Parte Interessada
-  Uma forma de coletar de dados de peixes, inicialmente para o estado de Tocantins. A população que já tem contato com essas espécies poderá ajudar o estado fazendo relatórios sobre pescas e observações e os enviando através do \<Nome do Produto\>.
+  Uma forma de coletar de dados de peixes, inicialmente para o estado de Tocantins. A população que já tem contato com essas espécies poderá ajudar o estado fazendo relatórios sobre pescas e observações e os enviando através do Pró-espécies Peixes (nome temporário).
   #### 3.6.2 Necessidades do Usuário
   O usuário irá se beneficiar da biblioteca de dados sobre as espécies de peixes, com grande contribuição da equipe dos Pesquisadores. Também será possível se orientar utilizando georeferência em um mapa.
   
@@ -144,11 +143,11 @@ Hilmer Rodrigues Neri, professor da Universidade de Brasília, das matérias Mé
 
 ### 4.2 Resumo das Capacidades
 
-| Benefício para o Cliente | Recursos de Suporte |
-|-|-|
+| Benefício para o Cliente                                                                                                                      | Recursos de Suporte                                                                                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Facilitar o recolhimento de dados científicos para usuários pesquisadores, para os quais faltam tempo, recursos e acesso a áreas mais remotas | Sistema de criação e envio de relatórios flexíveis por parte dos usuários pescadores para os pesquisadores, como alternativa a pesquisas de campo |
-| Disponibilizar, para os usuários pescadores, informações a respeito de espécies de peixes da região | Sistema de biblioteca que contém informações, fornecidas pelos pesquisadores, a respeito de variadas espécies de peixes |
-| Disponibilizar, para os usuários pescadores, referências sobre a localização de espécies de peixes da região | Sistema de mapeamento da região foco do produto com indicação da localização de espécies de peixes selecionadas pelos pesquisadores |
+| Disponibilizar, para os usuários pescadores, informações a respeito de espécies de peixes da região                                           | Sistema de biblioteca que contém informações, fornecidas pelos pesquisadores, a respeito de variadas espécies de peixes                           |
+| Disponibilizar, para os usuários pescadores, referências sobre a localização de espécies de peixes da região                                  | Sistema de mapeamento da região foco do produto com indicação da localização de espécies de peixes selecionadas pelos pesquisadores               |
 
 ## 5. Recursos do Produto
 

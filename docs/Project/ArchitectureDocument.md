@@ -6,6 +6,8 @@
 | 20/08/2021 |  0.2   |              Tópico 4               | [Natan Tavares Santana](https://github.com/Neitan2001) |
 | 21/08/2021 |  0.3   |              Tópico 1               |  [João Victor Batista](https://github.com/jvBatista)   |
 | 21/08/2021 |  0.4   |              Tópico 2               | [Natan Tavares Santana](https://github.com/Neitan2001) |
+| 21/08/2021 |  0.5   |              Tópico 3               | [Paulo Henrique Rezende](https://github.com/phrezende-eng) |
+
 
 ## 1. Introdução
 
@@ -64,6 +66,21 @@ O Pró-Espécies Peixes funciona com base na seguinte representação arquitetur
 
 #### Docker
 <p align="justify"> &emsp;&emsp;Ferramenta para gerar um ambiente isolado e construído especificamente para a equipe que será utilizado para facilitar o desenvolvimento do projeto.</p>
+
+## 3. Metas e restrições da arquitetura
+## 3.1 Metas do Software Pró-espécies Peixes
+Com o intuito de ajudar pesquisadores, pescadores convencionais e esportivos, Pró-espécies Peixes:
+ - Guiar as personas na busca por certos tipos de peixes;
+ - Ajudar pesquisadores a encontrar diferentes tipos de espécies de peixes;
+ - Apresentar dados relevantes sobre peixes para todas as personas;
+ - Coletar informação de peixes ainda não conhecidos;
+ - Guardar a quantidade de peixes coletados de cada indivíduo;
+
+## 3.2 Restrições da arquitetura
+As restrições de arquitetura são:
+ - Ter acesso à internet;
+ - Possuir a plataforma atualizada para a última versão que o software requer;
+ - Ter conta na App Store ou Play Store para qual for a plataforma usada;
 
 ## 4. Visão de Casos de Uso
 

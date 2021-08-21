@@ -8,6 +8,8 @@
 | 19/08/2021 | 0.4 | Visão Geral do Produto e Restrições  | [João Victor Batista](https://github.com/jvBatista) |
 | 20/08/2021 | 0.5 | Recursos do Produto | [Gabriel Freitas Balbino](https://github.com/gabrielfreitass1) |
 | 20/08/2021 | 0.6 | Descrições da Parte Interessada e do Usuário  | [Daniel Coimbra dos Santos](https://github.com/DanielCoimbra) |
+| 21/08/2021 | 0.7 | Precedência e Prioridade, Outros Requisitos do Produto e Requisitos de Documentação | [Paulo Henriuqe Rezende](https://github.com/phrezende-eng) |
+
 
 ## 1. Introdução
 
@@ -79,7 +81,6 @@ prioritários para a conservação das espécies ameaçadas.</p>
   <tr><th> Nosso produto  </th><td>tem praticidade de acesso a informação, é acessível e focado na preservação das espécies de peixes</td></tr>
 </table>
 
-<<<<<<< HEAD
 ## 3. Descrições da Parte Interessada e do Usuário
 
 ### 3.1 Resumo da Parte Interessada:
@@ -135,7 +136,6 @@ Hilmer Rodrigues Neri, professor da Universidade de Brasília, das matérias Mé
   #### 3.6.2 Necessidades do Usuário
   O usuário irá se beneficiar da biblioteca de dados sobre as espécies de peixes, com grande contribuição da equipe dos Pesquisadores. Também será possível se orientar utilizando georeferência em um mapa.
   
-=======
 ## 4. Visão Geral do Produto
 
 ### 4.1 Perspectiva do Produto
@@ -171,4 +171,17 @@ Hilmer Rodrigues Neri, professor da Universidade de Brasília, das matérias Mé
 - Acesso a um dispositivo com sistema operacional **Android API 19** ou superior e/ou **iOS 9** ou superior;
 
 - Toda interação com o aplicativio deve ser feita de forma intuitiva e natural, de modo que o usuário não tenha dúvidas sobre como realizar determinada ação dentro da plataforma. As funcionalidades as quais os usuários têm acesso devem ser de fácil entendimento, dessa forma, a complexidade e dinamismo das funcionalidades serão limitados, visando priorizar a clareza e acessibilidade do produto.
->>>>>>> 5a976a1d5168b2f06d408aa317287cc8a5eb90d2
+
+## 7: Precedência e Prioridade
+Para o MVP serão feita as funcionalidades na seguinte ordem:
+ - Biblioteca Virtual.
+ - Realizar Relatórios.
+ - Biblioteca Virtual.
+ - Georeferência.
+## 8: Outros Requisitos 
+<p>&emsp;&emsp;8.1 Padrões Aplicáveis:<p>&emsp;&emsp; 
+ - Padrões de conformidade da plataforma (IOS/ANDROID)
+
+## 9: Requisitos de Documentação
+<p>&emsp;&emsp;10.1 Notas sobre a liberação: Será necessário a apresentação da documentação da qualidade software a cada release.
+<p>&emsp;&emsp;10.2 Guia de uso: No ambiente local haverá a guia de execução de funcionamento do produto para a melhor usuabilidade para quem quiser contribuir com o software.

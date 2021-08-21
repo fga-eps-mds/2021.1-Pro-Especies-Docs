@@ -24,6 +24,7 @@
 - Como documentar a Arquitetura de Software. http://www.linhadecodigo.com.br/artigo/3343/como-documentar-a-arquitetura-de-software.aspx
 - Documento de arquitetura ADA. https://fga-eps-mds.github.io/2019.1-ADA/#/docs/project/architecture_doc?id=_1-introdu%c3%a7%c3%a3o
 - Documento de arquitetura Aix. https://fga-eps-mds.github.io/2019.1-Aix/projeto/2019/03/29/documento-de-arquitetura/
+- Documento de arquitetura Lend.it. https://fga-eps-mds.github.io/2020.2-Lend.it/#/_docs/projeto/documento_arquitetura
 
 ## 2. Representação da arquitetura
 
@@ -80,3 +81,13 @@ O Pró-Espécies Peixes funciona com base na seguinte representação arquitetur
 | UC04 - Disponibilizar relatórios para verificação |      Pesquisador       |                  Acessar relatórios feito por pescadores e visualizar os dados relatados                  |
 |            UC05 - Confirmar relatório             |      Pesquisador       |                              Confirmar um relatório enviado por um pescador                               |
 |          UC05 - Editar/Deletar Relatório          |      Pesquisador       |                    Editar ou deletar os dados de um relatório enviado por um pescador                     |
+
+## 5. Visão Lógica
+
+### 5.1 Diagrama de Pacotes
+
+#### Front-End
+![Diagrama de pacotes-Front](../Assets/Images/ArchitectureDocument/diagrama_de_pacotes_front.png)
+
+#### Back-End
+![Diagrama de pacotes-Front](../Assets/Images/ArchitectureDocument/diagrama_de_pacotes_back.png)

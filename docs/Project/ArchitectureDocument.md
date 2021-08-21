@@ -6,7 +6,7 @@
 | 20/08/2021 |  0.2   |              Tópico 4               | [Natan Tavares Santana](https://github.com/Neitan2001) |
 | 21/08/2021 |  0.3   |              Tópico 1               |  [João Victor Batista](https://github.com/jvBatista)   |
 | 21/08/2021 |  0.4   |              Tópico 2               | [Natan Tavares Santana](https://github.com/Neitan2001) |
-| 21/08/2021 |  0.5   |              Tópico 3               | [Paulo Henrique Rezende](https://github.com/phrezende-eng) |
+| 21/08/2021 |  0.5   | Criação do tópico de Metas e restrições da arquitetura | [Paulo Henrique Rezende](https://github.com/phrezende-eng) |
 
 
 ## 1. Introdução

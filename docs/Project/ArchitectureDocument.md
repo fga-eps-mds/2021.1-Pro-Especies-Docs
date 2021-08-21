@@ -1,12 +1,14 @@
 # Documento de Arquitetura
 
-|    Data    | Versão |              Descrição              |                         Autor                          |
-| :--------: | :----: | :---------------------------------: | :----------------------------------------------------: |
-| 20/08/2021 |  0.1   | Criação do documento de Arquitetura | [Natan Tavares Santana](https://github.com/Neitan2001) |
-| 20/08/2021 |  0.2   |              Tópico 4               | [Natan Tavares Santana](https://github.com/Neitan2001) |
-| 21/08/2021 |  0.3   |              Tópico 1               |  [João Victor Batista](https://github.com/jvBatista)   |
-| 21/08/2021 |  0.4   |              Tópico 2               | [Natan Tavares Santana](https://github.com/Neitan2001) |
-| 21/08/2021 |  0.5   | Criação do tópico de Metas e restrições da arquitetura | [Paulo Henrique Rezende](https://github.com/phrezende-eng) |
+|    Data    | Versão |                      Descrição                       |                           Autor                            |
+| :--------: | :----: | :--------------------------------------------------: | :--------------------------------------------------------: |
+| 20/08/2021 |  0.1   |         Criação do documento de Arquitetura          |   [Natan Tavares Santana](https://github.com/Neitan2001)   |
+| 20/08/2021 |  0.2   |                       Tópico 4                       |   [Natan Tavares Santana](https://github.com/Neitan2001)   |
+| 21/08/2021 |  0.3   |                       Tópico 1                       |    [João Victor Batista](https://github.com/jvBatista)     |
+| 21/08/2021 |  0.4   |                       Tópico 2                       |   [Natan Tavares Santana](https://github.com/Neitan2001)   |
+| 21/08/2021 |  0.5   |                       Tópico 3                       | [Paulo Henrique Rezende](https://github.com/phrezende-eng) |
+| 21/08/2021 |  0.6   |                       Tópico 5                       |   [Natan Tavares Santana](https://github.com/Neitan2001)   |
+| 21/08/2021 |  1.0   | Adição do diagrama de pacotes do biblioteca de dados |   [Natan Tavares Santana](https://github.com/Neitan2001)   |
 
 
 ## 1. Introdução
@@ -107,4 +109,7 @@ As restrições de arquitetura são:
 ![Diagrama de pacotes-Front](../Assets/Images/ArchitectureDocument/diagrama_de_pacotes_front.png)
 
 #### Back-End
-![Diagrama de pacotes-Front](../Assets/Images/ArchitectureDocument/diagrama_de_pacotes_back.png)
+![Diagrama de pacotes-Back](../Assets/Images/ArchitectureDocument/diagrama_de_pacotes_back.png)
+
+#### Biblioteca de Dados
+![Diagrama de pacotes-Crawler](../Assets/Images/ArchitectureDocument/diagrama_de_pacotes_crawler.png)

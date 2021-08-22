@@ -18,8 +18,8 @@ assignees: ''
 
 ## Nome da Issue
 Caso a issue seja uma história de usuário deve-se criar a issue da seguinte forma:
-- USXX - Nome da história de usuário.  
-<sub>Em que XX representa o número da história de usuário</sub>
+- ESXXUSYY - Nome da história de usuário.  
+<sub>Em que XX representa do épico e XX o da história de usuário</sub>
 
 Caso a issue seja uma outra tarefa a ser realizada deve-se criar a issue com um nome simples e descritivo:
 - Descrição simples da tarefa a se realizar.

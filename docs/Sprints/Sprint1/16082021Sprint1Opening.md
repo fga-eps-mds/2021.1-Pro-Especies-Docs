@@ -40,7 +40,6 @@ Essa <i>Sprint</i> 1 não tera pontuação, da mesma forma que a *Sprint* anteri
 | Elaboração do Documento de Visão | Daniel Coimbra, Gabriel Freitas, Paulo Henrique, Natan Tavares e João Victor | 0 | 0 |
 | Elaboração do Documento de Arquitetura | Daniel Coimbra, Gabriel Freitas, Paulo Henrique, Natan Tavares, João Victor e Iuri Severo | 0 | 0 |
 | Criação do *Backlog* do Produto V1.0 | Todos | 0 | 0 |
-| Elaborar o Plano de Gerenciamento de Custos | João Pedro | 0 | 0 |
 | Documentar o *Planning* da *Sprint* 1 | Lucas Fellipe | 0 | 0 |
 | Estilização da *Wiki* | João Pedro | 0 | 0 |
 

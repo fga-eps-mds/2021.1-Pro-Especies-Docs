@@ -4,9 +4,7 @@
 | 13/08/2021 | 1.0 | Criação do documento do Protótipo de Média Fidelidade  | [João Guedes](https://github.com/sudjoao) |
 
 
-A ideia do protótipo de média fidelidade é começar a imaginar como seria construída a funcionalidade e quais seriam seus fluxos.
-
-O grupo realizou o protótipo no [Figma](https://www.figma.com/file/s6YfyPkDcku8vkLnInfeM1/Prot%C3%B3tipo-M%C3%A9dia-Fidelidade?node-id=0%3A1) e conseguiram levantar as ideias utilizando os dados do Lean Inception e dos Protótipos de Baixa fidelidade.
+<p align="justify"> &emsp;&emsp;A ideia do protótipo de média fidelidade é começar a imaginar como seria construída a funcionalidade e quais seriam seus fluxos. O grupo realizou o protótipo no <a href="https://www.figma.com/file/s6YfyPkDcku8vkLnInfeM1/Prot%C3%B3tipo-M%C3%A9dia-Fidelidade?node-id=0%3A1">Figma</a> e conseguiram levantar as ideias utilizando os dados da <i>Lean Inception</i> e dos Protótipos de Baixa fidelidade.</p>
 
 ## Fluxos
 ### Autenticação de Usuário

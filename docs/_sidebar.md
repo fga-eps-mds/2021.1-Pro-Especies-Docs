@@ -24,6 +24,7 @@
 
   - **Projeto**
     - [Plano de Gerenciamento de Riscos](/Project/RiskPlan.md)
+    - [Plano de Gerenciamento de Custos](/Project/CostPlan.md)
     - [Documento de Arquitetura](/Project/ArchitectureDocument.md)
 
 

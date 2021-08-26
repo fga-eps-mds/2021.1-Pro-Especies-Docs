@@ -1,8 +1,8 @@
-# Fechamento da Sprint 1
+# Fechamento da Pré-Sprint 1
 
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
-| 21/08/2021 |  1.0   | Fechamento da Sprint 1 | [Iuri Severo](https://github.com/iurisevero) |
+| 21/08/2021 |  1.0   | Criação do documento de Fechamento da *Pré-Sprint* 1 | [Iuri Severo](https://github.com/iurisevero) |
 
 **Data**: 21 de Agosto de 2021
 
@@ -46,50 +46,35 @@
     * Positivos: Não tem opinião formada em relação ao que foi realizado;
     * Negativos: Nenhum;
     * Melhorias: Focado em melhorias pessoais, como estudar *Gitflow*.
-
 * **Gabriel Freitas**
     * Positivos: Organização;
     * Negativos: Trabalho em equipe, sente que deixou a desejar, porque só ajudou no documento de visão;
     * Melhorias: Ajudar mais.
-
 * **Iuri Severo**
     * Positivos: Os dois documentos ficaram prontos e foram bem escritos. Além disso, a arquitetura ficou muito boa e bem organizada;
     * Negativos: A organização nessa *Sprint* foi um pouco bagunçada, exceto o PBB. As *issues* que o Pedro fez não estavam escritas no *GitHub*. A divisão dos documentos com os MDS não deu muito certo;
     * Melhorias: Organização e comunicação. 
-
 * **João Pedro**
     * Positivos: Foi entregue documentos importantes do projeto: Arquitetura, Visão e *Backlog*;
     * Negativos: A maneira como os documentos foram feitos, nem todos participaram, ficaram prontos pouco antes da reunião e, ele acredita, que o PBB não foi algo bom de ser realizado no momento atual do projeto, devido ao nível de conhecimento dos membros. Acredita que se tivéssemos feito o *Backlog* de forma tradicional, teria ficado melhor;
     * Melhorias: Comunicação e organização. Durante essa *Sprint* algo falado na daily era perguntado logo após a reunião.
-
 * **João Victor**
     * Positivos: Entrega do Documento de Arquitetura, Documento de Visão e PBB. Todos sem muitas correções e sem dívida técnica;
     * Negativos: Falta de comunicação e organização por parte dos MDS. Assim como foi feito a divisão do documento de visão, também deveria ter sido feita essa divisão para o Documento de Arquitetura;
     * Melhorias: Comunicação e organização. Além disso, poderia haver a delegação de tarefas.
-
 * **Lucas Fellipe**
     * Positivos: Todos os MDS comprometidos e entregaram os documentos. Além disso, um PBB que foi muito bem organizado pelo João Pedro. Organização e comunicação do grupo em geral, membros respondendo o *Telegram* com frequência;
     * Negativos: Planejamento pessoal de atividades a serem realizadas na semana e organização;
     * Melhorias: Planejamento pessoal de atividades a serem realizadas na semana e organização, priorização do que será feito.
-
 * **Natan Tavares**
     * Positivos: Documento de Arquitetura, de Visão e PBB prontos. Não teve dívida técnica;
     * Negativos: A comunicação para a divisão do Documento de Arquitetura foi bem falha, o que resultou na realização e entrega do documento no sábado. Deixar as coisas para cada um escolher não funciona, a melhor maneira seria delegar as tarefas;
     * Melhorias: Fazer delegação de tarefas, ao invés de deixar livre.
-
 * **Paulo Henrique**
     * Positivos: Responsabilidade pela organização das tarefas do Documento de Visão e Arquitetura;
     * Negativos: Gastou muito tempo no Documento de Visão e acabou não conseguindo ajudar muito no Documento de Arquitetura;
     * Melhorias: Receio em pedir ajuda aos EPS. Delegar as tarefas traria resultado positivo, mas gosta da ideia de ter mais responsabilidade nas mãos dos MDS, o que deixaria de ser negativo caso a responsabilidade e organização melhorem.
-
 * **Pedro Rodrigues**
     * Positivos: Ter conseguido realizar o PBB. Além disso, ter realizado a integração dos repositórios com SonarCloud e a entrega das documentações;
     * Negativos: Formato do PBB devido ao nível de conhecimento dos MDS. Organização das tarefas e rastreamento dos trabalhos realizados. Falta nas *dailies*;
     * Melhorias: Organização, em relação as tarefas e *Gitflow*. Melhorar a comunicação para tirar as dúvidas.
-
-# Quadro de Conhecimento
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSHxsHZdF7aMhOiXfcXzaHDSFw3ABg2JLZFkUhKZ2YRlrnpeho33t196CHZIWyUXhRp2-MjVymqEp4a/pubhtml?widget=true&amp;headers=false" width="170px" height="500px"></iframe>
-
-# Avaliação do Scrum Master
-<p align="justify"> &emsp;&emsp;Tivemos uma <i>Sprint</i> com ótimos resultados novamente. Todas as *issues* planejadas foram entregues. Foram criados documentos essenciais para o projeto, como o Documento de Visão e o Documento de Arquitetura. Além disso, foi realizado o PBB (<i>Product Backlog Building</i>), um artefato super importante para o planejamento do projeto. A comunicação e a organização da equipe precisa ser melhorada.</p>

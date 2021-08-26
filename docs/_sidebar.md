@@ -18,18 +18,19 @@
 
 - **Produto**
   - [Documento de Visão](/Product/VisionDocument.md)
+  - [Documento de Arquitetura](/Product/ArchitectureDocument.md)
+
 - **Protótipos**
   - [Protótipo de Baixa Fidelidade](/Project/LowFidelityPrototype.md)
   - [Protótipo de Média Fidelidade](/Project/MediumFidelityPrototype.md)
 
-  - **Projeto**
-    - [Plano de Gerenciamento de Riscos](/Project/RiskPlan.md)
-    - [Documento de Arquitetura](/Project/ArchitectureDocument.md)
+- **Projeto**
+  - [Plano de Gerenciamento de Riscos](/Project/RiskPlan.md)
 
 
 - **Sprints**
-  - [09/08/2021 - Abertura da *Sprint* 0](/Sprints/Sprint0/09082021Sprint0Opening.md)
-  - [14/08/2021 - Fechamento da *Sprint* 0](/Sprints/Sprint0/14082021Sprint0Closure.md)
-  - [16/08/2021 - Abertura da *Sprint* 1](/Sprints/Sprint1/16082021Sprint1Opening.md) 
-  - [21/08/2021 - Fechamento da *Sprint* 1](/Sprints/Sprint1/21082021Sprint1Closure.md)
-  - [23/08/2021 - Abertura da *Sprint* 2](/Sprints/Sprint2/23082021Sprint2Opening.md)
+  - [09/08/2021 - Abertura da *Pré-Sprint* 0](/Sprints/Pré-Sprints/09082021PréSprint0Opening.md)
+  - [14/08/2021 - Fechamento da *Pré-Sprint* 0](/Sprints/Pré-Sprints/14082021PréSprint0Closure.md)
+  - [16/08/2021 - Abertura da *Pré-Sprint* 1](/Sprints/Pré-Sprints/16082021PréSprint1Opening.md) 
+  - [21/08/2021 - Fechamento da *Pré-Sprint* 1](/Sprints/Pré-Sprints/21082021PréSprint1Closure.md)
+  - [23/08/2021 - Abertura da *Sprint* 0](/Sprints/Sprint0/23082021Sprint0Opening.md)

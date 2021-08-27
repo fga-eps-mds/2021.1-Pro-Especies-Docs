@@ -11,20 +11,22 @@
 | 17/08/2021 | 1.0 | Arrumar caminho das imagens | [Natan Tavares Santana](https://github.com/Neitan2001) |
 
 ## Protótipo 1 - Paulo Henrique
-![1](../Assets/Images/LowFidelityPrototype/PauloHenrique/1.jpg)
-![2](../Assets/Images/LowFidelityPrototype/PauloHenrique/2.jpg)
+<p float="left">
+  <img src="../Assets/Images/LowFidelityPrototype/PauloHenrique/1.jpg" width="500" />
+  <img src="../Assets/Images/LowFidelityPrototype/PauloHenrique/2.jpg" width="500" /> 
+</p>
+
 ## Protótipo 2 - Daniel Coimbra
-![1](../Assets/Images/LowFidelityPrototype/DanielCoimbra/lofi_prototype.png)
+<img src="../Assets/Images/LowFidelityPrototype/DanielCoimbra/1.png" width="1000" />
 
 ## Protótipo 3 - Natan Tavares Santana
-![1](../Assets/Images/LowFidelityPrototype/NatanTavaresSantana/1.jpg)
-![2](../Assets/Images/LowFidelityPrototype/NatanTavaresSantana/2.jpg)
+<p float="left">
+  <img src="../Assets/Images/LowFidelityPrototype/NatanTavaresSantana/1.jpg" width="800" />
+  <img src="../Assets/Images/LowFidelityPrototype/NatanTavaresSantana/2.jpg" width="800" /> 
+</p>
 
 ## Protótipo 4 - Gabriel Freitas
-![Projeto de Baixa Fidelidade](../Assets/Images/LowFidelityPrototype/GabrielFreitas/PrototipoBaixaFidelidade.jpg)
+![Projeto de Baixa Fidelidade](../Assets/Images/LowFidelityPrototype/GabrielFreitas/1.jpg)
 
 ## Protótipo 5 - João Victor Batista
-![1](../Assets/Images/LowFidelityPrototype/JoãoVictorBatista/prototipo_baixa_fidelidade.png)
-
-
-## Referências
+![1](../Assets/Images/LowFidelityPrototype/JoãoVictorBatista/1.png)

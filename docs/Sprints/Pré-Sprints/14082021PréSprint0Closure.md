@@ -1,8 +1,8 @@
-# Fechamento da Sprint 0
+# Fechamento da Pré-Sprint 0
 
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
-| 14/08/2021 |  1.0   | Fechamento da Sprint 0 | [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 14/08/2021 |  1.0   | Criação do documento de Fechamento da *Pré-Sprint* 0 | [Lucas Fellipe](https://github.com/lucasfcm9) |
 
 **Data**: 14 de Agosto de 2021
 
@@ -19,11 +19,9 @@
 * Paulo Henrique (MDS)
 * Pedro Rodrigues (EPS)
 
-## Review
+<p align="justify"> &emsp;&emsp;Esse documento refere-se a retrospectiva das atividades realizadas na semana pós <i>Lean Inception</i>. Aqui vamos destacar os principais pontos positivos e pontos negativos que foram listados durante a semana, além das melhorias que devem ser aplicadas para as próximas semanas e quando iniciarmos as <i>sprints</i>.</p>
 
-Não tivemos um *Review* nessa sprint, pelo fato de ser uma *sprint* inicial sem atividades com pontuação.
-
-## Retrospective
+## Pré-Sprint Retrospective
 
 * **Daniel Coimbra**
     * Positivos: A comunicação foi bastante boa pelo fato de todos se conhecerem, além do fato de estarmos com o projeto adiantado. Além disso, gostou bastante das reuniões, mas 2 horas de duração, para mim, é um pouco complicado;
@@ -42,9 +40,9 @@ Não tivemos um *Review* nessa sprint, pelo fato de ser uma *sprint* inicial sem
     * Negativos: Não se organizou direito essa semana, principalmente na questão do PBB (*Product Backlog Building*);
     * Melhorias: Organização pessoal.
 * **Lucas Fellipe**
-    * Positivos:
-    * Negativos:
-    * Melhorias:
+    * Positivos: A organização do grupo está muito boa. O planejamento para a realização da *Lean Inception* foi excelente. Toda a comunicação do grupo está ocorrendo de forma bem fluida. Além disso, nossa comunicação com o cliente está muito boa;
+    * Negativos: Nenhum, por enquanto;
+    * Melhorias: Melhorar a organização pessoal.
 * **Natan Tavares**
     * Positivos: Todo o planejamento da *Lean Inception* foi bem definido e bem feito. A comunicação e o planejamento da equipe estão muito bons. Além disso, a dinâmica do grupo e a organização estão excelentes;
     * Negativos: Nenhum ponto negativo;
@@ -61,8 +59,3 @@ Não tivemos um *Review* nessa sprint, pelo fato de ser uma *sprint* inicial sem
     * Positivos: O grupo está fluindo bastante, conseguimos nos organizar super bem, achar os horários e tudo mais. O projeto está acontecendo em um fluxo muito bom. Além disso, está super satisfeito com a proatividade dos membros da equipe;
     * Negativos: Está com dificuldade para se organizar por conta do estágio e outras matérias, porém, está conseguindo fazer as atividades;
     * Melhoras: Melhorar a organização.
-
-# Quadro de Conhecimento
-<p align="justify"> &emsp;&emsp;Esse quadro refere-se ao conhecimento, tanto dos membros de <i>EPS</i>, quanto dos membros de <i>MDS</i> nas tecnologias que usaremos durante o semestre. Lembrando que essas tecnologias podem aumentar ou diminuir, dependendo da arquitetura que será montada. Esse é um quadro inicial. Percebe-se que os membros de <i>EPS</i> possuem um conhecimento mais uniforme, devido a afinidade que estes possuem com as áreas de desenvolvimento, mostrando-se positivo pois todos são capazes de ministrar dojos. Já o time de <i>MDS</i>, é possível ver que todos necessitam de auxílio na maior parte das tecnologias.</p>
-
-![Quadro de Conhecimento - Sprint 0](../../Assets/Images/KnowledgeBoard/KnowledgeBoardSprint0.png)

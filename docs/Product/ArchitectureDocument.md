@@ -10,6 +10,7 @@
 | 21/08/2021 |  0.6   | Criação do tópico de Visão Lógica                                  |   [Natan Tavares Santana](https://github.com/Neitan2001)     |
 | 21/08/2021 |  1.0   | Adição do diagrama de pacotes do biblioteca de dados               |   [Natan Tavares Santana](https://github.com/Neitan2001)     |
 | 25/08/2021 |  1.1   | Revisão do documento, correção de erros e formatação do documento  |   [Lucas Fellipe](https://github.com/lucasfcm9)     |
+| 28/08/2021 |  1.2   | Revisão da Representação arquitetural e adição do diagrama de classes  |   [Iuri Severo](https://github.com/iurisevero)     |
 
 
 ## 1. Introdução
@@ -112,3 +113,15 @@ As restrições de arquitetura são:
 
 #### Biblioteca de Dados
 ![Diagrama de pacotes-Crawler](../Assets/Images/ArchitectureDocument/CrawlerPackageDiagram.png)
+
+## 6. Visão de Implementação
+
+<p align="justify"> &emsp;&emsp;A visão de implementação apresenta os detalhes de implementação do sistema. O Diagrama de Classes é uma de suas principais representações.</p>
+
+### 6.1 Diagrama de Classes
+
+<p align="justify"> &emsp;&emsp;O Diagrama de Classes é uma representação da estrutura e relações das classes que servem de modelo para os objetos.</p>
+
+![Diagrama de Classes](../Assets/Images/ArchitectureDocument/ClassDiagram.png)
+
+<p align="justify"> &emsp;&emsp; O diagrama acima representa os três principais serviços levantados para o produto. A associação entre usuário e registro de peixes será utilizada para relacionar os objetos gerados.</p>

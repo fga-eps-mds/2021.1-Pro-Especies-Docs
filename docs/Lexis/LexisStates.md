@@ -7,56 +7,6 @@
 
 ## Registro
 
-### Registro enviado
-
-|      |                                                                                                                                                                                                |
-| :--------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|    Nome     |                                                                                         Registro enviado                                                                                         |
-|    Classificação     |                                                                                            Estado                                                                                             |
-|    Sinônimos     |                                                                               Registro realizado                                                                                |
-|    Noção     |                                                                             O registro foi enviado pelos pescadores. Ocorre quando o pescador aperta no botão de enviar o registro                                                                            |
-|    Impacto     |        O registro foi recebido pelos pesquisadores; Os pesquisadores pode modificar o registro; O registro foi entregue aos pesquisadores             
-
-### Registro validado
-
-|      |                                                                                                                                                                                                |
-| :--------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|    Nome     |                                                                                         Registro validado                                                                                         |
-|    Classificação     |                                                                                            Estado                                                                                             |
-|    Sinônimos     |                                                                               Registro aprovado                                                                                |
-|    Noção     |                                                                             O registro foi validado pelos pesquisadores. Ocorre quando o pesquisador aperta no botão de validar o registro                                                                            |
-|    Impacto     |        O registro foi validado pelos pesquisadores; Os pesquisadores podem utilizar o registro para fazer relatórios   
-
-### Registro deletado
-
-|      |                                                                                                                                                                                                |
-| :--------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|    Nome     |                                                                                         Registro deletado                                                                                         |
-|    Classificação     |                                                                                            Estado                                                                                             |
-|    Sinônimos     |                                                                               Registro descartado, registro excluído                                                                                |
-|    Noção     |                                                                             O registro foi deletado pelos pesquisadores. Ocorre quando o pesquisador aperta no botão de excluir o registro                                                                            |
-|    Impacto     |        O registro foi deletado pelos pesquisadores; Os pesquisadores podem filtrar quais registros serão úteis e quais não são informativos
-
-### Registro editado
-
-|      |                                                                                                                                                                                                |
-| :--------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|    Nome     |                                                                                         Registro editado                                                                                         |
-|    Classificação     |                                                                                            Estado                                                                                             |
-|    Sinônimos     |                                                                               Registro corrigido                                                                                |
-|    Noção     |                                                                             O registro foi editado pelos pesquisadores. Ocorre quando o pesquisador edita alguma informação presente em um registro                                                                            |
-|    Impacto     |        O registro foi editado pelos pesquisadores; Os pesquisadores podem corrigir informações incorretas ou completar dados não informados; O pescador autor do registro pode visulizar a correção 
-
-### Registro exportado
-
-|      |                                                                                                                                                                                                |
-| :--------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|    Nome     |                                                                                         Registro exportado                                                                                         |
-|    Classificação     |                                                                                            Estado                                                                                             |
-|    Sinônimos     |                                                                                                                                                               |
-|    Noção     |                                                                             O registro foi exportado pelos pesquisadores. Ocorre quando o pesquisador exporta relatórios validados ao clicar no botão de exportar                                                                            |
-|    Impacto     |        O registro foi exportado pelos pesquisadores; Os pesquisadores podem utilizar os registros exportados como base para criação de relatórios 
-
 ### Registro pré-preenchido
 
 |      |                                                                                                                                                                                                |
@@ -65,7 +15,7 @@
 |    Classificação     |                                                                                            Estado                                                                                             |
 |    Sinônimos     |           Preenchimento automático                                                                                                                                                    |
 |    Noção     |                                                                             O registro foi pré-preenchido pelo pescador. Ocorre quando o pescador seleciona uma  espécie cadastrada de peixe e o registro automaticamente preenche os dados com informações base de tal espécie                                                                            |
-|    Impacto     |        O registro foi pré-preenchido pelos pescadores; Os pescadores correm menos riscos de preencher informações incorretas durante criação de relatórios
+|    Impacto     |        O registro foi pré-preenchido pelos pescadores<br />Diminui risco de pescadores preencherem informações incorretas durante criação de registros
 
 ### Registro salvo
 

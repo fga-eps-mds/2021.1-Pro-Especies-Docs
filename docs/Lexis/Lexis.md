@@ -6,6 +6,6 @@ Trata-se de uma técnica que descreve os símbolos de uma linguagem. Esses símb
 
 Os léxicos podem ser definidos em objetos, estados e verbos.
 
-- Objetos
-- Estados
-- Verbos
+- [Objetos](./LexisObjects.md)
+- [Estados](./LexisStates.md)
+- [Verbos](./LexisVerbs.md)

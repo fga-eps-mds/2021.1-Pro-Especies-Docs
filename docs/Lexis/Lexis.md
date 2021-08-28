@@ -1,8 +1,8 @@
 # Léxicos
 
-Léxico é definido como um conjunto dos vocábulos de uma língua, dispostos em ordem alfabética e com as respectivas significações. Uma notação na modelagem de requisitos que usa a descrição de termos via léxico é o LAL(Léxico Ampliado da Linguagem).
+Léxico é definido como um conjunto dos vocábulos de uma linguagem. Uma notação no contexto modelagem de requisitos que usa a descrição de termos via léxico é o LAL(Léxico Ampliado da Linguagem).
 
-Trata-se de uma técnica que descreve os símbolos de uma linguagem. Cada símbolo é descrito através de uma noção e impacto. A noção se refere ao signficado ou descrição, propriamente dita, do vocábulo no dado contexto. Já o impacto descreve o efeito/consequência/resultado que o vocábulo tem na aplicação ou do efeito de outra parte da aplicação sobre o mesmo, que pode ser colocado no sentido conotativo da linguagem.
+Trata-se de uma técnica que descreve os termos relacionados ao software em questão. Cada símbolo é descrito através de uma noção e um impacto. A noção se refere ao signficado ou descrição do vocábulo no dado contexto (denotação). Já o impacto descreve o efeito do símbolo na aplicação ou o efeito de algo na aplicação sobre o símbolo (conotação)
 
 Os léxicos podem ser classificados em objetos, estados e verbos.
 

@@ -2,7 +2,7 @@
 
 |    Data    | Versão |                                      Descrição                                      |                             Autor                              |
 | :--------: | :----: | :---------------------------------------------------------------------------------: | :------------------------------------------------------------: |
-| 27/08/2021 |  0.1   |                            Criação dos léxicos - Objetos                            |     [João Victor Batista](https://github.com/jvBatista)     |
+| 27/08/2021 |  1.0   |                            Criação dos léxicos - Objetos                            |     [João Victor Batista](https://github.com/jvBatista)     |
 
 
 
@@ -25,7 +25,7 @@
 |    Classificação     |                                                                                            Objeto                                                                                             |
 |    Sinônimos     |                                                                                                                                                               |
 |    Noção     |                                                                             Objeto utilizado para comunicação visual e audiovisual                                                                             |
-|    Impacto     | Ligar camera<br />Desligar camera
+|    Impacto     | Ligar câmera, Desligar câmera
 
 
 ## Usuário
@@ -45,9 +45,9 @@
 | :--------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |    Nome     |                                                                                         Conta de Usuário                                                                                         |
 |    Classificação     |                                                                                            Objeto                                                                                             |
-|    Sinônimos     |      Conta; Perfil                                                                                                                                                         |
+|    Sinônimos     |      Conta, Perfil                                                                                                                                                         |
 |    Noção     |    Onde ficam todos os dados do usuário, criada após o cadastro                                                                             |
-|    Impacto     | Cadastrar pelo email<br />Cadastrar pelo numero<br />Editar perfil
+|    Impacto     | Cadastrar pelo email, Cadastrar pelo número, Editar perfil
 
 
 ## Nome de usuário
@@ -58,7 +58,7 @@
 |    Classificação     |                                                                                            Objeto                                                                                             |
 |    Sinônimos     |      Nickname, username, user                                                                                                                                                         |
 |    Noção     |                                                                             Nome pelo qual o usuário pode ser referenciado                                                                             |
-|    Impacto     | Referenciar por nome de usuario
+|    Impacto     | Referenciar por nome de usuário
 
 
 ## Perfil
@@ -80,7 +80,7 @@
 |    Classificação     |                                                                                            Objeto                                                                                             |
 |    Sinônimos     |      Cientista, administrador, admin, adm                                                                                                                                                         |
 |    Noção     |                                                                             Usuário com acesso às funcionalidade de modificar registros                                                                       |
-|    Impacto     | Validar registros<br />Editar registros<br />Deletar registros<br />Exportar registros
+|    Impacto     | Validar registros, Editar registros, Deletar registros, Exportar registros
 
 
 
@@ -92,7 +92,7 @@
 |    Classificação     |                                                                                            Objeto                                                                                             |
 |    Sinônimos     |                                                                                                                                                               |
 |    Noção     |                                                                             Usuário com acesso à funcionalidade de criar e enviar registros                                                                             |
-|    Impacto     | Criar registros<br />Enviar registros
+|    Impacto     | Criar registros, Enviar registros
 
 
 ## Registro
@@ -103,7 +103,7 @@
 |    Classificação     |                                                                                            Objeto                                                                                             |
 |    Sinônimos     |                                                                                                                                                               |
 |    Noção     |                                                                             Conjunto de dados registrados a partir de uma coleta feita por um pescador                                                                             |
-|    Impacto     | Criar registros<br />Enviar registros<br />Validar registros<br />Editar registros<br />Deletar registros<br />Exportar registros
+|    Impacto     | Criar registros, Enviar registros, Validar registros, Editar registros, Deletar registros, Exportar registros
 
 
 ## Relatório
@@ -124,7 +124,7 @@
 |    Classificação     |                                                                                            Objeto                                                                                             |
 |    Sinônimos     |         Wiki                                                                                                                                                      |
 |    Noção     |                                                                             Base de dados que disponibiliza informações sobre espécies de peixes brasileiros                                                                             |
-|    Impacto     |  Acessar biblioteca<br />Visualizar dados de um peixe
+|    Impacto     |  Acessar biblioteca, Visualizar dados de um peixe
 
 
 ## Georeferência

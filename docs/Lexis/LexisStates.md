@@ -2,7 +2,7 @@
 
 |    Data    | Versão |                                      Descrição                                      |                             Autor                              |
 | :--------: | :----: | :---------------------------------------------------------------------------------: | :------------------------------------------------------------: |
-| 27/08/2021 |  0.1   |                            Criação dos léxicos - Estados                            |     [João Victor Batista](https://github.com/jvBatista)     |
+| 27/08/2021 |  1.0   |                            Criação dos léxicos - Estados                            |     [João Victor Batista](https://github.com/jvBatista)     |
 
 
 ## Registro

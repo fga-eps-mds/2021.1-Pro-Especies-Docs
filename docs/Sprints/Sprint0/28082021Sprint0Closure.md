@@ -26,7 +26,11 @@
 | [E01US01 - Eu, como usuário, desejo poder me cadastrar na plataforma para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/43) | 5 | Concluída |
 | [E01US02 - Eu, como usuário, desejo acessar minha conta na plataforma para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/45) | 3 | Concluída |
 | [E01US03 - Eu, como usuário, desejo ser autenticado pelo aplicativo para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/46) | 3 | Concluída |
+| [E03US04 - Eu, como usuário, desejo poder armazenar dados do fishbase no banco de dados para conseguir informações dos peixes de maneira mais rápida](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/48) | 5 | Não Concluída |
+| [E03US01 - Eu, como usuário, desejo obter dados do fishbase para obter mais informações sobre os peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/52) | 5 | Não Concluída |
+| [E03US03 - Eu, como usuário, desejo poder filtrar os peixes cadastrados de acordo com determinado atributo](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/49) | 3 | Não Concluída |
 | [Documentar abertura da Sprint 0 e revisar os artefatos](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/44) | 0 | Concluída |
+| [Configuração do SonarQube no *Frontend*](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/47) | 0 | Não Concluída |
 | [Plano de Gerenciamento de Custos](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/34) | 0 | Concluída |
 | [Integração e configuração do banco de dados no *Crawler*](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/41) | 0 | Concluída |
 | [Configuração do Lint workflow dos serviços](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/42) | 0 | Concluída |
@@ -35,7 +39,9 @@
 | [Refinar o Canvas MVP](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/55) | 0 | Concluída |
 | [Documentar os Léxicos](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/53) | 0 | Concluída |
 
-__Pontos Planejados:__ 11 </br>
+As Histórias de Usuário [E03US04 - Eu, como usuário, desejo poder armazenar dados do fishbase no banco de dados para conseguir informações dos peixes de maneira mais rápida](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/48), [E03US01 - Eu, como usuário, desejo obter dados do fishbase para obter mais informações sobre os peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/52) e [E03US03 - Eu, como usuário, desejo poder filtrar os peixes cadastrados de acordo com determinado atributo](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/49) não foram realizadas devido a mudança de planejamento por parte do cliente.
+
+__Pontos Planejados:__ 24 </br>
 __Pontos Totais Concluídos:__ 11 </br>
 [Milestone Sprint 0](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/milestone/4)
 

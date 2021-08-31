@@ -38,12 +38,12 @@
 | ES06US01 - Eu, como usuário, desejo editar ou remover dados do registro, a fim de aumentar a confiabilidade da coleta de dados | Natan Tavares, João Victor e Daniel Coimbra | 3 | 0 |
 | E08US02 - Eu, como usuário, desejo acessar o mapa (localização geográfica), a fim de descobrir novas epécies e realizar coleta de dados | Paulo Henrique e Gabriel Freitas | 3 | 0 |
 | E08US03 - Marcar a localização do usuário no mapa | Paulo Henrique e Gabriel Freitas | 3 | 0 |
-| Definir licença e criar uma tabela explicando cada uma | Iuri Severo | 0 | 0 |
+| Definir licença e criar uma tabela explicando cada uma | Iuri Severo e João Pedro Guedes | 0 | 0 |
 | Documentar Planning *Sprint* 1 | Lucas Fellipe | 0 | 0 |
-| Elaborar NFR | João Pedro José | 0 | 0 |
-| Revisão do diagrama de Casos de Uso | João Pedro José | 0 | 0 |
-| Configuração do SonarQube no *Frontend* | Lucas Fellipe | 0 | 1 |
-| Criação do repositório e ambiente de configuração de registro de peixes no GitHub | Lucas Fellipe e João Pedro José | 0 | 0 |
+| Elaborar NFR | João Pedro Guedes e Iuri Severo | 0 | 0 |
+| Revisão do diagrama de Casos de Uso | João Pedro Guedes e Iuri Severo | 0 | 0 |
+| Configuração do SonarQube no *Frontend* | Lucas Fellipe e Pedro Rodrigues | 0 | 1 |
+| Criação do repositório e ambiente de configuração de registro de peixes no GitHub | Lucas Fellipe e João Pedro Guedes | 0 | 0 |
 | Elaborar GQM (*Goal Question Metric*) | Lucas Fellipe e Pedro Rodrigues | 0 | 0 |
 
 > Se houver débito técnico ele deverá ser incluso na tabela de Sprint Baccklog e a coluna de Débito Técnico deverá ser alterada para "1" (true)

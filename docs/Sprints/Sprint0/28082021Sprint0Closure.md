@@ -41,6 +41,8 @@ __Pontos Totais Concluídos:__ 11 </br>
 
 ## Review
 
+* **Daniel Coimbra**: Não pude agregar ao produto pois toda minha contribuição havia sido no *Crawler*, que foi engavetada. Quanto ao documento dos Léxicos, eu não participei da resolução dessa *issue*.
+
 * **Gabriel Freitas**: Implementou e aprendeu bastante em como resolver as *issues* de cadastro, de *login* e de autenticação com o Paulo Henrique e o Natan Tavares. Isso agrega bastante valor ao produto, pelo fato de ser uma funcionalidade essencial para o aplicativo.
 
 * **Iuri Severo**: Elaborou o diagrama de classes e o DER (Diagrama de Entidade Relacionamento). Além disso, participou das reuniões com o cliente durante a semana. Os diagramas agregam valor ao produto, pelo fato deles orientarem o desenvolvimento.
@@ -66,9 +68,15 @@ O gráfico de burndown demonstra a entrega de pontos durante os dias da *Sprint*
 
 ### Gráfico de Velocity
 
+![VelocitySprint0](../../Assets/Images/VelocityCharts/VelocitySprint0.png)
+
 
 ## Retrospective
 
+* **Daniel Coimbra**
+    * Positivos: Orientação do cliente quanto à biblioteca de peixes da *wiki*;
+    * Negativos: Não agreguei valor ao produto nessa *Sprint*;
+    * Melhorias: Me organizar mais.
 * **Gabriel Freitas**
     * Positivos: O Pareamento com o Paulo Henrique e o Natan Tavares foi ótimo. O compartilhamento de conhecimento foi muito bom. Além disso, a organização dessa semana foi muito boa, além de que tudo foi muito bem detalhado;
     * Negativos: Queria ter mais independência na hora de codificar;

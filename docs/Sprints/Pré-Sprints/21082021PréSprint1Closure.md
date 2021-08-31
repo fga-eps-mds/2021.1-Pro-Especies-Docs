@@ -19,6 +19,17 @@
 * Paulo Henrique (MDS)
 * Pedro Rodrigues (EPS)
 
+## Fechamento da Pré-Sprint
+
+| Issue | Pontos | Status |
+| ----- | ------ | ------ |
+| [Documentar Planejamento da *Sprint* 1](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/32) | 0 | Concluída |
+| [Elaborar o Documento de Visão](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/25) | 0 | Concluída |
+| [Elaborar o Documento de Arquitetura](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/26) | 0 | Concluída |
+| [Criação do *Backlog* do Produto V1.0](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/31) | 0 | Concluída |
+
+[Milestone Pré-Sprint 1](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/milestone/3?closed=1)
+
 ## Review
 
 * **Daniel Coimbra**: Trabalhou no documento de visão, parte interessada e de usuário. Acredita que o documento é importante para o produto por trazer uma maneira formal de representá-lo. Participou da reunião do PBB.
@@ -78,3 +89,8 @@
     * Positivos: Ter conseguido realizar o PBB. Além disso, ter realizado a integração dos repositórios com SonarCloud e a entrega das documentações;
     * Negativos: Formato do PBB devido ao nível de conhecimento dos MDS. Organização das tarefas e rastreamento dos trabalhos realizados. Falta nas *dailies*;
     * Melhorias: Organização, em relação as tarefas e *Gitflow*. Melhorar a comunicação para tirar as dúvidas.
+
+## Quadro de Conhecimento
+A equipe de EPS elaborou um quadro de conhecimento com tecnologias consideradas essenciais para o desenvolvimento do produto. É possível ter um *overview* das capacidades da equipe de desenvolvimento (MDS) e gerência (EPS).
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSHxsHZdF7aMhOiXfcXzaHDSFw3ABg2JLZFkUhKZ2YRlrnpeho33t196CHZIWyUXhRp2-MjVymqEp4a/pubhtml"
+width="170px" height="600px"></iframe>

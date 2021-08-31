@@ -36,6 +36,9 @@
 | E01US01 - Eu, como usuário, desejo poder me cadastrar na plataforma para poder realizar registro e coleta de dados sobre peixes | Natan Tavares, Paulo Henrique e Gabriel Freitas | 5 | 0 |
 | E01US02 - Eu, como usuário, desejo acessar minha conta na plataforma para poder realizar registro e coleta de dados sobre peixes | Natan Tavares, Paulo Henrique e Gabriel Freitas | 3 | 0 |
 | E01US03 - Eu, como usuário, desejo ser autenticado pelo aplicativo para poder realizar registro e coleta de dados sobre peixes | Natan Tavares, Paulo Henrique e Gabriel Freitas | 3 | 0 |
+| E03US04 - Eu, como usuário, desejo poder armazenar dados do fishbase no banco de dados para conseguir informações dos peixes de maneira mais rápida | Daniel Coimbra e João Victor | 5 | 0 |
+| E03US01 - Eu, como usuário, desejo obter dados do fishbase para obter mais informações sobre os peixes | Daniel Coimbra e João Victor | 5 | 0 |
+| E03US03 - Eu, como usuário, desejo poder filtrar os peixes cadastrados de acordo com determinado atributo | Daniel Coimbra e João Victor | 3 | 0 |
 | Documentar os Léxicos | Daniel Coimbra e João Victor | 0 | 0 |
 | Documentar o *Planning* da *Sprint* 0 e revisar os artefatos | Lucas Fellipe      | 0 | 0 |
 | Elaborar o Plano de Gerenciamento de Custos | Lucas Fellipe e João Pedro | 0 | 0 |

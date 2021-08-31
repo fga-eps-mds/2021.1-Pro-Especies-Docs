@@ -6,6 +6,6 @@ Trata-se de uma técnica que descreve os termos relacionados ao software em ques
 
 Os léxicos podem ser classificados em objetos, estados e verbos.
 
-- [Objetos](./LexisObjects.md)
-- [Estados](./LexisStates.md)
-- [Verbos](./LexisVerbs.md)
+- [Objetos](/Lexis/LexisObjects.md)
+- [Estados](/Lexis/LexisStates.md)
+- [Verbos](/Lexis/LexisVerbs.md)

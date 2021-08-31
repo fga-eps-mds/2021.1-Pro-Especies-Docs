@@ -26,7 +26,10 @@
 
 - **Projeto**
   - [Plano de Gerenciamento de Riscos](/Project/RiskPlan.md)
+  - [Backlog do Produto](/Product/ProductBacklog.md)
 
+- **Modelagem**
+  - [Léxicos](/Lexis/Lexis.md)
 
 - **Sprints**
   - [09/08/2021 - Abertura da *Pré-Sprint* 0](/Sprints/Pré-Sprints/09082021PréSprint0Opening.md)

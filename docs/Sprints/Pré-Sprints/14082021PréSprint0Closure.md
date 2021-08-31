@@ -19,6 +19,20 @@
 * Paulo Henrique (MDS)
 * Pedro Rodrigues (EPS)
 
+## Fechamento da Pré-Sprint
+
+| Issue | Pontos | Status |
+| ----- | ------ | ------ |
+| [Criar Gráfico de *Gantt*](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/24) | 0 | Concluída |
+| [Criar *Product Backlog*](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/21) | 0 | Concluída |
+| [Confecção do Protótipo de Média Fidelidade](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/27) | 0 | Concluída |
+| [Definir padrão arquitetural](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/19) | 0 | Concluída |
+| [Criar Plano de Gerenciamento de Riscos](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/23) | 0 | Concluída |
+| [*Dockerizar* ambientes de desenvolvimento](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/20) | 0 | Concluída |
+| [Realizar Protótipos de Baixa Fidelidade](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/17) | 0 | Concluída |
+
+[Milestone Pré-Sprint 0](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/milestone/2?closed=1)
+
 <p align="justify"> &emsp;&emsp;Esse documento refere-se a retrospectiva das atividades realizadas na semana pós <i>Lean Inception</i>. Aqui vamos destacar os principais pontos positivos e pontos negativos que foram listados durante a semana, além das melhorias que devem ser aplicadas para as próximas semanas e quando iniciarmos as <i>sprints</i>.</p>
 
 ## Pré-Sprint Retrospective
@@ -59,3 +73,8 @@
     * Positivos: O grupo está fluindo bastante, conseguimos nos organizar super bem, achar os horários e tudo mais. O projeto está acontecendo em um fluxo muito bom. Além disso, está super satisfeito com a proatividade dos membros da equipe;
     * Negativos: Está com dificuldade para se organizar por conta do estágio e outras matérias, porém, está conseguindo fazer as atividades;
     * Melhoras: Melhorar a organização.
+
+## Quadro de Conhecimento
+A equipe de EPS elaborou um quadro de conhecimento com tecnologias consideradas essenciais para o desenvolvimento do produto. É possível ter um *overview* das capacidades da equipe de desenvolvimento (MDS) e gerência (EPS).
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSHxsHZdF7aMhOiXfcXzaHDSFw3ABg2JLZFkUhKZ2YRlrnpeho33t196CHZIWyUXhRp2-MjVymqEp4a/pubhtml"
+width="170px" height="600px"</iframe>

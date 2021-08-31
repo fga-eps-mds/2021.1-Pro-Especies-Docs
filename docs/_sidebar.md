@@ -34,3 +34,5 @@
   - [16/08/2021 - Abertura da *Pré-Sprint* 1](/Sprints/Pré-Sprints/16082021PréSprint1Opening.md) 
   - [21/08/2021 - Fechamento da *Pré-Sprint* 1](/Sprints/Pré-Sprints/21082021PréSprint1Closure.md)
   - [23/08/2021 - Abertura da *Sprint* 0](/Sprints/Sprint0/23082021Sprint0Opening.md)
+  - [28/08/2021 - Fechamento da *Sprint* 0](/Sprints/Sprint0/28082021Sprint0Closure.md)
+  - [30/08/2021 - Abertura da *Sprint* 1](/Sprints/Sprint1/30082021Sprint1Opening.md)

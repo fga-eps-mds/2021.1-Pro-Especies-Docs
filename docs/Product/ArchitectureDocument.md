@@ -11,6 +11,7 @@
 | 21/08/2021 |  1.0   | Adição do diagrama de pacotes do biblioteca de dados               |   [Natan Tavares Santana](https://github.com/Neitan2001)     |
 | 25/08/2021 |  1.1   | Revisão do documento, correção de erros e formatação do documento  |   [Lucas Fellipe](https://github.com/lucasfcm9)     |
 | 28/08/2021 |  1.2   | Revisão da Representação arquitetural e adição do diagrama de classes  |   [Iuri Severo](https://github.com/iurisevero)     |
+| 04/09/2021 |  1.3   | Remoção do Diagrama de Casos de Uso |   [João Pedro Guedes](https://github.com/sudjoao)     |
 
 
 ## 1. Introdução
@@ -85,25 +86,9 @@ As restrições de arquitetura são:
  - Possuir a plataforma atualizada para a última versão que o software requer;
  - Ter conta na *App Store* ou *Play Store*.
 
-## 4. Visão de Casos de Uso
+## 4. Visão Lógica
 
-### 4.1 Diagrama de casos de uso
-![Diagrama de casos de uso](../Assets/Images/ArchitectureDocument/UseCase.png)
-
-### 4.2 Especificações dos casos de uso
-
-|                   Casos de Uso                    |          Ator          |                                                 Descrição                                                 |
-| :-----------------------------------------------: | :--------------------: | :-------------------------------------------------------------------------------------------------------: |
-|             UC01 - Enviar Relatórios              |        Pescador        |              Preencher um relatório com os dados do peixe e enviar o mesmo para ser validado              |
-|      UC02 - Enviar Relatórios posteriormente      |        Pescador        | Preencher um relatório do peixe e armazenar no celular para ser enviado assim que tiver acesso à *internet* |
-|           UC03 - Acessar wiki de Peixes           | Pescador e Pesquisador |                           Acessar uma *wiki* com dados de peixes pré-cadastrados                            |
-| UC04 - Disponibilizar relatórios para verificação |      Pesquisador       |                  Acessar relatórios feito por pescadores e visualizar os dados relatados                  |
-|            UC05 - Confirmar relatório             |      Pesquisador       |                              Confirmar um relatório enviado por um pescador                               |
-|          UC05 - Editar/Deletar Relatório          |      Pesquisador       |                    Editar ou remover os dados de um relatório enviado por um pescador                     |
-
-## 5. Visão Lógica
-
-### 5.1 Diagrama de Pacotes
+### 4.1 Diagrama de Pacotes
 
 #### Front-End
 ![Diagrama de pacotes-Front](../Assets/Images/ArchitectureDocument/FrontPackageDiagram.png)
@@ -114,11 +99,11 @@ As restrições de arquitetura são:
 #### Biblioteca de Dados
 ![Diagrama de pacotes-Crawler](../Assets/Images/ArchitectureDocument/CrawlerPackageDiagram.png)
 
-## 6. Visão de Implementação
+## 5. Visão de Implementação
 
 <p align="justify"> &emsp;&emsp;A visão de implementação apresenta os detalhes de implementação do sistema. O Diagrama de Classes é uma de suas principais representações.</p>
 
-### 6.1 Diagrama de Classes
+### 5.1 Diagrama de Classes
 
 <p align="justify"> &emsp;&emsp;O Diagrama de Classes é uma representação da estrutura e relações das classes que servem de modelo para os objetos.</p>
 

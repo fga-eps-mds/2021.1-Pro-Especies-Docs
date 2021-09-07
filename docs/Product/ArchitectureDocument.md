@@ -12,6 +12,7 @@
 | 25/08/2021 |  1.1   | Revisão do documento, correção de erros e formatação do documento  |   [Lucas Fellipe](https://github.com/lucasfcm9)     |
 | 28/08/2021 |  1.2   | Revisão da Representação arquitetural e adição do diagrama de classes  |   [Iuri Severo](https://github.com/iurisevero)     |
 | 04/09/2021 |  1.3   | Remoção do Diagrama de Casos de Uso |   [João Pedro Guedes](https://github.com/sudjoao)     |
+| 07/09/2021 |  1.4   | Atualização do Diagrama de Classes, da Visão Lógica (tópico 4) e da Representação Arquitetural (tópico 2) |   [Iuri Severo](https://github.com/iurisevero)     |
 
 
 ## 1. Introdução
@@ -49,7 +50,7 @@ Esse microsserviço é responsável pelo gerenciamento de usuários na plataform
 
 #### 2.1.3 Biblioteca de Dados
 
-Esse microsserviço é responsável pelo armazenamento de dados de Peixes coletados no *FishBase* ou cadastrados pelos Pesquisadores na plataforma a fim de disponibilizar informações que ajudem os pescadores a fazerem relatórios com dados mais exatos.
+Esse microsserviço é responsável pelo armazenamento de dados sobre Peixes, adquiridos  a partir do consumo de uma planilha de informações disponibilizada pelos pesquisadores,  a fim de fornecer conhecimentos que ajudem os pescadores a fazerem relatórios mais exatos.
 
 ### 2.2 Tecnologias
 
@@ -58,9 +59,6 @@ Esse microsserviço é responsável pelo armazenamento de dados de Peixes coleta
 
 #### Node.js
 O *Node.js* é um ambiente de execução JavaScript *server-side*, permitindo criar aplicações JavaScript para rodar como uma aplicação *standalone* em uma máquina, não dependendo de um *browser* para a execução.</p>
-
-#### Python
-*Python* é uma linguagem de programação de alto nível, interpretada de *script*, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
 
 #### MongoDB
 *MongoDB* é um *software* de banco de dados orientado a documentos livres, de código aberto e multiplataforma. É classificado como um programa de banco de dados *NoSQL*. Além disso, o *MongoDB* usa documentos semelhantes a *JSON* com esquemas.</p>
@@ -88,25 +86,27 @@ As restrições de arquitetura são:
 
 ## 4. Visão Lógica
 
+<p align="justify"> &emsp;&emsp;A visão lógica será representada por dois diagramas de pacotes, um para tecnologias adotadas no <i>frontend</i> do projeto e um para as tecnologias do <i>backend</i>.
+</br> &emsp;&emsp;O modelo de ambiente de desenvolvimento em <i>Node</i> será usado como base para organização dos repositórios de <a href="https://github.com/fga-eps-mds/2021.1-Pro-Especies-User">Usuários</a>, <a href="https://github.com/fga-eps-mds/2021.1-Pro-Especies-FishLog">Relatórios</a> e <a href="https://github.com/fga-eps-mds/2021.1-Pro-Especies-Wiki">Biblioteca de Dados</a>, enquanto o modelo de ambiente de desenvolvimento em <i>Flutter</i> será usado para o repositório responsável pelo <a href="https://github.com/fga-eps-mds/2021.1-Pro-Especies-Frontend">Aplicativo Mobile</a>.</p>
+
 ### 4.1 Diagrama de Pacotes
 
-#### Front-End
+#### Aplicativo Mobile
 ![Diagrama de pacotes-Front](../Assets/Images/ArchitectureDocument/FrontPackageDiagram.png)
 
-#### Back-End
+#### Serviço de Usuários, Relatórios e Biblioteca de Dados
 ![Diagrama de pacotes-Back](../Assets/Images/ArchitectureDocument/BackPackageDiagram.png)
-
-#### Biblioteca de Dados
-![Diagrama de pacotes-Crawler](../Assets/Images/ArchitectureDocument/CrawlerPackageDiagram.png)
 
 ## 5. Visão de Implementação
 
 <p align="justify"> &emsp;&emsp;A visão de implementação apresenta os detalhes de implementação do sistema. O Diagrama de Classes é uma de suas principais representações.</p>
 
-### 5.1 Diagrama de Classes
+### 5.1 Diagrama de Classes v1.1
 
 <p align="justify"> &emsp;&emsp;O Diagrama de Classes é uma representação da estrutura e relações das classes que servem de modelo para os objetos.</p>
 
 ![Diagrama de Classes](../Assets/Images/ArchitectureDocument/ClassDiagram.png)
+
+<sub><a href="https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/blob/dc33e69d07c98d0e85e17a05afa6ed82d8fa388e/docs/Assets/Images/ArchitectureDocument/ClassDiagram.png">Link para acesso a versão 1.0 do Diagrama de Classes</a></sub>
 
 <p align="justify"> &emsp;&emsp; O diagrama acima representa os três principais serviços levantados para o produto. A associação entre usuário e registro de peixes será utilizada para relacionar os objetos gerados.</p>

@@ -33,8 +33,8 @@
 | [Elaborar NFR](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/68) | 0 | Concluída |
 | [Revisão do diagrama de Casos de Uso](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/67) | 0 | Concluída |
 | [Configuração do SonarQube no *Frontend*](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/47) | 0 | Concluída |
-| [Criação do repositório e ambiente de configuração de registro de peixes no GitHub] | 0 | Concluída |
-| [Elaborar GQM (*Goal Question Metric*)] | 0 | Não Concluída |
+| Criação do repositório e ambiente de configuração de registro de peixes no GitHub | 0 | Concluída |
+| Elaborar GQM (*Goal Question Metric*) | 0 | Não Concluída |
 
 __Pontos Planejados:__ 13 </br>
 __Pontos Totais Concluídos:__ 13 </br>
@@ -46,19 +46,19 @@ __Pontos Totais Concluídos:__ 13 </br>
 
 * **Gabriel Freitas**: Mexeu com *Flutter* e com a integração do mapa (localização). Foi divertido, difícil, mas divertido. A parte do *Frontend* é importante por permitir a interação do usuário com o aplicativo.
 
-* **Iuri Severo**: 
+* **Iuri Severo**: Nessa *Sprint* mexeu mais com documentação. Fez o documento de licenças. Revisou os Casos de Uso e estudou sobre o NFR. Participou da reunião com o Hilmer e planejou o que ia falar. A questão das licenças afeta bastante a questão de como o produto será usado por outras pessoas.
 
 * **João Pedro**: Ficou focado na questão da arquitetura. Atualizou os repositórios, serviços e o próprio documento de arquitetura. Mexeu com o *Sonarflutter* e conseguiu fazer funcionar no ambiente local. Isso não afeta muito o cliente diretamente, mas é importante para nossa avaliação na *Release* 1.
 
 * **João Victor**: Participou e elaborou as *issues* juntamente ao Natan e ao Daniel. *Issue* responsável pelo *CRUD* dos registros e escreveu as US designadas. O CRUD traz valor porque é a base dos dados que serão manipulados no projeto e as US's são importantes, porque são a base da organização do nosso projeto.
 
-* **Lucas Fellipe**: 
+* **Lucas Fellipe**: Começou a documentação do GQM junto com o Pedro Rodrigues. Além disso, documentou as *Sprints* e criou e configurou o repositório responsável pelo registro dos peixes no GitHub. O GQM contribui para mostrar a qualidade do projeto. A documentação das *Sprints* agrega no fator de rastreabilidade, para o cliente saber o que a equipe está realizando.
 
-* **Natan Tavares**: 
+* **Natan Tavares**: Conseguiu trabalhar com autenticação de rotas no *backend*. Fizemos as rotas do *backend* dos registros e as protegemos com o *token* de acesso. Essa funcionalidade garante uma segurança muito maior para o aplicativo que estamos criando.
 
 * **Paulo Henrique**: Participou do desenvolvimento das primeiras partes do *Frontend*. Configurou o acesso ao mapa, o que foi muito trabalhoso. Foram quase 3 dias de configuração antes de conseguir ir para o código em si. Ajudou o Freitas com a *issue dele*, referente a clicar no mapa. Aprendeu bastante coisa. O valor que isso traz para o cliente é a visualização da localização para o registro e a possibilidade de marcar essa posição ao criá-lo.
 
-* **Pedro Rodrigues**: Começou o documento de GQM junto com o Lucas. O GQM contribui para o projeto para dar base para medição de qualidade do projeto. Essa semana não conseguiu contribuir muito, pois estava organizando coisas pessoais, o que não influencia direto para o cliente, mas auxilia no desenvolvimento da aplicação.
+* **Pedro Rodrigues**: Começou o documento de GQM junto com o Lucas Fellipe. O GQM contribui para o projeto para dar base para medição de qualidade do projeto. Essa semana não conseguiu contribuir muito, pois estava organizando coisas pessoais, o que não influencia direto para o cliente, mas auxilia no desenvolvimento da aplicação.
 
 ### Gráfico de Burn-Down
 O gráfico de burndown demonstra a entrega de pontos durante os dias da *Sprint*.
@@ -67,9 +67,13 @@ O gráfico de burndown demonstra a entrega de pontos durante os dias da *Sprint*
 ![BurndownSprint1](../../Assets/Images/BurndownCharts/BurndownSprint1.png)
 
 
-### Gráfico de Velocity
+<!-- ### Gráfico de Velocity -->
 
-![VelocitySprint1](../../Assets/Images/VelocityCharts/VelocitySprint1.png)
+<!-- ![VelocitySprint1](../../Assets/Images/VelocityCharts/VelocitySprint1.png) -->
+
+
+### Gráfico de BurnDown de Riscos
+![BurnDownRiskSprint1](../../Assets/Images/RiskBurnDownCharts/RiskBurnDownSprint1.png)
 
 
 ## Retrospective
@@ -83,9 +87,9 @@ O gráfico de burndown demonstra a entrega de pontos durante os dias da *Sprint*
     * Negativos: Para mim mesmo, parar de ter preguiça de ler documentação em inglês, ler com atenção;
     * Melhorias: Sem melhorias.
 * **Iuri Severo**
-    * Positivos: 
-    * Negativos: 
-    * Melhorias: 
+    * Positivos: Todas as histórias de usuários fechadas. O cliente ter passado os dados para a realização da *Wiki*. A reunião de sexta com o Hilmer encaminhou bem sobre tudo que iremos fazer até a R1;
+    * Negativos: Essa semana não estava conseguindo contribuir muito;
+    * Melhorias: A comunicação, em relação ao *Discord*.
 * **João Pedro**
     * Positivos: Todas as US's fechadas. A divisão de tarefas está legal. Conseguiram escrever as US's sozinhos o que também é bom. Sonarflutter funcionando localmente, o que permite continuarmos usando Flutter como tecnologia;
     * Negativos: Pessoal atrasando para reuniões, prestar atenção no tempo;
@@ -95,13 +99,13 @@ O gráfico de burndown demonstra a entrega de pontos durante os dias da *Sprint*
     * Negativos: Distribuição do trabalho em relação ao pareamento. O Nathan fez mais coisas que eu e o Daniel, na parte de codificar e decodificar o *token*, o que prejudicou meu acesso a esse conhecimento;
     * Melhorias: Avisar o Natan quando ele tiver fazendo muita coisa.
 * **Lucas Fellipe**
-    * Positivos: 
-    * Negativos: 
-    * Melhorias: 
+    * Positivos: As histórias de usuário terem sido fechadas antes do fechamento da *Sprint*. Além disso, os dados que o cliente conseguiu passar para a gente. A comunicação e a organização da equipe são sempre pontos positivos;
+    * Negativos: Não consegui me organizar bem durante a semana;
+    * Melhorias: Melhorar minha organização, pelo fato de não ter conseguido contribuir muito para o projeto.
 * **Natan Tavares**
-    * Positivos: 
-    * Negativos: 
-    * Melhorias: 
+    * Positivos: Consegui trabalhar com autenticação de rotas no *backend* e aprendi bastante com isso, também descobri que o *token* funcionava em ambos os *repositórios*, o que facilita a nossa vida;
+    * Negativos: Foi meio difícil achar um horário em comum com os outros MDS (meus pareamentos) e isso causou que, muitas vezes, um ou outro codificava sozinho;
+    * Melhorias: Organizar melhor para parear certinho.
 * **Paulo Henrique**
     * Positivos: Entendi melhor como funcionam as configurações do Android e do IOS no *Flutter*. Aprendi como ensinar melhor no pareamento com o Freitas;
     * Negativos: Dificuldade em expressar o que estou pensando;
@@ -109,7 +113,7 @@ O gráfico de burndown demonstra a entrega de pontos durante os dias da *Sprint*
 * **Pedro Rodrigues**
     * Positivos: A equipe está mandando muito bem. É muito bom ver a galera trabalhando, dá bastante orgulho. Além disso, já tivemos algumas *sprints* e não tivemos divida técnica e só aconteceu de fechar *issue* em cima da hora uma vez, o que é bastante bom;
     * Negativos: Não tenho pontos negativos em relação ao time;
-    * Melhorias: Estou me organizando melhor, mas ainda está um pouco difícil. Às vezes assumo mais responsabilidades do que consigo resolver.
+    * Melhorias: Estou me organizando melhor, mas ainda está um pouco difícil. Às vezes, assumo mais responsabilidades do que consigo resolver.
 
 
 ## Quadro de Conhecimento
@@ -119,3 +123,4 @@ A equipe de EPS elaborou um quadro de conhecimento com tecnologias consideradas 
 
 
 ## Avaliação do Scrum Master
+A *sprint* 1 teve um grande êxito, a equipe está bem comprometida e a comunicação está constante. Além disso, todas as US (*User Stories*) foram entregues. É necessário que haja um melhor planejamento da *Sprint*. Além disso, é preciso melhorar a questão do conflito de horários entre os MDS e os EPS.

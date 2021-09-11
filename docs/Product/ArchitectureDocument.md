@@ -31,6 +31,7 @@
 - *Documento de Arquitetura*. ADA. Disponível em: <https://fga-eps-mds.github.io/2019.1-ADA/#/docs/project/architecture_doc?id=_1-introdu%c3%a7%c3%a3o>. Acesso em: 20 ago. 2021.
 - *Documento de Arquitetura*. AIX. Disponível em: <https://fga-eps-mds.github.io/2019.1-Aix/projeto/2019/03/29/documento-de-arquitetura/>. Acesso em: 20 ago. 2021.
 - *Documento de Arquitetura*. Lend.it. Disponível em: <https://fga-eps-mds.github.io/2020.2-Lend.it/#/_docs/projeto/documento_arquitetura>. Acesso em: 20 ago. 2021.
+- *ReactNative best pratictices With best folder structure*. WEERASINGHE, Saman. Disponível em: <https://samanw.medium.com/reactnative-best-practices-with-best-folder-structure-6d2716d3d9cb>. Acesso em: 11 set. 2021.
 
 ## 2. Representação da Arquitetura
 
@@ -48,14 +49,14 @@ Esse microsserviço é responsável por tudo que é relacionado aos relatórios 
 
 Esse microsserviço é responsável pelo gerenciamento de usuários na plataforma, como a criação e a diferenciação de tipos de usuários: Pescadores e Pesquisadores.
 
-#### 2.1.3 Biblioteca de Dados
+#### 2.1.3 Serviço de Wiki
 
 Esse microsserviço é responsável pelo armazenamento de dados sobre Peixes, adquiridos  a partir do consumo de uma planilha de informações disponibilizada pelos pesquisadores,  a fim de fornecer conhecimentos que ajudem os pescadores a fazerem relatórios mais exatos.
 
 ### 2.2 Tecnologias
 
-#### Flutter
-*Flutter* é um kit de desenvolvimento de interface de usuário, de código aberto, criado pelo *Google*, que possibilita a criação de aplicativos compilados nativamente.
+#### Expo
+*Expo* é uma plataforma de desenvolvimento OpenSource para desenvolvimento tanto para Android quanto para iOs.
 
 #### Node.js
 O *Node.js* é um ambiente de execução JavaScript *server-side*, permitindo criar aplicações JavaScript para rodar como uma aplicação *standalone* em uma máquina, não dependendo de um *browser* para a execução.</p>
@@ -94,7 +95,7 @@ As restrições de arquitetura são:
 #### Aplicativo Mobile
 ![Diagrama de pacotes-Front](../Assets/Images/ArchitectureDocument/FrontPackageDiagram.png)
 
-#### Serviço de Usuários, Relatórios e Biblioteca de Dados
+#### Serviço de Usuários, Relatórios e Wiki
 ![Diagrama de pacotes-Back](../Assets/Images/ArchitectureDocument/BackPackageDiagram.png)
 
 ## 5. Visão de Implementação

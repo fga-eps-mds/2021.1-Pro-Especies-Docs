@@ -39,6 +39,7 @@
 | Testes no serviço de interface do usuário | Paulo Henrique | 0 | 0 |
 | Estudar a API do *Dropbox* | Paulo Henrique | 0 | 0 |
 | Documentar Planning da *Sprint* 2 e Fechamento da *Sprint* 1 | Iuri Severo e Lucas Fellipe | 0 | 0 |
+| Elaborar GQM (Goal Question Metric) | Lucas Fellipe e Pedro Rodrigues | 0 | 1 |
 
 > Se houver débito técnico ele deverá ser incluso na tabela de Sprint Baccklog e a coluna de Débito Técnico deverá ser alterada para "1" (true)
 

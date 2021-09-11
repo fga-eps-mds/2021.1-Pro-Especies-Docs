@@ -82,3 +82,6 @@ Para cada categoria definida dentro da etapa de Objetivos do Produto, jogamos v�
     - Contagem de espécies ameaçadas/novas;
     - Incentivo monetário;
     - Compartilhar as pescas em redes sociais.
+
+# Referências
+- CAROLI, Paulo; *Lean Inception: como alinhar pessoas e construir o produto certo*, 2019.

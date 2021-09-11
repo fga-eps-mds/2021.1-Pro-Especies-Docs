@@ -53,6 +53,9 @@
 * Paulo Henrique e Gabriel Freitas.
 
 # Pareamentos EPS
+* Lucas Fellipe e Pedro Rodrigues;
+* João Pedro Guedes e Iuri Severo;
+* Lucas Fellipe e João Pedro Guedes.
 
 # Papéis
 ***Scrum Master***: Pedro Rodrigues<br>

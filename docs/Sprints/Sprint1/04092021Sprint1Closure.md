@@ -60,17 +60,6 @@ __Pontos Totais Concluídos:__ 13 </br>
 
 * **Pedro Rodrigues**: Começou o documento de GQM junto com o Lucas Fellipe. O GQM contribui para o projeto para dar base para medição de qualidade do projeto. Essa semana não conseguiu contribuir muito, pois estava organizando coisas pessoais, o que não influencia direto para o cliente, mas auxilia no desenvolvimento da aplicação.
 
-### Gráfico de Burn-Down
-O gráfico de burndown demonstra a entrega de pontos durante os dias da *Sprint*.
-</br>
-
-![BurndownSprint1](../../Assets/Images/BurndownCharts/BurndownSprint1.png)
-
-
-<!-- ### Gráfico de Velocity -->
-
-<!-- ![VelocitySprint1](../../Assets/Images/VelocityCharts/VelocitySprint1.png) -->
-
 
 ### Gráfico de BurnDown de Riscos
 ![BurnDownRiskSprint1](../../Assets/Images/RiskBurnDownCharts/RiskBurnDownSprint1.png)

@@ -33,7 +33,7 @@
 
 | Descrição da Tarefa | Responsável(eis) | Pontuação | Débito Técnico |
 | ------------------- | ---------------- | --------- | -------------- |
-| US01 - Visualizar informações sobre um peixe da wiki 5P | Daniel Coimbra e Gabriel Freitas | 5 | 0 |
+| US01 - Visualizar informações sobre um peixe da *wiki* | Daniel Coimbra e Gabriel Freitas | 5 | 0 |
 | Testes no serviço de usuário | Natan e João Victor | 0 | 0 |
 | Teste no serviço do *fishlog* | Natan e João Victor | 0 | 0 |
 | Testes no serviço de interface do usuário | Paulo Henrique | 0 | 0 |

@@ -65,17 +65,6 @@ __Pontos Totais Concluídos:__ 11 </br>
 
 * **Pedro Rodrigues**: Trabalhou e implementou o ambiente de desenvolvimento, além de ter configurado o *Crawler*. Adicionou o Lint* no *Backend*. O *Lint* agrega bastante valor ao produto por manter o padrão de código para todos.
 
-### Gráfico de Burn-Down
-O gráfico de burndown demonstra a entrega de pontos durante os dias da *Sprint*.
-</br>
-
-![BurndownSprint0](../../Assets/Images/BurndownCharts/BurndownSprint0.png)
-
-
-### Gráfico de Velocity
-
-![VelocitySprint0](../../Assets/Images/VelocityCharts/VelocitySprint0.png)
-
 
 ### Gráfico de BurnDown de Riscos
 ![BurnDownRiskSprint0](../../Assets/Images/RiskBurnDownCharts/RiskBurnDownSprint0.png)

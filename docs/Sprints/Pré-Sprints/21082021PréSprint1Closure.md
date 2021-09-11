@@ -30,6 +30,9 @@
 
 [Milestone Pré-Sprint 1](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/milestone/3?closed=1)
 
+### Gráfico de BurnDown de Riscos
+![BurnDownRiskPréSprint0](../../Assets/Images/RiskBurnDownCharts/RiskBurnDownPréSprint0.png)
+
 ## Review
 
 * **Daniel Coimbra**: Trabalhou no documento de visão, parte interessada e de usuário. Acredita que o documento é importante para o produto por trazer uma maneira formal de representá-lo. Participou da reunião do PBB.

@@ -77,6 +77,10 @@ O gráfico de burndown demonstra a entrega de pontos durante os dias da *Sprint*
 ![VelocitySprint0](../../Assets/Images/VelocityCharts/VelocitySprint0.png)
 
 
+### Gráfico de BurnDown de Riscos
+![BurnDownRiskSprint0](../../Assets/Images/RiskBurnDownCharts/RiskBurnDownSprint0.png)
+
+
 ## Retrospective
 
 * **Daniel Coimbra**

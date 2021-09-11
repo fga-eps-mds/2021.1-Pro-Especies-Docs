@@ -34,7 +34,7 @@
 | Descrição da Tarefa | Responsável(eis) | Pontuação | Débito Técnico |
 | ------------------- | ---------------- | --------- | -------------- |
 | ES02US02 - Eu, como usuário, desejo enviar registro de peixes para o servidor, a fim de realizar a coleta de dados  | Natan Tavares, João Victor e Daniel Coimbra | 3 | 0 |
-| ES04US03 - Eu, como usuário, desejo visualizar registro selecionado, a fim de realizar a coleta de dados | Natan Tavares, João Victor e Daniel Coimbra | 1 | 0 |
+| ES04US03 - Eu, como usuário, desejo visualizar um registro selecionado, a fim de realizar a coleta de dados | Natan Tavares, João Victor e Daniel Coimbra | 1 | 0 |
 | ES06US01 - Eu, como usuário, desejo editar ou remover dados do registro, a fim de aumentar a confiabilidade da coleta de dados | Natan Tavares, João Victor e Daniel Coimbra | 3 | 0 |
 | E08US02 - Eu, como usuário, desejo acessar o mapa (localização geográfica), a fim de descobrir novas epécies e realizar coleta de dados | Paulo Henrique e Gabriel Freitas | 3 | 0 |
 | E08US03 - Marcar a localização do usuário no mapa | Paulo Henrique e Gabriel Freitas | 3 | 0 |

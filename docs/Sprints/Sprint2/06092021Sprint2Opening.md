@@ -3,6 +3,7 @@
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
 | 04/09/2021 |  1.0   | Abertura da *Sprint* 2 | [Iuri Severo](https://github.com/iurisevero) |
+| 12/09/2021 |  1.1   | Atualiazação da Pontuação das US (*User Stories*) | [Lucas Fellipe](https://github.com/lucasfcm9) |
 
 **Data**: 04 de Setembro de 2021
 
@@ -39,7 +40,7 @@
 | Testes no serviço de interface do usuário | Paulo Henrique | 0 | 0 |
 | Estudar a API do *Dropbox* | Paulo Henrique | 0 | 0 |
 | Documentar Planning da *Sprint* 2 e Fechamento da *Sprint* 1 | Iuri Severo e Lucas Fellipe | 0 | 0 |
-| Elaborar GQM (Goal Question Metric) | Lucas Fellipe e Pedro Rodrigues | 0 | 1 |
+| Elaborar GQM (Goal Question Metric) | Iuri Severo | 0 | 1 |
 
 > Se houver débito técnico ele deverá ser incluso na tabela de Sprint Baccklog e a coluna de Débito Técnico deverá ser alterada para "1" (true)
 

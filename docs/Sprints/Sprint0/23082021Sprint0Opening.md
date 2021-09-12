@@ -3,6 +3,7 @@
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
 | 21/08/2021 |  1.0   | Abertura da *Sprint* 0 | [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 12/09/2021 |  1.1   | Atualiazação da Pontuação das US (*User Stories*) | [Lucas Fellipe](https://github.com/lucasfcm9) |
 
 **Data**: 21 de Agosto de 2021
 

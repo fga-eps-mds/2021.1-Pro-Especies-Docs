@@ -3,6 +3,7 @@
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
 | 04/09/2021 |  1.0   | Resultados da *Sprint* 1 | [Iuri Severo](https://github.com/iurisevero) |
+| 12/09/2021 |  1.1   | Atualiazação da Pontuação das US (*User Stories*) | [Lucas Fellipe](https://github.com/lucasfcm9) |
 
 **Data**: 04 de Setembro de 2021
 

@@ -28,6 +28,8 @@
   - [Plano de Gerenciamento de Riscos](/Project/RiskPlan.md)
   - [Backlog do Produto](/Product/ProductBacklog.md)
 
+  - [EVM](/Project/EarnedValueManagement.md)
+
 - **Modelagem**
   - [Léxicos](/Lexis/Lexis.md)
 

@@ -19,16 +19,12 @@
 - **Produto**
   - [Documento de Visão](/Product/VisionDocument.md)
   - [Documento de Arquitetura](/Product/ArchitectureDocument.md)
-
-- **Protótipos**
   - [Protótipo de Baixa Fidelidade](/Project/LowFidelityPrototype.md)
   - [Protótipo de Média Fidelidade](/Project/MediumFidelityPrototype.md)
 
 - **Projeto**
   - [Plano de Gerenciamento de Riscos](/Project/RiskPlan.md)
   - [Backlog do Produto](/Product/ProductBacklog.md)
-
-- **Modelagem**
   - [Léxicos](/Lexis/Lexis.md)
 
 - **Sprints**

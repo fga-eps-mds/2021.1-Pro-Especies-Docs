@@ -19,3 +19,12 @@
 | <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width=100px> |     <i>Google Drive</i>      | A plataforma será utilizada para o armazenamento dos arquivos importantes do projeto. |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/1200px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png" width=100px> |     <i>Microsoft Teams</i>      | A plataforma será utilizada para realizar reuniões caso o <i>Discord</i> não esteja funcionando. Além disso, nossas reuniões gravadas estarão salvas aqui. |
 | <img src="https://ssl.gstatic.com/calendar/images/dynamiclogo_2020q4/calendar_11_2x.png" width=100px> |     <i>Google Calendar</i>      | A plataforma *Google Calendar* será utilizada para a marcação das reuniões com os clientes, onde constará horário, descrição e *link* para reunião |
+
+## 3. Grade Horária
+Foi elaborada uma planilha para determinar quais seriam os melhores horários para as reuniões em grupo e para as reuniões com o Cliente.
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT2KuOOxukI9H6F4i8uVjX1crYKFVZGDyd9Os-xPToYuaDCuQGsO1pFQxEXWaF8XVapaAOKE5CZEFmW/pubhtml" width="170px" height="600px"></iframe>
+
+Dessa forma, ficou definido que:
+- As reuniões do grupo de EPS/MDS acontecem todos os sábados no período da tarde;
+- As reuniões com o cliente acontecem todas as quartas-feiras às 18h.

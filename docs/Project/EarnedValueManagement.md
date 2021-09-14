@@ -2,7 +2,7 @@
 
 |    Data    | Versão |                Descrição                |                     Autor                     |
 | :--------: | :----: | :-------------------------------------: | :-------------------------------------------: |
-| 12/08/2021 |  1.0   | Criação do Documento da EVM (*Earned Value Management*) | [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 12/09/2021 |  1.0   | Criação do Documento da EVM (*Earned Value Management*) | [Lucas Fellipe](https://github.com/lucasfcm9) |
 
 <p align="justify"> &emsp;&emsp;EVM (<i>Earned Value Management</i>) é uma metodologia de gerenciamento de projeto que integra cronograma, custos e escopo para medir o desempenho do projeto. Com base em valores planejados e reais, o EVM prevê o futuro e permite que os gerentes de projeto se ajustem de acordo. Além disso, é utilizada para integrar escopo, cronograma e recursos em gerência de projetos, que consiste em medir objetivamente o desempenho e o progresso do projeto comparando custos (real e planejado) e valor agregado.</p>
 

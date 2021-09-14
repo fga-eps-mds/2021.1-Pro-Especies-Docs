@@ -19,8 +19,6 @@
 - **Produto**
   - [Documento de Visão](/Product/VisionDocument.md)
   - [Documento de Arquitetura](/Product/ArchitectureDocument.md)
-
-- **Protótipos**
   - [Protótipo de Baixa Fidelidade](/Project/LowFidelityPrototype.md)
   - [Protótipo de Média Fidelidade](/Project/MediumFidelityPrototype.md)
 
@@ -29,8 +27,6 @@
   - [GQM](/Project/GQM.md)
   - [Backlog do Produto](/Product/ProductBacklog.md)
   - [EVM](/Project/EarnedValueManagement.md)
-
-- **Modelagem**
   - [Léxicos](/Lexis/Lexis.md)
 
 - **Sprints**

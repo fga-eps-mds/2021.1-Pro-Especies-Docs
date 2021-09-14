@@ -13,6 +13,7 @@
 | 28/08/2021 |  1.2   | Revisão da Representação arquitetural e adição do diagrama de classes  |   [Iuri Severo](https://github.com/iurisevero)     |
 | 04/09/2021 |  1.3   | Remoção do Diagrama de Casos de Uso |   [João Pedro Guedes](https://github.com/sudjoao)     |
 | 07/09/2021 |  1.4   | Atualização do Diagrama de Classes, da Visão Lógica (tópico 4) e da Representação Arquitetural (tópico 2) |   [Iuri Severo](https://github.com/iurisevero)     |
+| 07/09/2021 |  1.5   | Atualização do Diagrama do link do User Interface |   [João Guedes](https://github.com/sudjoao)     |
 
 
 ## 1. Introdução
@@ -87,8 +88,8 @@ As restrições de arquitetura são:
 
 ## 4. Visão Lógica
 
-<p align="justify"> &emsp;&emsp;A visão lógica será representada por dois diagramas de pacotes, um para tecnologias adotadas no <i>frontend</i> do projeto e um para as tecnologias do <i>backend</i>.
-</br> &emsp;&emsp;O modelo de ambiente de desenvolvimento em <i>Node</i> será usado como base para organização dos repositórios de <a href="https://github.com/fga-eps-mds/2021.1-Pro-Especies-User">Usuários</a>, <a href="https://github.com/fga-eps-mds/2021.1-Pro-Especies-FishLog">Relatórios</a> e <a href="https://github.com/fga-eps-mds/2021.1-Pro-Especies-Wiki">Biblioteca de Dados</a>, enquanto o modelo de ambiente de desenvolvimento em <i>Flutter</i> será usado para o repositório responsável pelo <a href="https://github.com/fga-eps-mds/2021.1-Pro-Especies-Frontend">Aplicativo Mobile</a>.</p>
+<p align="justify"> &emsp;&emsp;A visão lógica será representada por dois diagramas de pacotes, um para tecnologias adotadas na <i>User Interface</i> do projeto e um para as tecnologias dos <i>microsserviços em NodeJS</i>.
+</br> &emsp;&emsp;O modelo de ambiente de desenvolvimento em <i>Node</i> será usado como base para organização dos repositórios de <a href="https://github.com/fga-eps-mds/2021.1-Pro-Especies-User">Usuários</a>, <a href="https://github.com/fga-eps-mds/2021.1-Pro-Especies-FishLog">Relatórios</a> e <a href="https://github.com/fga-eps-mds/2021.1-Pro-Especies-Wiki">Biblioteca de Dados</a>, enquanto o modelo de ambiente de desenvolvimento em <i>Flutter</i> será usado para o repositório responsável pelo <a href="hhttps://github.com/fga-eps-mds/2021.1-Pro-Especies-UserInteface">Aplicativo Mobile</a>.</p>
 
 ### 4.1 Diagrama de Pacotes
 

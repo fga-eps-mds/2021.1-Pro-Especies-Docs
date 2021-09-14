@@ -3,6 +3,7 @@
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
 | 28/08/2021 |  1.0   | Resultados da *Sprint* 0 | [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 12/09/2021 |  1.1   | Atualiazação da Pontuação das US (*User Stories*) | [Lucas Fellipe](https://github.com/lucasfcm9) |
 
 **Data**: 28 de Agosto de 2021
 
@@ -23,12 +24,12 @@
 
 | Issue | Pontos | Status |
 | ----- | ------ | ------ |
-| [E01US01 - Eu, como usuário, desejo poder me cadastrar na plataforma para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/43) | 5 | Concluída |
-| [E01US02 - Eu, como usuário, desejo acessar minha conta na plataforma para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/45) | 3 | Concluída |
-| [E01US03 - Eu, como usuário, desejo ser autenticado pelo aplicativo para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/46) | 3 | Concluída |
-| [E03US04 - Eu, como usuário, desejo poder armazenar dados do fishbase no banco de dados para conseguir informações dos peixes de maneira mais rápida](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/48) | 5 | Não Concluída |
-| [E03US01 - Eu, como usuário, desejo obter dados do fishbase para obter mais informações sobre os peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/52) | 5 | Não Concluída |
-| [E03US03 - Eu, como usuário, desejo poder filtrar os peixes cadastrados de acordo com determinado atributo](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/49) | 3 | Não Concluída |
+| [ES01US01 - Eu, como usuário, desejo poder me cadastrar na plataforma para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/43) | 8 | Não Concluída |
+| [ES01US02 - Eu, como usuário, desejo acessar minha conta na plataforma para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/45) | 5 | Não Concluída |
+| [ES01US03 - Eu, como usuário, desejo ser autenticado pelo aplicativo para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/46) | 5 | Não Concluída |
+| [ES03US04 - Eu, como usuário, desejo poder armazenar dados do fishbase no banco de dados para conseguir informações dos peixes de maneira mais rápida](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/48) | 5 | Não Concluída |
+| [ES03US01 - Eu, como usuário, desejo obter dados do fishbase para obter mais informações sobre os peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/52) | 5 | Não Concluída |
+| [ES03US03 - Eu, como usuário, desejo poder filtrar os peixes cadastrados de acordo com determinado atributo](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/49) | 3 | Não Concluída |
 | [Documentar abertura da Sprint 0 e revisar os artefatos](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/44) | 0 | Concluída |
 | [Configuração do SonarQube no *Frontend*](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/47) | 0 | Não Concluída |
 | [Plano de Gerenciamento de Custos](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/34) | 0 | Concluída |
@@ -64,17 +65,6 @@ __Pontos Totais Concluídos:__ 11 </br>
 * **Paulo Henrique**: Participou e implementou as issues de cadastro, de *login* e de autenticação) junto com o Natan e o Gabriel. Trabalhou mais na questão de gerar esse *token* para a autenticação. Autenticar o usuário agrega bastante valor, para a questão de segurança do *software*.
 
 * **Pedro Rodrigues**: Trabalhou e implementou o ambiente de desenvolvimento, além de ter configurado o *Crawler*. Adicionou o Lint* no *Backend*. O *Lint* agrega bastante valor ao produto por manter o padrão de código para todos.
-
-### Gráfico de Burn-Down
-O gráfico de burndown demonstra a entrega de pontos durante os dias da *Sprint*.
-</br>
-
-![BurndownSprint0](../../Assets/Images/BurndownCharts/BurndownSprint0.png)
-
-
-### Gráfico de Velocity
-
-![VelocitySprint0](../../Assets/Images/VelocityCharts/VelocitySprint0.png)
 
 
 ### Gráfico de BurnDown de Riscos

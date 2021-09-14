@@ -3,6 +3,7 @@
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
 | 04/09/2021 |  1.0   | Resultados da *Sprint* 1 | [Iuri Severo](https://github.com/iurisevero) |
+| 12/09/2021 |  1.1   | Atualiazação da Pontuação das US (*User Stories*) | [Lucas Fellipe](https://github.com/lucasfcm9) |
 
 **Data**: 04 de Setembro de 2021
 
@@ -23,18 +24,18 @@
 
 | Issue | Pontos | Status |
 | ----- | ------ | ------ |
-| [ES02US02 - Eu, como usuário, desejo enviar registro de peixes para o servidor, a fim de realizar a coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/60) | 3 | Concluída |
-| [ES04US03 - Eu, como usuário, desejo visualizar um registro selecionado, a fim de realizar a coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/61) | 1 | Concluída |
-| [ES06US01 - Eu, como usuário, desejo editar ou remover dados do registro, a fim de aumentar a confiabilidade da coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/62) | 3 | Concluída |
-| [E08US02 - Eu, como usuário, desejo acessar o mapa (localização geográfica), a fim de descobrir novas espécies e realizar coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/63) | 3 | Concluída |
-| [E08US03 - Eu, como usuário, desejo salvar minha localização marcada no mapa, a fim de ajudar na coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/71) | 3 | Concluída |
+| [ES02US01 - Eu, como usuário, desejo enviar registro de peixes para o servidor, a fim de realizar a coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/60) | 8 | Não Concluída |
+| [ES04US03 - Eu, como usuário, desejo visualizar um registro selecionado, a fim de realizar a coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/61) | 3 | Não Concluída |
+| [ES06US01 - Eu, como usuário, desejo editar ou remover dados do registro, a fim de aumentar a confiabilidade da coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/62) | 5 | Não Concluída |
+| [ES08US02 - Eu, como usuário, desejo acessar o mapa (localização geográfica), a fim de descobrir novas espécies e realizar coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/63) | 3 | Não Concluída |
+| [ES08US03 - Eu, como usuário, desejo salvar minha localização marcada no mapa, a fim de ajudar na coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/71) | 3 | Não Concluída |
 | [Definir licença e criar uma tabela explicando cada uma](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/69) | 0 | Concluída |
 | Documentar Planning *Sprint* 2 e Fechamento da *Sprint* 1 | 0 | Concluída |
 | [Elaborar NFR](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/68) | 0 | Concluída |
 | [Revisão do diagrama de Casos de Uso](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/67) | 0 | Concluída |
 | [Configuração do SonarQube no *Frontend*](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/47) | 0 | Concluída |
-| Criação do repositório e ambiente de configuração de registro de peixes no GitHub | 0 | Concluída |
-| Elaborar GQM (*Goal Question Metric*) | 0 | Não Concluída |
+| [Criação do repositório e ambiente de configuração de registro de peixes no GitHub](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/112) | 0 | Concluída |
+| [Elaborar GQM (*Goal Question Metric*)](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/111) | 0 | Não Concluída |
 
 __Pontos Planejados:__ 13 </br>
 __Pontos Totais Concluídos:__ 13 </br>
@@ -59,17 +60,6 @@ __Pontos Totais Concluídos:__ 13 </br>
 * **Paulo Henrique**: Participou do desenvolvimento das primeiras partes do *Frontend*. Configurou o acesso ao mapa, o que foi muito trabalhoso. Foram quase 3 dias de configuração antes de conseguir ir para o código em si. Ajudou o Freitas com a *issue dele*, referente a clicar no mapa. Aprendeu bastante coisa. O valor que isso traz para o cliente é a visualização da localização para o registro e a possibilidade de marcar essa posição ao criá-lo.
 
 * **Pedro Rodrigues**: Começou o documento de GQM junto com o Lucas Fellipe. O GQM contribui para o projeto para dar base para medição de qualidade do projeto. Essa semana não conseguiu contribuir muito, pois estava organizando coisas pessoais, o que não influencia direto para o cliente, mas auxilia no desenvolvimento da aplicação.
-
-### Gráfico de Burn-Down
-O gráfico de burndown demonstra a entrega de pontos durante os dias da *Sprint*.
-</br>
-
-![BurndownSprint1](../../Assets/Images/BurndownCharts/BurndownSprint1.png)
-
-
-<!-- ### Gráfico de Velocity -->
-
-<!-- ![VelocitySprint1](../../Assets/Images/VelocityCharts/VelocitySprint1.png) -->
 
 
 ### Gráfico de BurnDown de Riscos
@@ -123,4 +113,4 @@ A equipe de EPS elaborou um quadro de conhecimento com tecnologias consideradas 
 
 
 ## Avaliação do Scrum Master
-A *sprint* 1 teve um grande êxito, a equipe está bem comprometida e a comunicação está constante. Além disso, todas as US (*User Stories*) foram entregues. É necessário que haja um melhor planejamento da *Sprint*. Além disso, é preciso melhorar a questão do conflito de horários entre os MDS e os EPS.
+A *sprint* 1 teve um grande êxito, a equipe está bem comprometida e a comunicação está constante. Além disso, todas as US (*User Stories*) foram entregues. É necessário que haja um melhor planejamento da *Sprint*. Além disso, é preciso melhorar a questão do conflito de horários entre os MDS.

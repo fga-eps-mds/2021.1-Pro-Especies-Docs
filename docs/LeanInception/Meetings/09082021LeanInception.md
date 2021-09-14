@@ -90,3 +90,6 @@ Custo e Cronograma:
 
 # Canvas MVP v1.0
 ![CanvasMVP1.0](../../Assets/Images/LeanInception/CanvasMVP1.0.png)
+
+# Referências
+- CAROLI, Paulo; *Lean Inception: como alinhar pessoas e construir o produto certo*, 2019.

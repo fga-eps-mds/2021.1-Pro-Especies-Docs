@@ -120,3 +120,6 @@ Ideias que ficaram no *Parking Lot*:
 - Discutir sobre a gamificação dentro do escopo do projeto;
 - Discutir sobre questão de *boilerplaite/white label app*;
 - O aplicativo possibilitar a postagem de informações posteriormente.
+
+# Referências
+- CAROLI, Paulo; *Lean Inception: como alinhar pessoas e construir o produto certo*, 2019.

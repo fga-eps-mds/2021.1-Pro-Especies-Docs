@@ -65,3 +65,6 @@ A tabela mostra os resultados:
 |        PBL (Pontos, medalhas e *ranking*)       |        EE        |        $$        |         ❤️        |
 
 Logo após a realização da tabela, a equipe utilizou o gráfico de farol para definir o nível de confiança (o que fazer?) e (como fazer?) para cada funcionalidade. No geral, a equipe foi bem unânime nas respostas.
+
+# Referências
+- CAROLI, Paulo; *Lean Inception: como alinhar pessoas e construir o produto certo*, 2019.

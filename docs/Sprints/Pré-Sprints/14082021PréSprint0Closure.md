@@ -35,6 +35,9 @@
 
 <p align="justify"> &emsp;&emsp;Esse documento refere-se a retrospectiva das atividades realizadas na semana pós <i>Lean Inception</i>. Aqui vamos destacar os principais pontos positivos e pontos negativos que foram listados durante a semana, além das melhorias que devem ser aplicadas para as próximas semanas e quando iniciarmos as <i>sprints</i>.</p>
 
+### Gráfico de BurnDown de Riscos
+![BurnDownRiskPréSprint0](../../Assets/Images/RiskBurnDownCharts/RiskBurnDownPréSprint0.png)
+
 ## Pré-Sprint Retrospective
 
 * **Daniel Coimbra**

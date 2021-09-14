@@ -4,7 +4,7 @@
 |:----------:|:------:|:--------------------:|:-----------------:|
 | 10/08/2021 | 1.0 | Criação do documento do Canvas MVP  | [Lucas Fellipe](https://github.com/lucasfcm9) |
 | 14/08/2021 | 1.1 | Adição da versão 2.0 do Canvas MVP  | [Lucas Fellipe](https://github.com/lucasfcm9) |
-| 14/08/2021 | 1.2 | Adição da versão 3.0 do Canvas MVP  | [João Pedro Guedes](https://github.com/sudjoao) |
+| 13/09/2021 | 1.2 | Adição da versão 3.0 do Canvas MVP  | [João Pedro Guedes](https://github.com/sudjoao) |
 
 Reunião realizada no *Discord*.
 

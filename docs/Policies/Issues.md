@@ -3,11 +3,13 @@
 | Data       | Versão | Descrição            | Autor             |
 |:----------:|:------:|:--------------------:|:-----------------:|
 | 05/08/2021 | 1.0 | Criação do documento de *Issues*  | [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao), [Lucas Fellipe](https://github.com/lucasfcm9) e [Pedro Rodrigues](https://github.com/pedro-prp) |
+| 13/09/2021 | 2.0 | Atualização da política de *Issues* | [João Guedes](https://github.com/sudjoao)) |
 
 ## 1. Nome da Issue
 Caso a *issue* seja uma história de usuário deve-se criar a *issue* da seguinte forma:
-- USXX - Nome da história de usuário.  
-<sub>Em que XX representa o número da história de usuário</sub>
+- EXXUSYY - Nome da história de usuário.  
+<sub>Em que XX representa o número do épico</sub>
+<sub>E YY representa o número da história de usuário</sub>
 
 Caso a *issue* seja uma outra tarefa a ser realizada deve-se criar a *issue* com um nome simples e descritivo:
 - Descrição simples da tarefa a se realizar.

@@ -26,6 +26,7 @@
   - [Plano de Gerenciamento de Riscos](/Project/RiskPlan.md)
   - [GQM](/Project/GQM.md)
   - [Backlog do Produto](/Product/ProductBacklog.md)
+  - [EVM](/Project/EarnedValueManagement.md)
   - [Léxicos](/Lexis/Lexis.md)
 
 - **Sprints**

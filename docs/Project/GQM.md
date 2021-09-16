@@ -86,6 +86,10 @@ A GQM (_Goal Question Metric_) é uma abordagem orientada a objetivos que busca
 | Classificação de Segurança _(Security Rating)_ | Pergunta #6 |
 | Conformidade com a LGPD | Pergunta #7 |
 
+### Representação do GQM em diagrama
+
+![Diagrama do GQM](../Assets/Images/GQM/GQMDiagram.png)
+
 ## Referências
 
 - [http://www.arisa.se/compendium/node61.html](http://www.arisa.se/compendium/node61.html)

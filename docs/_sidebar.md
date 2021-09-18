@@ -19,16 +19,14 @@
 - **Produto**
   - [Documento de Visão](/Product/VisionDocument.md)
   - [Documento de Arquitetura](/Product/ArchitectureDocument.md)
-
-- **Protótipos**
   - [Protótipo de Baixa Fidelidade](/Project/LowFidelityPrototype.md)
   - [Protótipo de Média Fidelidade](/Project/MediumFidelityPrototype.md)
 
 - **Projeto**
   - [Plano de Gerenciamento de Riscos](/Project/RiskPlan.md)
+  - [GQM](/Project/GQM.md)
   - [Backlog do Produto](/Product/ProductBacklog.md)
-
-- **Modelagem**
+  - [EVM](/Project/EarnedValueManagement.md)
   - [Léxicos](/Lexis/Lexis.md)
 
 - **Sprints**
@@ -39,3 +37,5 @@
   - [23/08/2021 - Abertura da *Sprint* 0](/Sprints/Sprint0/23082021Sprint0Opening.md)
   - [28/08/2021 - Fechamento da *Sprint* 0](/Sprints/Sprint0/28082021Sprint0Closure.md)
   - [30/08/2021 - Abertura da *Sprint* 1](/Sprints/Sprint1/30082021Sprint1Opening.md)
+  - [04/09/2021 - Fechamento da *Sprint* 1](/Sprints/Sprint1/04092021Sprint1Closure.md)
+  - [06/09/2021 - Abertura da *Sprint* 2](/Sprints/Sprint2/06092021Sprint2Opening.md)

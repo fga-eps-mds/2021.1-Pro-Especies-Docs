@@ -143,3 +143,6 @@ As ondas ficaram da seguinte forma:
   - PBL (Pontos, Medalhas e *Ranking*).
 
 <p align="justify"> &emsp;&emsp;Logo após isso, a equipe discutiu durante um bom tempo sobre em qual onda seria o nosso MVP. Decidimos por definir o nosso MVP na onda 4, mais especificamente, na funcionalidade de "<b>Pesquisadores poderem modificar o relatório</b>". Nesse caso, todas as outras funcionalidades entram como incremento no nosso produto.</p>
+
+# Referências
+- CAROLI, Paulo; *Lean Inception: como alinhar pessoas e construir o produto certo*, 2019.

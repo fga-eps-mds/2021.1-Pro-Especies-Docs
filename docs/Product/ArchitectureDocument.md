@@ -11,6 +11,9 @@
 | 21/08/2021 |  1.0   | Adição do diagrama de pacotes do biblioteca de dados               |   [Natan Tavares Santana](https://github.com/Neitan2001)     |
 | 25/08/2021 |  1.1   | Revisão do documento, correção de erros e formatação do documento  |   [Lucas Fellipe](https://github.com/lucasfcm9)     |
 | 28/08/2021 |  1.2   | Revisão da Representação arquitetural e adição do diagrama de classes  |   [Iuri Severo](https://github.com/iurisevero)     |
+| 04/09/2021 |  1.3   | Remoção do Diagrama de Casos de Uso |   [João Pedro Guedes](https://github.com/sudjoao)     |
+| 07/09/2021 |  1.4   | Atualização do Diagrama de Classes, da Visão Lógica (tópico 4) e da Representação Arquitetural (tópico 2) |   [Iuri Severo](https://github.com/iurisevero)     |
+| 07/09/2021 |  1.5   | Atualização do Diagrama do link do User Interface |   [João Guedes](https://github.com/sudjoao)     |
 
 
 ## 1. Introdução
@@ -29,6 +32,7 @@
 - *Documento de Arquitetura*. ADA. Disponível em: <https://fga-eps-mds.github.io/2019.1-ADA/#/docs/project/architecture_doc?id=_1-introdu%c3%a7%c3%a3o>. Acesso em: 20 ago. 2021.
 - *Documento de Arquitetura*. AIX. Disponível em: <https://fga-eps-mds.github.io/2019.1-Aix/projeto/2019/03/29/documento-de-arquitetura/>. Acesso em: 20 ago. 2021.
 - *Documento de Arquitetura*. Lend.it. Disponível em: <https://fga-eps-mds.github.io/2020.2-Lend.it/#/_docs/projeto/documento_arquitetura>. Acesso em: 20 ago. 2021.
+- *ReactNative best pratictices With best folder structure*. WEERASINGHE, Saman. Disponível em: <https://samanw.medium.com/reactnative-best-practices-with-best-folder-structure-6d2716d3d9cb>. Acesso em: 11 set. 2021.
 
 ## 2. Representação da Arquitetura
 
@@ -46,20 +50,17 @@ Esse microsserviço é responsável por tudo que é relacionado aos relatórios 
 
 Esse microsserviço é responsável pelo gerenciamento de usuários na plataforma, como a criação e a diferenciação de tipos de usuários: Pescadores e Pesquisadores.
 
-#### 2.1.3 Biblioteca de Dados
+#### 2.1.3 Serviço de Wiki
 
-Esse microsserviço é responsável pelo armazenamento de dados de Peixes coletados no *FishBase* ou cadastrados pelos Pesquisadores na plataforma a fim de disponibilizar informações que ajudem os pescadores a fazerem relatórios com dados mais exatos.
+Esse microsserviço é responsável pelo armazenamento de dados sobre Peixes, adquiridos  a partir do consumo de uma planilha de informações disponibilizada pelos pesquisadores,  a fim de fornecer conhecimentos que ajudem os pescadores a fazerem relatórios mais exatos.
 
 ### 2.2 Tecnologias
 
-#### Flutter
-*Flutter* é um kit de desenvolvimento de interface de usuário, de código aberto, criado pelo *Google*, que possibilita a criação de aplicativos compilados nativamente.
+#### Expo
+*Expo* é uma plataforma de desenvolvimento OpenSource para desenvolvimento tanto para Android quanto para iOs.
 
 #### Node.js
 O *Node.js* é um ambiente de execução JavaScript *server-side*, permitindo criar aplicações JavaScript para rodar como uma aplicação *standalone* em uma máquina, não dependendo de um *browser* para a execução.</p>
-
-#### Python
-*Python* é uma linguagem de programação de alto nível, interpretada de *script*, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
 
 #### MongoDB
 *MongoDB* é um *software* de banco de dados orientado a documentos livres, de código aberto e multiplataforma. É classificado como um programa de banco de dados *NoSQL*. Além disso, o *MongoDB* usa documentos semelhantes a *JSON* com esquemas.</p>
@@ -85,43 +86,29 @@ As restrições de arquitetura são:
  - Possuir a plataforma atualizada para a última versão que o software requer;
  - Ter conta na *App Store* ou *Play Store*.
 
-## 4. Visão de Casos de Uso
+## 4. Visão Lógica
 
-### 4.1 Diagrama de casos de uso
-![Diagrama de casos de uso](../Assets/Images/ArchitectureDocument/UseCase.png)
+<p align="justify"> &emsp;&emsp;A visão lógica será representada por dois diagramas de pacotes, um para tecnologias adotadas na <i>User Interface</i> do projeto e um para as tecnologias dos <i>microsserviços em NodeJS</i>.
+</br> &emsp;&emsp;O modelo de ambiente de desenvolvimento em <i>Node</i> será usado como base para organização dos repositórios de <a href="https://github.com/fga-eps-mds/2021.1-Pro-Especies-User">Usuários</a>, <a href="https://github.com/fga-eps-mds/2021.1-Pro-Especies-FishLog">Relatórios</a> e <a href="https://github.com/fga-eps-mds/2021.1-Pro-Especies-Wiki">Biblioteca de Dados</a>, enquanto o modelo de ambiente de desenvolvimento em <i>Flutter</i> será usado para o repositório responsável pelo <a href="hhttps://github.com/fga-eps-mds/2021.1-Pro-Especies-UserInteface">Aplicativo Mobile</a>.</p>
 
-### 4.2 Especificações dos casos de uso
+### 4.1 Diagrama de Pacotes
 
-|                   Casos de Uso                    |          Ator          |                                                 Descrição                                                 |
-| :-----------------------------------------------: | :--------------------: | :-------------------------------------------------------------------------------------------------------: |
-|             UC01 - Enviar Relatórios              |        Pescador        |              Preencher um relatório com os dados do peixe e enviar o mesmo para ser validado              |
-|      UC02 - Enviar Relatórios posteriormente      |        Pescador        | Preencher um relatório do peixe e armazenar no celular para ser enviado assim que tiver acesso à *internet* |
-|           UC03 - Acessar wiki de Peixes           | Pescador e Pesquisador |                           Acessar uma *wiki* com dados de peixes pré-cadastrados                            |
-| UC04 - Disponibilizar relatórios para verificação |      Pesquisador       |                  Acessar relatórios feito por pescadores e visualizar os dados relatados                  |
-|            UC05 - Confirmar relatório             |      Pesquisador       |                              Confirmar um relatório enviado por um pescador                               |
-|          UC05 - Editar/Deletar Relatório          |      Pesquisador       |                    Editar ou remover os dados de um relatório enviado por um pescador                     |
-
-## 5. Visão Lógica
-
-### 5.1 Diagrama de Pacotes
-
-#### Front-End
+#### Aplicativo Mobile
 ![Diagrama de pacotes-Front](../Assets/Images/ArchitectureDocument/FrontPackageDiagram.png)
 
-#### Back-End
+#### Serviço de Usuários, Relatórios e Wiki
 ![Diagrama de pacotes-Back](../Assets/Images/ArchitectureDocument/BackPackageDiagram.png)
 
-#### Biblioteca de Dados
-![Diagrama de pacotes-Crawler](../Assets/Images/ArchitectureDocument/CrawlerPackageDiagram.png)
-
-## 6. Visão de Implementação
+## 5. Visão de Implementação
 
 <p align="justify"> &emsp;&emsp;A visão de implementação apresenta os detalhes de implementação do sistema. O Diagrama de Classes é uma de suas principais representações.</p>
 
-### 6.1 Diagrama de Classes
+### 5.1 Diagrama de Classes v1.1
 
 <p align="justify"> &emsp;&emsp;O Diagrama de Classes é uma representação da estrutura e relações das classes que servem de modelo para os objetos.</p>
 
 ![Diagrama de Classes](../Assets/Images/ArchitectureDocument/ClassDiagram.png)
+
+<sub><a href="https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/blob/dc33e69d07c98d0e85e17a05afa6ed82d8fa388e/docs/Assets/Images/ArchitectureDocument/ClassDiagram.png">Link para acesso a versão 1.0 do Diagrama de Classes</a></sub>
 
 <p align="justify"> &emsp;&emsp; O diagrama acima representa os três principais serviços levantados para o produto. A associação entre usuário e registro de peixes será utilizada para relacionar os objetos gerados.</p>

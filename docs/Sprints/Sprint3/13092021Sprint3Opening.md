@@ -41,7 +41,7 @@
 | ES07US01 - Eu, como pesquisador, desejo filtrar os registros, para facilitar a minha busca | Gabriel Freitas e Natan Tavares | 3 | 0 |
 | HOTFIX - Refatoração das models do Serviço de Registro | Gabriel Freitas e Natan Tavares | 0 | 0 |
 | HOTFIX - Retorno de Dados no Cadastro | Natan Tavares | 0 | 0 |
-| Documentar fechamento da *Sprint* 2 | Lucas Fellipe | 0 | 0 |
+| Documentar fechamento da *Sprint* 2 e abertura da *Sprint* 3 | Lucas Fellipe | 0 | 0 |
 
 > Se houver débito técnico ele deverá ser incluso na tabela de Sprint Baccklog e a coluna de Débito Técnico deverá ser alterada para "1" (true)
 

@@ -39,3 +39,5 @@
   - [30/08/2021 - Abertura da *Sprint* 1](/Sprints/Sprint1/30082021Sprint1Opening.md)
   - [04/09/2021 - Fechamento da *Sprint* 1](/Sprints/Sprint1/04092021Sprint1Closure.md)
   - [06/09/2021 - Abertura da *Sprint* 2](/Sprints/Sprint2/06092021Sprint2Opening.md)
+  - [13/09/2021 - Fechamento da *Sprint* 2](/Sprints/Sprint2/13092021Sprint2Closure.md)
+  - [13/09/2021 - Abertura da *Sprint* 3](/Sprints/Sprint3/13092021Sprint3Opening.md)

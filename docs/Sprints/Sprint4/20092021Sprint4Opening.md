@@ -39,12 +39,12 @@
 | [Elaborar a Identidade Visual do Aplicativo](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/118) | João Pedro Guedes | 0 | 0 |
 | [Estudar plataformas para fazer deploy dos serviços](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/124) | Iuri Severo | 0 | 0 |
 | [Criação da primeira versão do protótipo de alta fidelidade](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/119) | João Pedro Guedes | 0 | 0 |
-| [ES01US01 - Eu, como usuário, desejo poder me cadastrar na plataforma para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/43) | Daniel Coimbra e Natan Tavares | 8 | 1 |
-| [ES01US02 - Eu, como usuário, desejo acessar minha conta na plataforma para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/45) | Daniel Coimbra e Natan Tavares | 5 | 1 |
+| [E01US01 - Eu, como usuário, desejo poder me cadastrar na plataforma para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/43) | Daniel Coimbra e Natan Tavares | 8 | 1 |
+| [E01US02 - Eu, como usuário, desejo acessar minha conta na plataforma para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/45) | Daniel Coimbra e Natan Tavares | 5 | 1 |
 | [E01US03 - Eu, como usuário, desejo ser autenticado pelo aplicativo para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/46) | Daniel Coimbra e Natan Tavares | 5 | 1 |
-| [ES03US01 - Eu, como usuário, desejo visualizar informações de um peixe na *wiki*, a fim de facilitar o reconhecimento de espécies](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/77) | Gabriel Freitas, Paulo Henrique e João Victor Batista | 8 | 1 |
+| [E03US01 - Eu, como usuário, desejo visualizar informações de um peixe na *wiki*, a fim de facilitar o reconhecimento de espécies](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/77) | Gabriel Freitas, Paulo Henrique e João Victor Batista | 8 | 1 |
 | [E03US02 - Eu, como usuário, desejo receber dados dinamicamente da planilha dos pesquisadores, a fim de visualizar dados de peixes na *wiki*](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/76) | Paulo Henrique, Daniel Coimbra e João Victor Batista  | 8 | 1 |
-| [ES07US02 - Eu,como pesquisador,desejo exportar os registros para fora do aplicativo, para melhores estudos sobre os dados registrados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/85) |            Gabriel Freitas e Natan Tavares            | 5 | 1 |
+| [E07US02 - Eu,como pesquisador,desejo exportar os registros para fora do aplicativo, para melhores estudos sobre os dados registrados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/85) |            Gabriel Freitas e Natan Tavares            | 5 | 1 |
 
 > Se houver débito técnico ele deverá ser incluso na tabela de Sprint Baccklog e a coluna de Débito Técnico deverá ser alterada para "1" (true)
 

@@ -35,12 +35,12 @@
 
 | Descrição da Tarefa | Responsável(eis) | Pontuação | Débito Técnico |
 | ------------------- | ---------------- | :-------: | :------------: |
-| [ES01US01 - Eu, como usuário, desejo poder me cadastrar na plataforma para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/43) | Natan Tavares, Paulo Henrique e Gabriel Freitas | 8 | 0 |
-| [ES01US02 - Eu, como usuário, desejo acessar minha conta na plataforma para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/45) | Natan Tavares, Paulo Henrique e Gabriel Freitas | 5 | 0 |
-| [ES01US03 - Eu, como usuário, desejo ser autenticado pelo aplicativo para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/46) | Natan Tavares, Paulo Henrique e Gabriel Freitas | 5 | 0 |
-| [ES03US04 - Eu, como usuário, desejo poder armazenar dados do fishbase no banco de dados para conseguir informações dos peixes de maneira mais rápida](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/48) | Daniel Coimbra e João Victor | 5 | 0 |
-| [ES03US01 - Eu, como usuário, desejo obter dados do fishbase para obter mais informações sobre os peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/52) | Daniel Coimbra e João Victor | 5 | 0 |
-| [ES03US03 - Eu, como usuário, desejo poder filtrar os peixes cadastrados de acordo com determinado atributo](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/49) | Daniel Coimbra e João Victor | 3 | 0 |
+| [E01US01 - Eu, como usuário, desejo poder me cadastrar na plataforma para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/43) | Natan Tavares, Paulo Henrique e Gabriel Freitas | 8 | 0 |
+| [E01US02 - Eu, como usuário, desejo acessar minha conta na plataforma para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/45) | Natan Tavares, Paulo Henrique e Gabriel Freitas | 5 | 0 |
+| [E01US03 - Eu, como usuário, desejo ser autenticado pelo aplicativo para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/46) | Natan Tavares, Paulo Henrique e Gabriel Freitas | 5 | 0 |
+| [E03US04 - Eu, como usuário, desejo poder armazenar dados do fishbase no banco de dados para conseguir informações dos peixes de maneira mais rápida](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/48) | Daniel Coimbra e João Victor | 5 | 0 |
+| [E03US01 - Eu, como usuário, desejo obter dados do fishbase para obter mais informações sobre os peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/52) | Daniel Coimbra e João Victor | 5 | 0 |
+| [E03US03 - Eu, como usuário, desejo poder filtrar os peixes cadastrados de acordo com determinado atributo](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/49) | Daniel Coimbra e João Victor | 3 | 0 |
 | [Documentar os Léxicos](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/53) | Daniel Coimbra e João Victor | 0 | 0 |
 | [Documentar Abertura da Sprint 0 e revisar os artefatos](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/44) | Lucas Fellipe      | 0 | 0 |
 | [Elaborar o Plano de Gerenciamento de Custos](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/34) | Lucas Fellipe e João Pedro | 0 | 0 |

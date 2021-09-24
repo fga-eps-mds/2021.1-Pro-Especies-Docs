@@ -25,11 +25,11 @@
 
 | Issue | Pontos | Status | Observação |
 | ----- | :----: | :----: | :----: |
-| [ES02US01 - Eu, como usuário, desejo criar um registro de peixes para o servidor, a fim de realizar a coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/60) | 8 | Não Concluída | Foi realizada apenas no *BackEnd*, devido a falta de um Protótipo de Alta Fidelidade |
-| [ES04US03 - Eu, como usuário, desejo visualizar registro selecionado, a fim de realizar a coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/61) | 3 | Não Concluída | Foi realizada apenas no *BackEnd*, devido a falta de um Protótipo de Alta Fidelidade |
-| [ES06US01 - Eu, como usuário, desejo editar ou remover dados do registro, a fim de aumentar a confiabilidade da coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/62) | 5 | Não Concluída | Foi realizada apenas no *BackEnd*, devido a falta de um Protótipo de Alta Fidelidade |
-| [ES08US01 - Eu, como usuário, desejo acessar o mapa da minha localização no cadastro de registro, a fim de realizar o registro para coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/63) | 3 | Não Concluída | Foi realizada apenas no *BackEnd*, devido a falta de um Protótipo de Alta Fidelidade |
-| [ES08US02 - Eu, como usuário, desejo salvar minha localização marcada no mapa, a fim de ajudar na coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/71) | 3 | Não Concluída | Foi realizada apenas no *BackEnd*, devido a falta de um Protótipo de Alta Fidelidade |
+| [E02US01 - Eu, como usuário, desejo criar um registro de peixes para o servidor, a fim de realizar a coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/60) | 8 | Não Concluída | Foi realizada apenas no *BackEnd*, devido a falta de um Protótipo de Alta Fidelidade |
+| [E04US03 - Eu, como usuário, desejo visualizar registro selecionado, a fim de realizar a coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/61) | 3 | Não Concluída | Foi realizada apenas no *BackEnd*, devido a falta de um Protótipo de Alta Fidelidade |
+| [E06US01 - Eu, como usuário, desejo editar ou remover dados do registro, a fim de aumentar a confiabilidade da coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/62) | 5 | Não Concluída | Foi realizada apenas no *BackEnd*, devido a falta de um Protótipo de Alta Fidelidade |
+| [E08US01 - Eu, como usuário, desejo acessar o mapa da minha localização no cadastro de registro, a fim de realizar o registro para coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/63) | 3 | Não Concluída | Foi realizada apenas no *BackEnd*, devido a falta de um Protótipo de Alta Fidelidade |
+| [E08US02 - Eu, como usuário, desejo salvar minha localização marcada no mapa, a fim de ajudar na coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/71) | 3 | Não Concluída | Foi realizada apenas no *BackEnd*, devido a falta de um Protótipo de Alta Fidelidade |
 | [Definir licença e criar uma tabela explicando cada uma](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/69) | 0 | Concluída | - |
 | Documentar Planning *Sprint* 1 e Fechamento da *Sprint* 0 | 0 | Concluída | - |
 | [Elaborar NFR](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/68) | 0 | Concluída | - |
@@ -116,4 +116,4 @@ A equipe de EPS elaborou um quadro de conhecimento com tecnologias consideradas 
 
 
 ## Avaliação do Scrum Master
-A *sprint* 1 teve um grande êxito, a equipe está bem comprometida e a comunicação está constante. Todas as US (*User Stories*) foram entregues, mas, no caso, foram realizadas somente no *BackEnd*, pelo fato da falta de um Protótipo de Alta Fidelidade. Além disso, é necessário que haja um melhor planejamento da *Sprint*. Além disso, é preciso melhorar a questão do conflito de horários entre os MDS.
+A *sprint* 1 teve um grande êxito, a equipe está bem comprometida e a comunicação está constante. As US (*User Stories*) foram realizadas somente no *BackEnd*, pelo fato da falta de um Protótipo de Alta Fidelidade. Além disso, é necessário que haja um melhor planejamento da *Sprint*. Além disso, é preciso melhorar a questão do conflito de horários entre os MDS.

@@ -36,11 +36,11 @@
 
 | Descrição da Tarefa | Responsável(eis) | Pontuação | Débito Técnico |
 | ------------------- | ---------------- | :-------: | :------------: |
-| [ES02US01 - Eu, como usuário, desejo criar um registro de peixes para o servidor, a fim de realizar a coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/60) | Natan Tavares, João Victor e Daniel Coimbra | 8 | 0 |
-| [ES04US03 - Eu, como usuário, desejo visualizar registro selecionado, a fim de realizar a coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/61) | Natan Tavares, João Victor e Daniel Coimbra | 3 | 0 |
-| [ES06US01 - Eu, como usuário, desejo editar ou remover dados do registro, a fim de aumentar a confiabilidade da coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/62) | Natan Tavares, João Victor e Daniel Coimbra | 5 | 0 |
-| [ES08US01 - Eu, como usuário, desejo acessar o mapa da minha localização no cadastro de registro, a fim de realizar o registro para coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/63) | Paulo Henrique e Gabriel Freitas | 3 | 0 |
-| [ES08US02 - Eu, como usuário, desejo salvar minha localização marcada no mapa, a fim de ajudar na coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/71) | Paulo Henrique e Gabriel Freitas | 3 | 0 |
+| [E02US01 - Eu, como usuário, desejo criar um registro de peixes para o servidor, a fim de realizar a coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/60) | Natan Tavares, João Victor e Daniel Coimbra | 8 | 0 |
+| [E04US03 - Eu, como usuário, desejo visualizar registro selecionado, a fim de realizar a coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/61) | Natan Tavares, João Victor e Daniel Coimbra | 3 | 0 |
+| [E06US01 - Eu, como usuário, desejo editar ou remover dados do registro, a fim de aumentar a confiabilidade da coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/62) | Natan Tavares, João Victor e Daniel Coimbra | 5 | 0 |
+| [E08US01 - Eu, como usuário, desejo acessar o mapa da minha localização no cadastro de registro, a fim de realizar o registro para coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/63) | Paulo Henrique e Gabriel Freitas | 3 | 0 |
+| [E08US02 - Eu, como usuário, desejo salvar minha localização marcada no mapa, a fim de ajudar na coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/71) | Paulo Henrique e Gabriel Freitas | 3 | 0 |
 | [Definir licença e criar uma tabela explicando cada uma](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/69) | Iuri Severo e João Pedro Guedes | 0 | 0 |
 | Documentar Planning *Sprint* 1 e Fechamento da *Sprint* 0 | Lucas Fellipe | 0 | 0 |
 | [Elaborar NFR](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/68) | João Pedro Guedes e Iuri Severo | 0 | 0 |

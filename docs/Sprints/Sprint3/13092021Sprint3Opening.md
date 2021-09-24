@@ -36,9 +36,9 @@
 
 | Descrição da Tarefa | Responsável(eis) | Pontuação | Débito Técnico |
 | ------------------- | :--------------: | :-------: | :------------: |
-| [ES07US01 - Eu, como pesquisador, desejo filtrar os registros, para facilitar a minha busca](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/84) | Gabriel Freitas e Natan Tavares | 3 | 0 |
+| [E07US01 - Eu, como pesquisador, desejo filtrar os registros, para facilitar a minha busca](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/84) | Gabriel Freitas e Natan Tavares | 3 | 0 |
 | [E07US02 - Eu, como pesquisador, desejo exportar os registros para fora do aplicativo, para melhores estudos sobre os dados registrados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/85) | Gabriel Freitas e Natan Tavares | 5 | 0 |
-| [ES03US02 - Eu, como usuário, desejo receber dados dinamicamente da planilha dos pesquisadores, a fim de visualizar dados dos peixes na wiki](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/76) | Daniel Coimbra, Paulo Henrique e João Victor Batista | 8 | 0 |
+| [E03US02 - Eu, como usuário, desejo receber dados dinamicamente da planilha dos pesquisadores, a fim de visualizar dados dos peixes na wiki](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/76) | Daniel Coimbra, Paulo Henrique e João Victor Batista | 8 | 0 |
 | [Preparação e apresentação do *Dojo* de *React Native*](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/120) | João Pedro | 0 | 0 |
 | [HOTFIX - Refatoração das *models* do Serviço de Registro](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/117) | Gabriel Freitas e Natan Tavares | 0 | 0 |
 | [HOTFIX - Retorno de Dados no Cadastro](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/116) |                    Natan Tavares                     | 0 | 0 |

@@ -24,12 +24,12 @@
 
 | Issue | Pontos | Status | Observação |
 | :---- | :----: | :----: | :----: |
-| [ES01US01 - Eu, como usuário, desejo poder me cadastrar na plataforma para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/43) | 8 | Não Concluída | Foi realizada somente no *Backend* |
-| [ES01US02 - Eu, como usuário, desejo acessar minha conta na plataforma para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/45) | 5 | Não Concluída | Foi realizada somente no *Backend* |
-| [ES01US03 - Eu, como usuário, desejo ser autenticado pelo aplicativo para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/46) | 5 | Não Concluída | Foi realizada somente no *Backend* |
-| [ES03US04 - Eu, como usuário, desejo poder armazenar dados do fishbase no banco de dados para conseguir informações dos peixes de maneira mais rápida](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/48) | 5 | Não Concluída | - |
-| [ES03US01 - Eu, como usuário, desejo obter dados do fishbase para obter mais informações sobre os peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/52) | 5 | Não Concluída | - |
-| [ES03US03 - Eu, como usuário, desejo poder filtrar os peixes cadastrados de acordo com determinado atributo](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/49) | 3 | Não Concluída | - |
+| [E01US01 - Eu, como usuário, desejo poder me cadastrar na plataforma para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/43) | 8 | Não Concluída | Foi realizada somente no *Backend* |
+| [E01US02 - Eu, como usuário, desejo acessar minha conta na plataforma para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/45) | 5 | Não Concluída | Foi realizada somente no *Backend* |
+| [E01US03 - Eu, como usuário, desejo ser autenticado pelo aplicativo para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/46) | 5 | Não Concluída | Foi realizada somente no *Backend* |
+| [E03US04 - Eu, como usuário, desejo poder armazenar dados do fishbase no banco de dados para conseguir informações dos peixes de maneira mais rápida](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/48) | 5 | Não Concluída | - |
+| [E03US01 - Eu, como usuário, desejo obter dados do fishbase para obter mais informações sobre os peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/52) | 5 | Não Concluída | - |
+| [E03US03 - Eu, como usuário, desejo poder filtrar os peixes cadastrados de acordo com determinado atributo](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/49) | 3 | Não Concluída | - |
 | [Documentar Abertura da Sprint 0 e revisar os artefatos](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/44) | 0 | Concluída | - |
 | [Configuração do SonarQube no *Frontend*](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/47) | 0 | Não Concluída | - |
 | [Elaborar o Plano de Gerenciamento de Custos](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/34) | 0 | Concluída | - |

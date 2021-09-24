@@ -23,9 +23,9 @@
 
 | Issue | Pontos | Status | Observação |
 | ----- | :----: | :----: | :----: |
-| [ES07US01 - Eu, como pesquisador, desejo filtrar os registros, para facilitar a minha busca](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/84) | 3 | Não Concluída | Foi realizada apenas no *BackEnd*, devido a falta de um Protótipo de Alta Fidelidade |
+| [E07US01 - Eu, como pesquisador, desejo filtrar os registros, para facilitar a minha busca](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/84) | 3 | Não Concluída | Foi realizada apenas no *BackEnd*, devido a falta de um Protótipo de Alta Fidelidade |
 | [E07US02 - Eu, como pesquisador, desejo exportar os registros para fora do aplicativo, para melhores estudos sobre os dados registrados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/85) | 5 | Não Concluída | Foi realizada apenas no *BackEnd*, devido a falta de um Protótipo de Alta Fidelidade |
-| [ES03US02 - Eu, como usuário, desejo receber dados dinamicamente da planilha dos pesquisadores, a fim de visualizar dados dos peixes na wiki](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/76) | 8 | Não Concluída | - |
+| [E03US02 - Eu, como usuário, desejo receber dados dinamicamente da planilha dos pesquisadores, a fim de visualizar dados dos peixes na wiki](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/76) | 8 | Não Concluída | - |
 | [Preparação e apresentação do *Dojo* de *React Native*](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/120) | 0 | Concluída | - |
 | [HOTFIX - Refatoração das *models* do Serviço de Registro](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/117) | 0 | Concluída | - |
 | [HOTFIX - Retorno de Dados no Cadastro](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/116) | 0 | Concluída | - |
@@ -51,7 +51,7 @@ __Pontos Totais Concluídos:__ 0 </br>
 
 * **Natan Tavares**: Essa semana mexeu em um dos HOTFIX do usuário, além de mexer na *issue* de filtragem do registro por *status*, mas não terminaram e a de exportar os relatórios. Agrega valor ao usuário e a questão do HOTFIX traz segurança para o nosso produto.
 
-* **Paulo Henrique**: 
+* **Paulo Henrique**: Aplicou a prática dos estudos que eu fiz sobre a API do *Dropbox* pelo fato de ter que conectar essa API com o projeto. Agrega valor ao produto, pois é através dessa conexão que a equipe vai consumir os dados dos peixes.
 
 * **Pedro Rodrigues**: Fez revisões nas *Releases* e adicionei as metricas extraídas do *SonarCloud* nos *assets*. Agrega valor ao produto pois é uma forma de catalogar e demonstrar nosso trabalho.
 
@@ -89,9 +89,9 @@ __Pontos Totais Concluídos:__ 0 </br>
     * Negativos: A *Sprint* ter começado na segunda foi bem ruim, pelo fato de termos perdido um dia de trabalho. Pecamos na área de detalhamento da *issue* de exportação;
     * Melhorias: Detalhar melhor os requisitos.
 * **Paulo Henrique**
-    * Positivos: 
-    * Negativos: 
-    * Melhorias: 
+    * Positivos: Todos estavam comprometidos a entregar as *issues*;
+    * Negativos: Não conseguimos entregar a *issue* por completo por alguns motivos;
+    * Melhorias: Compromisso da minha parte com o projeto.
 * **Pedro Rodrigues**
     * Positivos: Conseguimos realizar a entrega da *Release* 1 e a apresentação da mesma para o cliente. Além disso, conseguimos trocar a tecnologia para o RN, evitando o risco do *Flutter* com o *SonarCloud*;
     * Negativos: Tive que me ausentar metade da semana para uma viagem de emergência;

@@ -49,8 +49,10 @@
 > Se houver débito técnico ele deverá ser incluso na tabela de Sprint Baccklog e a coluna de Débito Técnico deverá ser alterada para "1" (true)
 
 # Pareamentos MDS
-* Daniel Coimbra, Paulo Henrique e João Victor;
-* Gabriel Freitas e Natan Tavares.
+* Gabriel Freitas, Paulo Henrique e João Victor Batista;
+* Daniel Coimbra e Natan Tavares;
+* Paulo Henrique, Daniel Coimbra e João Victor Batista;
+* Gabriel Freitas e Natan Tavares;
 
 # Papéis
 ***Scrum Master***: Lucas Fellipe<br>

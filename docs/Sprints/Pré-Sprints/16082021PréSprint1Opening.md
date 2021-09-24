@@ -33,11 +33,11 @@
 
 | Descrição da Tarefa | Responsável(eis) |
 | ------------------- | ---------------- |
-| Elaboração do Documento de Visão | Daniel Coimbra, Gabriel Freitas, Paulo Henrique, Natan Tavares e João Victor |
-| Elaboração do Documento de Arquitetura | Daniel Coimbra, Gabriel Freitas, Paulo Henrique, Natan Tavares, João Victor e Iuri Severo |
-| Criação do *Backlog* do Produto V1.0 | Todos |
-| Documentar o *Planning* da *Sprint* 1 | Lucas Fellipe |
-| Estilização da *Wiki* | João Pedro |
+| [Elaborar o Documento de Visão](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/25) | Daniel Coimbra, Gabriel Freitas, Paulo Henrique, Natan Tavares e João Victor |
+| [Elaborar o Documento de Arquitetura](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/26) | Daniel Coimbra, Gabriel Freitas, Paulo Henrique, Natan Tavares, João Victor e Iuri Severo |
+| [Criação do Backlog do Produto V1.0](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/31) | Todos |
+| [Documentar Planejamento Sprint 0 e Fechamento da Pré-Sprint 0](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/32) | Lucas Fellipe |
+| [Estilização da *WIki*](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/pull/37) | João Pedro Guedes |
 
 # Papéis
 ***Scrum Master***: Lucas Fellipe<br>

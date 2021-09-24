@@ -21,18 +21,20 @@
 
 ## Fechamento da Sprint
 
-| Issue | Pontos | Status |
-| ----- | ------ | ------ |
-| [E03US01 - Eu, como usuário desejo visualizar informações de um peixe na wiki, a fim de facilitar o reconhecimento de espécies](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/77) | 8 | Não Concluída |
-| [Elaborar GQM (*Goal Question Metric*)](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/111) | 0 | Concluída |
-| Documentar *Planning* da *Sprint* 2 e Fechamento da *Sprint* 1 | 0 | Não Concluída |
-| Estudar a API do *Dropbox* | 0 | Concluída |
-| [Refatoração de documentos](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/90) | 0 | Concluída |
-| [Coleta de Dados do *SonarCloud*](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/93) | 0 | Concluída |
-| Documentar Planning *Sprint* 2 e Fechamento da *Sprint* 1 | 0 | Concluída |
-| Testes no serviço de interface do usuário | 0 | Concluída |
-| Teste no serviço do *fishlog* | 0 | Concluída |
-| Testes no serviço de usuário | 0 | Concluída |
+| Issue | Pontos | Status | Observação |
+| ----- | :----: | :----: | ----- |
+| [E03US01 - Eu, como usuário desejo visualizar informações de um peixe na wiki, a fim de facilitar o reconhecimento de espécies](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/77) | 8 | Não Concluída | Foi realizada apenas no *BackEnd*, devido a falta de um Protótipo de Alta Fidelidade |
+| [Elaborar GQM (*Goal Question Metric*)](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/111) | 0 | Concluída | - |
+| [Testes no repositório do *FishWiki*](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/108) | 0 | Concluída | - |
+| [Coleta de dados do *SonarCloud*](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/93) | 0 | Concluída | - |
+| [Refatoração de documentos](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/90) | 0 | Concluída | - |
+| [Testes no repositório de Registros](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/95) | 0 | Concluída | - |
+| [Testes no projeto de *Flutter*](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/106) | 0 | Concluída | Não foi realizada devido a mudança arquitetural |
+| [Testes no repositório de Usuários](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/94) | 0 | Não Concluída | - |
+| [Configurar *Lint* do *Flutter*](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/89) | 0 | Não Concluída | Não foi realizada devido a mudança arquitetural |
+| [Configurar *CodeCov* nos serviços](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/109) | 0 | Concluída | Foi realizadas, porém, colocamos toda a cobertura de testes no próprio *SonarCloud* |
+| [Atualizar main dos repositórios](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/91) | 0 | Concluída | - |
+| [Documentar Fechamento da *Sprint* 1 e Abertura da *Sprint* 2](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/126) | 0 | Concluída | - |
 
 __Pontos Planejados:__ 8 </br>
 __Pontos Totais Concluídos:__ 0 </br>

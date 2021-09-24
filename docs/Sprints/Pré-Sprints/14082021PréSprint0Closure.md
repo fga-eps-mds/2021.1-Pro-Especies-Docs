@@ -24,11 +24,11 @@
 | Issue | Pontos | Status |
 | ----- | ------ | ------ |
 | [Criar Gráfico de *Gantt*](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/24) | 0 | Concluída |
-| [Criar *Product Backlog*](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/21) | 0 | Concluída |
+| [Criação do modelo inicial do *Backlog* do Produto](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/21) | 0 | Concluída |
 | [Confecção do Protótipo de Média Fidelidade](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/27) | 0 | Concluída |
-| [Definir padrão arquitetural](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/19) | 0 | Concluída |
-| [Criar Plano de Gerenciamento de Riscos](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/23) | 0 | Concluída |
-| [*Dockerizar* ambientes de desenvolvimento](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/20) | 0 | Concluída |
+| [Definição do modelo inicial de arquitetura](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/19) | 0 | Concluída |
+| [Criação do modelo inicial do Plano de Gerenciamento de Riscos](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/23) | 0 | Concluída |
+| [*Dockerização* dos ambientes de desenvolvimento](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/20) | 0 | Concluída |
 | [Realizar Protótipos de Baixa Fidelidade](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/17) | 0 | Concluída |
 
 [Milestone Pré-Sprint 0](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/milestone/2?closed=1)

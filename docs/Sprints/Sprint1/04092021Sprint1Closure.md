@@ -3,7 +3,8 @@
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
 | 04/09/2021 |  1.0   | Resultados da *Sprint* 1 | [Iuri Severo](https://github.com/iurisevero) |
-| 12/09/2021 |  1.1   | Atualiazação da Pontuação das US (*User Stories*) | [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 12/09/2021 |  1.1   | Atualização da Pontuação das US (*User Stories*) | [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 22/09/2021 | 1.2 | Adição de uma coluna de Observação no fechamento da *Sprint* e atualização das *issues* | [Lucas Fellipe](https://github.com/lucasfcm9) |
 
 **Data**: 04 de Setembro de 2021
 
@@ -22,23 +23,25 @@
 
 ## Fechamento da Sprint
 
-| Issue | Pontos | Status |
-| ----- | ------ | ------ |
-| [ES02US01 - Eu, como usuário, desejo enviar registro de peixes para o servidor, a fim de realizar a coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/60) | 8 | Não Concluída |
-| [ES04US03 - Eu, como usuário, desejo visualizar um registro selecionado, a fim de realizar a coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/61) | 3 | Não Concluída |
-| [ES06US01 - Eu, como usuário, desejo editar ou remover dados do registro, a fim de aumentar a confiabilidade da coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/62) | 5 | Não Concluída |
-| [ES08US02 - Eu, como usuário, desejo acessar o mapa (localização geográfica), a fim de descobrir novas espécies e realizar coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/63) | 3 | Não Concluída |
-| [ES08US03 - Eu, como usuário, desejo salvar minha localização marcada no mapa, a fim de ajudar na coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/71) | 3 | Não Concluída |
-| [Definir licença e criar uma tabela explicando cada uma](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/69) | 0 | Concluída |
-| Documentar Planning *Sprint* 2 e Fechamento da *Sprint* 1 | 0 | Concluída |
-| [Elaborar NFR](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/68) | 0 | Concluída |
-| [Revisão do diagrama de Casos de Uso](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/67) | 0 | Concluída |
-| [Configuração do SonarQube no *Frontend*](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/47) | 0 | Concluída |
-| [Criação do repositório e ambiente de configuração de registro de peixes no GitHub](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/112) | 0 | Concluída |
-| [Elaborar GQM (*Goal Question Metric*)](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/111) | 0 | Não Concluída |
+| Issue | Pontos | Status | Observação |
+| ----- | :----: | :----: | :----: |
+| [ES02US01 - Eu, como usuário, desejo criar um registro de peixes para o servidor, a fim de realizar a coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/60) | 8 | Não Concluída | Foi realizada apenas no *BackEnd*, devido a falta de um Protótipo de Alta Fidelidade |
+| [ES04US03 - Eu, como usuário, desejo visualizar registro selecionado, a fim de realizar a coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/61) | 3 | Não Concluída | Foi realizada apenas no *BackEnd*, devido a falta de um Protótipo de Alta Fidelidade |
+| [ES06US01 - Eu, como usuário, desejo editar ou remover dados do registro, a fim de aumentar a confiabilidade da coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/62) | 5 | Não Concluída | Foi realizada apenas no *BackEnd*, devido a falta de um Protótipo de Alta Fidelidade |
+| [ES08US01 - Eu, como usuário, desejo acessar o mapa da minha localização no cadastro de registro, a fim de realizar o registro para coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/63) | 3 | Não Concluída | Foi realizada apenas no *BackEnd*, devido a falta de um Protótipo de Alta Fidelidade |
+| [ES08US02 - Eu, como usuário, desejo salvar minha localização marcada no mapa, a fim de ajudar na coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/71) | 3 | Não Concluída | Foi realizada apenas no *BackEnd*, devido a falta de um Protótipo de Alta Fidelidade |
+| [Definir licença e criar uma tabela explicando cada uma](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/69) | 0 | Concluída | - |
+| Documentar Planning *Sprint* 1 e Fechamento da *Sprint* 0 | 0 | Concluída | - |
+| [Elaborar NFR](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/68) | 0 | Concluída | - |
+| [Revisão do diagrama de Casos de Uso](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/67) | 0 | Concluída | - |
+| [Configuração do *SonarQube* no *Frontend*](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/47) | 0 | Concluída | - |
+| [Criação do repositório e ambiente de configuração de registro de peixes no GitHub](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/112) | 0 | Concluída | - |
+| [Elaborar GQM (*Goal Question Metric*)](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/111) | 0 | Não Concluída | - |
+| [HOTFIX - Atualizar variáveis e segredo usados para geração do *token* de autenticação](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/72) | 0 | Concluída | - |
+| [HOTFIX - Imagens Quebradas na *Wiki*](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/70) | 0 | Concluída | - |
 
-__Pontos Planejados:__ 13 </br>
-__Pontos Totais Concluídos:__ 13 </br>
+__Pontos Planejados:__ 22 </br>
+__Pontos Totais Concluídos:__ 0 </br>
 [Milestone Sprint 1](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/milestone/5)
 
 ## Review
@@ -113,4 +116,4 @@ A equipe de EPS elaborou um quadro de conhecimento com tecnologias consideradas 
 
 
 ## Avaliação do Scrum Master
-A *sprint* 1 teve um grande êxito, a equipe está bem comprometida e a comunicação está constante. Além disso, todas as US (*User Stories*) foram entregues. É necessário que haja um melhor planejamento da *Sprint*. Além disso, é preciso melhorar a questão do conflito de horários entre os MDS.
+A *sprint* 1 teve um grande êxito, a equipe está bem comprometida e a comunicação está constante. Todas as US (*User Stories*) foram entregues, mas, no caso, foram realizadas somente no *BackEnd*, pelo fato da falta de um Protótipo de Alta Fidelidade. Além disso, é necessário que haja um melhor planejamento da *Sprint*. Além disso, é preciso melhorar a questão do conflito de horários entre os MDS.

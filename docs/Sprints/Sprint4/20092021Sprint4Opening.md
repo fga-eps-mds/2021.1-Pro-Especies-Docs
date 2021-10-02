@@ -50,9 +50,9 @@
 
 # Pareamentos MDS
 * Gabriel Freitas, Paulo Henrique e João Victor Batista;
-* Daniel Coimbra e Natan Tavares;
-* Paulo Henrique, Daniel Coimbra e João Victor Batista;
 * Gabriel Freitas e Natan Tavares;
+* Paulo Henrique, Daniel Coimbra e João Victor Batista;
+* Daniel Coimbra e Natan Tavares.
 
 # Papéis
 ***Scrum Master***: Lucas Fellipe<br>

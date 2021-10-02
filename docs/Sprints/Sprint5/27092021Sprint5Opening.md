@@ -24,9 +24,9 @@
 
 ### Duração
 
-| Duração |   Início   |     Fim    |
+| Duração | Início     | Fim        |
 | ------- | ---------- | ---------- |
-| 6 dias  | 27/09/2021 | 02/09/2021 |
+| 6 dias  | 27/09/2021 | 02/10/2021 |
 
 ### Sprint Backlog
 
@@ -45,10 +45,9 @@
 > Se houver débito técnico ele deverá ser incluso na tabela de Sprint Baccklog e a coluna de Débito Técnico deverá ser alterada para "1" (true)
 
 # Pareamentos MDS
-* Gabriel Freitas, Paulo Henrique e João Victor Batista;
-* Daniel Coimbra e Natan Tavares;
-* Paulo Henrique, Daniel Coimbra e João Victor Batista;
-* Gabriel Freitas e Natan Tavares;
+* Gabriel Freitas;
+* Daniel Coimbra e João Victor Batista;
+* Natan Tavares e Paulo Henrique.
 
 # Papéis
 ***Scrum Master***: Lucas Fellipe<br>

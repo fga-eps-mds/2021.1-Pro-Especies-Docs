@@ -2,7 +2,7 @@
 
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
-| 02/09/2021 |  1.0   | Resultados da *Sprint* 5 | [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 02/10/2021 |  1.0   | Resultados da *Sprint* 5 | [Lucas Fellipe](https://github.com/lucasfcm9) |
 
 **Data**: 02 de Outubro de 2021
 

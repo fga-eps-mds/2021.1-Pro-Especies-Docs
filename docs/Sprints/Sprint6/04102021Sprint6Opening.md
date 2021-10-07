@@ -35,8 +35,8 @@
 | Descrição da Tarefa | Responsável(eis) | Pontuação | Débito Técnico |
 | ------------------- | :--------------: | :-------: | :------------: |
 | [E02US01 - Eu, como usuário, desejo criar um registro de peixes para o servidor, a fim de realizar a coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/60) | Gabriel Freitas e Paulo Henrique | 8 | 1 |
-| [E03US03 - Eu, como usuário, desejo pesquisar peixes na wiki para ter um acesso mais fácil às informações sobre peixes específicos](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/79) |  Gabriel Freitas e Paulo Henrique   | 8 | 1 |
-| [E03US04 - Eu como usuário, desejo filtrar os peixes afim de encontrar o peixe com mais facilidade](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/121) | Natan Tavares e João Victor Batista | 5 | 1 |
+| [E03US03 - Eu, como usuário, desejo pesquisar peixes na wiki para ter um acesso mais fácil às informações sobre peixes específicos](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/79) |  Natan Tavares e João Victor Batista   | 8 | 1 |
+| [E03US05 - Eu, como usuário, desejo poder visualizar todos os peixes da wiki a fim de facilitar o reconhecimento de espécies](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/127) | Gabriel Freitas e Paulo Henrique | 5 | 1 |
 | [E04US02 - Eu, como usuário, desejo acessar o histórico dos registros que enviei, para revistá-los e checar seus status](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/81) | Natan Tavares e João Victor Batista | 3 | 1 |
 | [E04US01 - Eu, como usuário, desejo acessar a página do meu perfil no app, para ter acesso aos dados referentes a minha conta](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/80) | Daniel Coimbra | 3 | 0 |
 

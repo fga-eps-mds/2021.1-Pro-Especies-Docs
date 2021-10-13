@@ -22,28 +22,31 @@
 
 ## Fechamento da Sprint
 
-| Issue | Pontos | Status |
-| ----- | ------ | ------ |
-| [ES01US01 - Eu, como usuário, desejo poder me cadastrar na plataforma para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/43) | 8 | Não Concluída |
-| [ES01US02 - Eu, como usuário, desejo acessar minha conta na plataforma para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/45) | 5 | Não Concluída |
-| [ES01US03 - Eu, como usuário, desejo ser autenticado pelo aplicativo para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/46) | 5 | Não Concluída |
-| [ES03US04 - Eu, como usuário, desejo poder armazenar dados do fishbase no banco de dados para conseguir informações dos peixes de maneira mais rápida](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/48) | 5 | Não Concluída |
-| [ES03US01 - Eu, como usuário, desejo obter dados do fishbase para obter mais informações sobre os peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/52) | 5 | Não Concluída |
-| [ES03US03 - Eu, como usuário, desejo poder filtrar os peixes cadastrados de acordo com determinado atributo](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/49) | 3 | Não Concluída |
-| [Documentar abertura da Sprint 0 e revisar os artefatos](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/44) | 0 | Concluída |
-| [Configuração do SonarQube no *Frontend*](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/47) | 0 | Não Concluída |
-| [Plano de Gerenciamento de Custos](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/34) | 0 | Concluída |
-| [Integração e configuração do banco de dados no *Crawler*](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/41) | 0 | Concluída |
-| [Configuração do Lint workflow dos serviços](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/42) | 0 | Concluída |
-| [Refinar o *Backlog* do Produto](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/54) | 0 | Concluída |
-| [Criar Diagrama de Classes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/51) | 0 | Concluída |
-| [Refinar o Canvas MVP](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/55) | 0 | Concluída |
-| [Documentar os Léxicos](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/53) | 0 | Concluída |
+| Issue | Pontos | Status | Observação |
+| :---- | :----: | :----: | :----: |
+| [E01US01 - Eu, como usuário, desejo poder me cadastrar na plataforma para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/43) | 8 | Não Concluída | Foi realizada somente no *Backend* |
+| [E01US02 - Eu, como usuário, desejo acessar minha conta na plataforma para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/45) | 5 | Não Concluída | Foi realizada somente no *Backend* |
+| [E01US03 - Eu, como usuário, desejo ser autenticado pelo aplicativo para poder realizar registro e coleta de dados sobre peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/46) | 5 | Não Concluída | Foi realizada somente no *Backend* |
+| [E03US04 - Eu, como usuário, desejo poder armazenar dados do fishbase no banco de dados para conseguir informações dos peixes de maneira mais rápida](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/48) | 5 | Não Concluída | - |
+| [E03US01 - Eu, como usuário, desejo obter dados do fishbase para obter mais informações sobre os peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/52) | 5 | Não Concluída | - |
+| [E03US03 - Eu, como usuário, desejo poder filtrar os peixes cadastrados de acordo com determinado atributo](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/49) | 3 | Não Concluída | - |
+| [Documentar Abertura da Sprint 0 e revisar os artefatos](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/44) | 0 | Concluída | - |
+| [Configuração do SonarQube no *Frontend*](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/47) | 0 | Não Concluída | - |
+| [Elaborar o Plano de Gerenciamento de Custos](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/34) | 0 | Concluída | - |
+| [Integração e configuração do banco de dados no *Crawler*](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/41) | 0 | Concluída | - |
+| [Configuração do *Lint workflow* dos serviços](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/42) | 0 | Concluída | - |
+| [Refinar o *Backlog* do Produto](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/54) | 0 | Concluída | - |
+| [Criar Diagrama de Classes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/51) | 0 | Concluída | - |
+| [Refinar o Canvas MVP](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/55) | 0 | Concluída | - |
+| [Documentar os Léxicos](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/53) | 0 | Concluída | - |
 
-As Histórias de Usuário [E03US04 - Eu, como usuário, desejo poder armazenar dados do fishbase no banco de dados para conseguir informações dos peixes de maneira mais rápida](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/48), [E03US01 - Eu, como usuário, desejo obter dados do fishbase para obter mais informações sobre os peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/52) e [E03US03 - Eu, como usuário, desejo poder filtrar os peixes cadastrados de acordo com determinado atributo](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/49) não foram realizadas devido a mudança de planejamento por parte do cliente.
+As seguintes Histórias de Usuário não foram realizadas devido a mudança de planejamento por parte do cliente:
+* [E03US04 - Eu, como usuário, desejo poder armazenar dados do fishbase no banco de dados para conseguir informações dos peixes de maneira mais rápida](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/48)
+* [E03US01 - Eu, como usuário, desejo obter dados do fishbase para obter mais informações sobre os peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/52)
+* [E03US03 - Eu, como usuário, desejo poder filtrar os peixes cadastrados de acordo com determinado atributo](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/49)
 
 __Pontos Planejados:__ 24 </br>
-__Pontos Totais Concluídos:__ 11 </br>
+__Pontos Totais Concluídos:__ 0 </br>
 [Milestone Sprint 0](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/milestone/4)
 
 ## Review
@@ -58,7 +61,7 @@ __Pontos Totais Concluídos:__ 11 </br>
 
 * **João Victor**: Participou das *issues* que foram canceladas devido aos pontos levantados na reunião com o cliente na Quarta-feira. A partir do meio da semana, pegou as *issues* referentes aos léxicos para a documentação. Essa documentação dos léxicos ajuda no desenvolvimento do produto (na definição dos termos e significados).
 
-* **Lucas Fellipe**: Elaborou a EVM junto ao João Pedro José e documentou as *Sprints*. Além disso, participou das reuniões com o cliente. A EVM 
+* **Lucas Fellipe**: Elaborou a EVM junto ao João Pedro José e documentou as *Sprints*. Além disso, participou das reuniões com o cliente. A EVM agrega valor ao produto pelo fato de mostrar ao cliente o que está sendo planejado e o que foi entregue, além de mostrar o quanto isso vai custar. Além disso, a documentação das *Sprints* ajuda com a rastreabilidade para mostrar o que a equipe está fazendo.
 
 * **Natan Tavares**: Implementou e trabalhou nas *issues* de cadastro, de *login* e de autenticação junto com o Paulo Henrique e o Gabriel Freitas. Essas funcionalidades são os requisitos iniciais do sistema, é o começo do desenvolvimento do *software* em si. A EVM (*Earned Value Management*) traz bastante valor para o produto para o cliente e os desenvolvedores verificarem o que está sendo entregue e o quanto vai demandar de custo, além do valor que a equipe está trazendo para o produto. Já a documentação das *Sprints* traz valor pelo fato da rastreabilidade.
 
@@ -120,4 +123,4 @@ A equipe de EPS elaborou um quadro de conhecimento com tecnologias consideradas 
 ## Avaliação do Scrum Master
 A *sprint* 0 teve um grande êxito, a equipe está bem comprometida e a comunicação está constante. Além disso, todas as *issues* foram entregues.
 
-- O ***Product Owner João Pedro José atuou como DevOPS ajudando o Pedro Rodrigues na configuração do SonarFlutter.***
+- O ***Product Owner João Pedro José atuou como DevOPS ajudando o Pedro Rodrigues na configuração do SonarFlutter, mas tiveram algumas dificuldades e, com isso, a issue de configuração do SonarFlutter foi passada para a próxima Sprint***

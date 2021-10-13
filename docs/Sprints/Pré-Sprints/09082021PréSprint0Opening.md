@@ -35,13 +35,13 @@
 
 | Descrição da Tarefa | Responsável(eis) |
 | ------------------- | ---------------- |
-| Criação do Diagrama de *Gantt* | Lucas |
-| Criação do modelo inicial do Plano de Gerenciamento de Riscos | Lucas |
-| Criação do modelo inicial do Backlog do Produto | João Pedro |
-| Confecção do Protótipo de Média Fidelidade | João Pedro, Gabriel Freitas e João Victor |
-| Realização dos Protótipos de Baixa Fidelidade | Daniel Coimbra, Gabriel Freitas, Paulo Henrique, Natan Tavares e João Victor |
-| Definição do modelo inicial de arquitetura | Iuri Severo |
-| Dockerização dos ambientes de desenvolvimento | Pedro Rodrigues |
+| [Criar diagrama de Gantt](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/24) | Lucas Fellipe |
+| [Criação do modelo inicial do Plano de Gerenciamento de Riscos](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/23) | Lucas Fellipe |
+| [Criação do modelo inicial do *Backlog* do Produto](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/21) | João Pedro Guedes |
+| [Confecção do Protótipo de Média Fidelidade](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/27) | João Pedro Guedes, Gabriel Freitas e João Victor |
+| [Realização dos Protótipos de Baixa Fidelidade](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/17) | Daniel Coimbra, Gabriel Freitas, Paulo Henrique, Natan Tavares e João Victor |
+| [Definição do modelo inicial de arquitetura](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/19) | Iuri Severo |
+| [*Dockerização* dos ambientes de desenvolvimento](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/20) | Pedro Rodrigues |
 
 # Papéis
 ***Scrum Master***: Lucas Fellipe<br>

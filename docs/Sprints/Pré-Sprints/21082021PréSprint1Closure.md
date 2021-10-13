@@ -23,10 +23,11 @@
 
 | Issue | Pontos | Status |
 | ----- | ------ | ------ |
-| [Documentar Planejamento da *Sprint* 1](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/32) | 0 | Concluída |
+| [Documentar Planejamento Sprint 0 e Fechamento da Pré-Sprint 0](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/32) | 0 | Concluída |
 | [Elaborar o Documento de Visão](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/25) | 0 | Concluída |
 | [Elaborar o Documento de Arquitetura](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/26) | 0 | Concluída |
-| [Criação do *Backlog* do Produto V1.0](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/31) | 0 | Concluída |
+| [Criação do Backlog do Produto V1.0](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/31) | 0 | Concluída |
+| [Estilização da *WIki*](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/pull/37) |  |  |
 
 [Milestone Pré-Sprint 1](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/milestone/3?closed=1)
 

@@ -51,7 +51,7 @@ __Pontos Totais Concluídos:__ 0 </br>
 
 * **Paulo Henrique**: Essa semana ficou responsável por popular os dados da planilha e salvar no banco de dados. Já está quase finalizando. Agrega valor ao produto pelo fato de dar informações para os pescadores e pesquisadores. 
 
-* **Pedro Henrique**: Essa semana só conseguiu mexer no *deploy* dos serviços. Conseguiu ajudar algumas outras pessoas e não mexeu com nada concreto que tenha valor para o produto.
+* **Pedro Rodrigues**: Essa semana só conseguiu mexer no *deploy* dos serviços. Conseguiu ajudar algumas outras pessoas e não mexeu com nada concreto que tenha valor para o produto.
 
 
 ### Gráfico de BurnDown de Riscos
@@ -87,7 +87,7 @@ __Pontos Totais Concluídos:__ 0 </br>
     * Positivos: Gostou de ter ficado com uma *issue* do *BackEnd*;
     * Negativos: Ter dúvidas e não saber como se expressar, não ter clareza na hora de falar;
     * Melhorias: Está muito preso em pedir ajuda para o João Pedro Guedes, preciso melhorar essa característica.
-* **Pedro Henrique**
+* **Pedro Rodrigues**
     * Positivos: Foi uma semana complicada por alguns outros motivos, mas estou bem melhor;
     * Negativos: Falta de tempo;
     * Melhorias: Tentar organizar melhor o meu tempo para estar mais presente no projeto.

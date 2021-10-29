@@ -26,15 +26,15 @@
 | [E03US04 - Eu como usuário, desejo filtrar os peixes afim de encontrar o peixe com mais facilidade](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/121) |   5    | Não Concluída |     -      |
 | [E05US01 - Eu, como usuário, me beneficiaria de peixes pré-cadastrados, para facilitar a montagem de registros](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/82) |   3    |   Concluída   |     -      |
 | [E06US01 - Eu, como usuário, desejo editar ou remover dados do registro, a fim de aumentar a confiabilidade da coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/62) |   5    |   Concluída   |     -      |
-| Documentar *Sprint*                                          |        |               |            |
-| [E08US01 - Eu, como usuário, desejo acessar o mapa da minha localização no cadastro de registro, a fim de realizar o registro para coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/63) |   3    |   Concluída   |            |
+| Documentar *Sprint*                                          |    0    |             Concluída              |      -      |
+| [E08US01 - Eu, como usuário, desejo acessar o mapa da minha localização no cadastro de registro, a fim de realizar o registro para coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/63) |   3    |   Concluída   |     -       |
 | [E08US02 - Eu, como usuário, desejo salvar minha localização marcada no mapa, a fim de ajudar na coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/71) |   3    |   Concluída   |     -      |
 
 ## Fechamento da Sprint
 
 __Pontos Planejados:__ 27 </br>
 __Pontos Totais Concluídos:__ 0 </br>
-[Milestone Sprint 8](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/milestone/8)
+[Milestone Sprint 8](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/milestone/12)
 
 ## Review
 

@@ -110,4 +110,4 @@ A equipe de EPS elaborou um quadro de conhecimento com tecnologias consideradas 
 
 
 ## Avaliação do Scrum Master
-A *sprint* 2 teve um grande êxito e teve mais tempo de duração, apesar da correria pelo fato da entrega da R1. A equipe está bem comprometida e a comunicação está constante. Além disso, todas as US (*User Stories*) foram entregues e todos os testes foram realizados e a cobertura está acima de 80% em todos os serviços. A entrega da R1 foi realizada com sucesso com todos os documentos feitos, além das métricas do *SonarCloud* e das *Releases*.
+<p align="justify"> &emsp;&emsp;A <i>sprint</i> 2 teve um grande êxito e teve mais tempo de duração, apesar da correria pelo fato da entrega da R1. A equipe está bem comprometida e a comunicação está constante. Além disso, a maioria das US (<i>User Stories</i>) foram entregues, todos os testes foram realizados e a cobertura está acima de 80% em todos os serviços. A entrega da R1 foi realizada com sucesso com todos os documentos feitos, além das métricas do <i>SonarCloud</i> e das <i>Releases</i>.</p>

@@ -116,4 +116,4 @@ A equipe de EPS elaborou um quadro de conhecimento com tecnologias consideradas 
 
 
 ## Avaliação do Scrum Master
-A *sprint* 1 teve um grande êxito, a equipe está bem comprometida e a comunicação está constante. As US (*User Stories*) foram realizadas somente no *BackEnd*, pelo fato da falta de um Protótipo de Alta Fidelidade. Além disso, é necessário que haja um melhor planejamento da *Sprint*. Além disso, é preciso melhorar a questão do conflito de horários entre os MDS.
+<p align="justify"> &emsp;&emsp;A <i>sprint</i> 1 teve um grande êxito, a equipe está bem comprometida e a comunicação está constante. As US (<i>User Stories</i>) foram realizadas somente no *BackEnd*, pelo fato da falta de um Protótipo de Alta Fidelidade. Além disso, é necessário que haja um melhor planejamento da <i>Sprint</i>. Além disso, é preciso melhorar a questão do conflito de horários entre os MDS.</p>

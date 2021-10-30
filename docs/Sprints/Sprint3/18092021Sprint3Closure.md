@@ -105,4 +105,4 @@ A equipe de EPS elaborou um quadro de conhecimento com tecnologias consideradas 
 
 
 ## Avaliação do Scrum Master
-A *sprint* 3 foi um pouco conturbada, pelo fato de termos pecado na organização. Porém, conseguimos entregar a maioria das *issues*. Além disso, todos os integrantes participaram da apresentação da *Release* 1 para o cliente, que foi uma excelente apresentação. Um ponto muito importante a ser ressaltado é o fato de todos os integrantes estarem bem proativos para a realização das tarefas.
+<p align="justify"> &emsp;&emsp;A <i>sprint</i> 3 foi um pouco conturbada, pelo fato de termos pecado na organização. Porém, conseguimos entregar a maioria das <i>issues</i>. Além disso, todos os integrantes participaram da apresentação da <i>Release</i> 1 para o cliente, que foi uma excelente apresentação. Um ponto muito importante a ser ressaltado é o fato de todos os integrantes estarem bem proativos para a realização das tarefas.

@@ -56,7 +56,7 @@ __Pontos Totais Concluídos:__ 0 </br>
 ### Velocity
 
 ### Gráfico de BurnDown de Riscos
-![BurnDownRiskSprint5](../../Assets/Images/RiskBurnDownCharts/RiskBurnDownSprint6.png)
+![BurnDownRiskSprint6](../../Assets/Images/RiskBurnDownCharts/RiskBurnDownSprint6.png)
 
 ## Retrospective
 <p align="justify"> &emsp;&emsp;A Retrospecitva da <i>Sprint</i> realizada na plataforma chamada MetroRetro. Foi uma dinâmica bem legal e os principais pontos que levantamos foram os seguintes:</p>

@@ -39,7 +39,7 @@ Hoje vão acontecer 3 atividades: **Objetivos do Produto**, ***Personas*** e ***
 <p align="justify"> &emsp;&emsp;Essa etapa consiste na criação de uma <i>persona</i>, ou seja, um usuário do produto, descrevendo suas necessidades e características. A equipe foi dividida em 3 grupos para a realização dessa tarefa. </p>
 
 - Grupo 1 (João Victor, Natan e Iuri);
-- Grupo 2 (Daniel Coimbra, Lucas Fellipe e Pedro Henrique);
+- Grupo 2 (Daniel Coimbra, Lucas Fellipe e Paulo Henrique);
 - Grupo 3 (Oscar e Freitas).
 
 <p align="justify"> &emsp;&emsp;O Grupo 1 fez a seguinte <i>persona</i>: Seu Jorge tem 35 anos, possui um baixo nível de escolaridade e conhece bem a região que ele mora. Além disso, não tem acesso à recursos tecnológicos. Ele não tem paciência com a tecnologia, por ser um pouco mais velho e é acostumado com o trabalho braçal. Possui uma rotina bem definida. Ele realiza atividade ligada a pesca por renda e necessita de uma tecnologia mais intuitiva e acessível.</p>

@@ -6,6 +6,18 @@
 
 ## Logomarca
 
+A logomarca foi criada com base em uma imagem retirada do galeria gratuita do [ManyPixels](https://www.manypixels.co/gallery). A imagem foi adaptada com as cores definidas para o produto.
+
+![EuPescador Logomarca](../Assets/Images/VID/EuPescadorIcon.png)
+
+### Texto
+
+![Texto EuPescador](../Assets/Images/VID/EuPescadorText.png)
+
+### Imagem
+
+![Imagem EuPescador](../Assets/Images/VID/EuPescadorImg.png)
+
 ## Cores
 
 <p align="justify">&emsp;&emsp;A escolha de cores foi feita a partir de um breve estudo sobre as teorias das cores. Deste modo foram definidos o azul, como cor principal e o verde como cor secundária.</p>

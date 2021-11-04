@@ -21,6 +21,7 @@
   - [Documento de Arquitetura](/Product/ArchitectureDocument.md)
   - [Protótipo de Baixa Fidelidade](/Project/LowFidelityPrototype.md)
   - [Protótipo de Média Fidelidade](/Project/MediumFidelityPrototype.md)
+  - [Identidade Visual](/Product/VisualIdentity.md)
 
 - **Projeto**
   - [Plano de Gerenciamento de Riscos](/Project/RiskPlan.md)

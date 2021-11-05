@@ -33,7 +33,7 @@
 ## Fechamento da Sprint
 
 __Pontos Planejados:__ 27 </br>
-__Pontos Totais Concluídos:__ 0 </br>
+__Pontos Totais Concluídos:__ 22 </br>
 [Milestone Sprint 8](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/milestone/12)
 
 ## Review

@@ -23,14 +23,14 @@
 
 | Issue | Pontos | Status | Observação |
 | ----- | :----: | :----: | :----: |
-| [E02US01 - Eu, como usuário, desejo criar um registro de peixes para o servidor, a fim de realizar a coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/60) | 8 | Não Concluída | Não foi concluída pelo fato de ainda não termos um *Deploy* |
-| [E03US03 - Eu, como usuário, desejo pesquisar peixes na wiki para ter um acesso mais fácil às informações sobre peixes específicos](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/79) | 8 | Não Concluída | Não foi concluída pelo fato de ainda não termos um *Deploy* |
-| [E03US05 - Eu, como usuário, desejo poder visualizar todos os peixes da wiki a fim de facilitar o reconhecimento de espécies](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/127) | 5 | Não Concluída | Não foi concluída pelo fato de ainda não termos um *Deploy* |
-| [E04US02 - Eu, como usuário, desejo acessar o histórico dos registros que enviei, para revistá-los e checar seus status](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/81) | 3 | Não Concluída | Não foi concluída pelo fato de ainda não termos um *Deploy* |
-| [E04US01 - Eu, como usuário, desejo acessar a página do meu perfil no app, para ter acesso aos dados referentes a minha conta](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/80) | 3 | Não Concluída | Não foi concluída pelo fato de ainda não termos um *Deploy* |
+| [E02US01 - Eu, como usuário, desejo criar um registro de peixes para o servidor, a fim de realizar a coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/60) | 8 | Não Concluída | - |
+| [E03US03 - Eu, como usuário, desejo pesquisar peixes na wiki para ter um acesso mais fácil às informações sobre peixes específicos](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/79) | 8 | Concluída | - |
+| [E03US05 - Eu, como usuário, desejo poder visualizar todos os peixes da wiki a fim de facilitar o reconhecimento de espécies](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/127) | 5 | Concluída | - |
+| [E04US02 - Eu, como usuário, desejo acessar o histórico dos registros que enviei, para revistá-los e checar seus status](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/81) | 3 | Concluída | - |
+| [E04US01 - Eu, como usuário, desejo acessar a página do meu perfil no app, para ter acesso aos dados referentes a minha conta](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/80) | 3 | Não Concluída | - |
 
 __Pontos Planejados:__ 27 </br>
-__Pontos Totais Concluídos:__ 0 </br>
+__Pontos Totais Concluídos:__ 16 </br>
 [Milestone Sprint 6](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/milestone/10)
 
 ## Review

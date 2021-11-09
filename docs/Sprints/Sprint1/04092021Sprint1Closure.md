@@ -40,7 +40,7 @@
 | [HOTFIX - Atualizar variáveis e segredo usados para geração do *token* de autenticação](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/72) | 0 | Concluída | - |
 | [HOTFIX - Imagens Quebradas na *Wiki*](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/70) | 0 | Concluída | - |
 
-__Pontos Planejados:__ 22 </br>
+__Pontos Planejados:__ 16 </br>
 __Pontos Totais Concluídos:__ 0 </br>
 [Milestone Sprint 1](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/milestone/5)
 
@@ -67,6 +67,9 @@ __Pontos Totais Concluídos:__ 0 </br>
 
 ### Gráfico de BurnDown de Riscos
 ![BurnDownRiskSprint1](../../Assets/Images/RiskBurnDownCharts/RiskBurnDownSprint1.png)
+
+### Velocity
+![Velocity1](../../Assets/Images/VelocityCharts/VelocitySprint1.png)
 
 
 ## Retrospective

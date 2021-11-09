@@ -31,9 +31,9 @@
 | [Realizar deploy dos serviços](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/128) | 0 | Concluída | - |
 | Documentar *Sprint* | 0 | Concluída | - |
 
-__Pontos Planejados:__ 29 </br>
+__Pontos Planejados:__ 0 </br>
 __Pontos Totais Concluídos:__ 11 </br>
-[Milestone Sprint 7](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22Sprint+7%22)
+[Milestone Sprint 7](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/milestone/11)
 
 ## Review
 
@@ -56,6 +56,9 @@ __Pontos Totais Concluídos:__ 11 </br>
 
 ### Gráfico de BurnDown de Riscos
 ![BurnDownRiskSprint7](../../Assets/Images/RiskBurnDownCharts/RiskBurnDownSprint7.png)
+
+### Velocity
+![Velocity7](../../Assets/Images/VelocityCharts/VelocitySprint7.png)
 
 ## Retrospective
 

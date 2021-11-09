@@ -29,7 +29,7 @@
 | [E04US02 - Eu, como usuário, desejo acessar o histórico dos registros que enviei, para revistá-los e checar seus status](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/81) | 3 | Concluída | - |
 | [E04US01 - Eu, como usuário, desejo acessar a página do meu perfil no app, para ter acesso aos dados referentes a minha conta](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/80) | 3 | Não Concluída | - |
 
-__Pontos Planejados:__ 27 </br>
+__Pontos Planejados:__ 3 </br>
 __Pontos Totais Concluídos:__ 16 </br>
 [Milestone Sprint 6](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/milestone/10)
 
@@ -57,6 +57,9 @@ __Pontos Totais Concluídos:__ 16 </br>
 
 ### Gráfico de BurnDown de Riscos
 ![BurnDownRiskSprint6](../../Assets/Images/RiskBurnDownCharts/RiskBurnDownSprint6.png)
+
+### Velocity
+![Velocity6](../../Assets/Images/VelocityCharts/VelocitySprint6.png)
 
 ## Retrospective
 <p align="justify"> &emsp;&emsp;A Retrospecitva da <i>Sprint</i> realizada na plataforma chamada MetroRetro. Foi uma dinâmica bem legal e os principais pontos que levantamos foram os seguintes:</p>

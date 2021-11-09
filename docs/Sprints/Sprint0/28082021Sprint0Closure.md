@@ -45,7 +45,7 @@ As seguintes Histórias de Usuário não foram realizadas devido a mudança de p
 * [E03US01 - Eu, como usuário, desejo obter dados do fishbase para obter mais informações sobre os peixes](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/52)
 * [E03US03 - Eu, como usuário, desejo poder filtrar os peixes cadastrados de acordo com determinado atributo](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/49)
 
-__Pontos Planejados:__ 24 </br>
+__Pontos Planejados:__ 18 </br>
 __Pontos Totais Concluídos:__ 0 </br>
 [Milestone Sprint 0](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/milestone/4)
 
@@ -72,6 +72,9 @@ __Pontos Totais Concluídos:__ 0 </br>
 
 ### Gráfico de BurnDown de Riscos
 ![BurnDownRiskSprint0](../../Assets/Images/RiskBurnDownCharts/RiskBurnDownSprint0.png)
+
+### Velocity
+![Velocity0](../../Assets/Images/VelocityCharts/VelocitySprint0.png)
 
 
 ## Retrospective

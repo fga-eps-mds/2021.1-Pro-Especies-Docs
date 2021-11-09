@@ -38,7 +38,7 @@
 
 __Pontos Planejados:__ 8 </br>
 __Pontos Totais Concluídos:__ 0 </br>
-[Milestone Sprint 2](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/milestone/6?closed=1)
+[Milestone Sprint 2](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/milestone/6)
 
 ## Review
 
@@ -62,6 +62,9 @@ __Pontos Totais Concluídos:__ 0 </br>
 
 ### Gráfico de BurnDown de Riscos
 ![BurnDownRiskSprint2](../../Assets/Images/RiskBurnDownCharts/RiskBurnDownSprint2.png)
+
+### Velocity
+![Velocity2](../../Assets/Images/VelocityCharts/VelocitySprint2.png)
 
 ## Retrospective
 

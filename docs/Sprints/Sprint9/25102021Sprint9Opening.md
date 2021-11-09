@@ -37,8 +37,7 @@
 | [E07US02 - Eu,como pesquisador,desejo exportar os registros para fora do aplicativo, para melhores estudos sobre os dados registrados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/85) | Daniel Coimbra, Paulo Henrique e Natan Tavares | 5 | 1 |
 | [E09US01 - Eu, como pescador, gostaria que meus registros sejam salvos enquanto eu não tiver conexão com a internet, para que eu possa enviá-los posteriormente uma vez que haja conexão](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/75) | João Pedro Guedes | 8 | 0 |
 | Documentar *Sprint* |             Lucas Fellipe             | 0 | 0 |
-| Extrair as métricas do SonarCloud para a realização da análise no Jupyter Notebook | Lucas Fellipe e Iuri Severo | 0 | 0 |
-| Criar um Script para pegar as imagens da planilha e salvar no banco de dados | Pedro Rodrigues | 0 | 0 |
+| Atualização do CI/CD para a geração de todas as métricas dos serviços | Iuri Severo e João Pedro | 0 | 0 |
 
 > Se houver débito técnico ele deverá ser incluso na tabela de Sprint Baccklog e a coluna de Débito Técnico deverá ser alterada para "1" (true)
 

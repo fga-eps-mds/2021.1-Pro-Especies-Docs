@@ -31,7 +31,7 @@
 | [E03US05 - Eu, como usuário, desejo poder visualizar todos os peixes da wiki a fim de facilitar o reconhecimento de espécies](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/127) | 5 | Não Concluída | - |
 | [Realizar *deploy* dos serviços](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/128) | 0 | Não Concluída | - |
 
-__Pontos Planejados:__ 39 </br>
+__Pontos Planejados:__ 13 </br>
 __Pontos Totais Concluídos:__ 10 </br>
 [Milestone Sprint 5](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/milestone/9)
 
@@ -61,6 +61,9 @@ __Pontos Totais Concluídos:__ 10 </br>
 
 ### Gráfico de BurnDown de Riscos
 ![BurnDownRiskSprint5](../../Assets/Images/RiskBurnDownCharts/RiskBurnDownSprint5.png)
+
+### Velocity
+![Velocity5](../../Assets/Images/VelocityCharts/VelocitySprint5.png)
 
 ## Retrospective
 <p align="justify"> &emsp;&emsp;A Retrospecitva da <i>Sprint</i> realizada na plataforma chamada MetroRetro novamente. Foi uma dinâmica bem legal e os principais pontos que levantamos foram os seguintes:</p>

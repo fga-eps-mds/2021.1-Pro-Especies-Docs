@@ -35,8 +35,8 @@
 | [E03US02 - Eu, como usuário, desejo receber dados dinamicamente da planilha dos pesquisadores, a fim de visualizar dados de peixes na *wiki*](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/76) | 8 | Não Concluída | - |
 | [E07US02 - Eu,como pesquisador,desejo exportar os registros para fora do aplicativo, para melhores estudos sobre os dados registrados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/85) | 5 | Não Concluída | - |
 
-__Pontos Planejados:__ 42 </br>
-__Pontos Totais Concluídos:__ 22 </br>
+__Pontos Planejados:__ 3 </br>
+__Pontos Totais Concluídos:__ 19 </br>
 [Milestone Sprint 4](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/milestone/8)
 
 ## Review
@@ -65,6 +65,9 @@ __Pontos Totais Concluídos:__ 22 </br>
 
 ### Gráfico de BurnDown de Riscos
 ![BurnDownRiskSprint4](../../Assets/Images/RiskBurnDownCharts/RiskBurnDownSprint4.png)
+
+### Velocity
+![Velocity4](../../Assets/Images/VelocityCharts/VelocitySprint4.png)
 
 ## Retrospective
 <p align="justify"> &emsp;&emsp;A Retrospecitva da <i>Sprint</i> foi um pouco diferente dessa vez. Fizemos em uma plataforma chamada MetroRetro e foi comandada pelo Pedro Rodrigues. Foi uma dinâmica bem legal e os principais pontos que levantamos foram os seguintes:</p>

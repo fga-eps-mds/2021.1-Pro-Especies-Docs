@@ -22,6 +22,7 @@
   - [Protótipo de Baixa Fidelidade](/Project/LowFidelityPrototype.md)
   - [Protótipo de Média Fidelidade](/Project/MediumFidelityPrototype.md)
   - [Identidade Visual](/Product/VisualIdentity.md)
+  - [Qualidade do Produto](/Product/QualityAnalysis.md)
 
 - **Projeto**
   - [Plano de Gerenciamento de Riscos](/Project/RiskPlan.md)

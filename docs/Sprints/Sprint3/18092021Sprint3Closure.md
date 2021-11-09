@@ -31,7 +31,7 @@
 | [HOTFIX - Retorno de Dados no Cadastro](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/116) | 0 | Concluída | - |
 | [Documentar Fechamento da Sprint 2 e Abertura da Sprint 3](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/122) | 0 | Concluída | - |
 
-__Pontos Planejados:__ 16 </br>
+__Pontos Planejados:__ 21 </br>
 __Pontos Totais Concluídos:__ 0 </br>
 [Milestone Sprint 3](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/milestone/7)
 
@@ -57,6 +57,9 @@ __Pontos Totais Concluídos:__ 0 </br>
 
 ### Gráfico de BurnDown de Riscos
 ![BurnDownRiskSprint3](../../Assets/Images/RiskBurnDownCharts/RiskBurnDownSprint3.png)
+
+### Velocity
+![Velocity3](../../Assets/Images/VelocityCharts/VelocitySprint3.png)
 
 ## Retrospective
 

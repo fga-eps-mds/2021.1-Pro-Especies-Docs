@@ -32,8 +32,8 @@
 
 ## Fechamento da Sprint
 
-__Pontos Planejados:__ 27 </br>
-__Pontos Totais Concluídos:__ 0 </br>
+__Pontos Planejados:__ 9 </br>
+__Pontos Totais Concluídos:__ 22 </br>
 [Milestone Sprint 8](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/milestone/12)
 
 ## Review
@@ -56,6 +56,9 @@ __Pontos Totais Concluídos:__ 0 </br>
 
 ### Gráfico de BurnDown de Riscos
 ![BurnDownRiskSprint8](../../Assets/Images/RiskBurnDownCharts/RiskBurnDownSprint8.png)
+
+### Velocity
+![Velocity8](../../Assets/Images/VelocityCharts/VelocitySprint8.png)
 
 ## Retrospective
 

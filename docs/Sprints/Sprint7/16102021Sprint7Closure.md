@@ -25,15 +25,15 @@
 | [E02US01 - Eu, como usuário, desejo criar um registro de peixes para o servidor, a fim de realizar a coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/60) | 8 | Concluída | - |
 | [E03US02 - Eu, como usuário, desejo receber dados dinamicamente da planilha dos pesquisadores, a fim de visualizar dados de peixes na wiki](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/76) | 8 | Não Concluída | - |
 | [E03US04 - Eu como usuário, desejo filtrar os peixes afim de encontrar o peixe com mais facilidade](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/121) | 5 | Não Concluída | - |
-| [E04US01 - Eu, como usuário, desejo acessar o histórico dos registros que enviei, para revistá-los e checar seus status](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/81) | 3 | Não Concluída | - |
+| [E04US01 - Eu, como usuário, desejo acessar o histórico dos registros que enviei, para revistá-los e checar seus status](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/81) | 3 | Concluída | - |
 | [E06US01 - Eu, como usuário, desejo editar ou remover dados do registro, a fim de aumentar a confiabilidade da coleta de dados](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/62) | 5 | Não Concluída |  |
 | [Configurar Integração Contínua no repositório UserInterface](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/130) | 0 | Concluída | - |
 | [Realizar deploy dos serviços](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues/128) | 0 | Concluída | - |
 | Documentar *Sprint* | 0 | Concluída | - |
 
-__Pontos Planejados:__ 29 </br>
-__Pontos Totais Concluídos:__ 0 </br>
-[Milestone Sprint 7](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22Sprint+7%22)
+__Pontos Planejados:__ 0 </br>
+__Pontos Totais Concluídos:__ 11 </br>
+[Milestone Sprint 7](https://github.com/fga-eps-mds/2021.1-Pro-Especies-Docs/milestone/11)
 
 ## Review
 
@@ -56,6 +56,9 @@ __Pontos Totais Concluídos:__ 0 </br>
 
 ### Gráfico de BurnDown de Riscos
 ![BurnDownRiskSprint7](../../Assets/Images/RiskBurnDownCharts/RiskBurnDownSprint7.png)
+
+### Velocity
+![Velocity7](../../Assets/Images/VelocityCharts/VelocitySprint7.png)
 
 ## Retrospective
 

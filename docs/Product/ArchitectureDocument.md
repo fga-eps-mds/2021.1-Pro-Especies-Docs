@@ -14,7 +14,7 @@
 | 04/09/2021 |  1.3   | Remoção do Diagrama de Casos de Uso |   [João Pedro Guedes](https://github.com/sudjoao)     |
 | 07/09/2021 |  1.4   | Atualização do Diagrama de Classes, da Visão Lógica (tópico 4) e da Representação Arquitetural (tópico 2) |   [Iuri Severo](https://github.com/iurisevero)     |
 | 07/09/2021 |  1.5   | Atualização do Diagrama do link do User Interface |   [João Guedes](https://github.com/sudjoao)     |
-
+| 06/11/2021 |  1.6   | Atualização dos diagramas de classe, pacotes e relações | [Iuri Severo](https://github.com/iurisevero)     |
 
 ## 1. Introdução
 

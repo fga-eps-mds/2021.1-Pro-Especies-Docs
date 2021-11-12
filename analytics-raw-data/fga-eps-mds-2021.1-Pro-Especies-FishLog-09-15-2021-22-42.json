@@ -1,1 +1,478 @@
-{"paging":{"pageIndex":1,"pageSize":500,"total":16},"baseComponent":{"id":"AXzdZYOQnHvA_7xzlsjk","key":"fga-eps-mds_2021.1-Pro-Especies-FishLog","name":"2021.1-Pro-Especies-FishLog","qualifier":"TRK","measures":[{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"functions","value":"19"},{"metric":"test_execution_time","value":"124"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"tests","value":"24"},{"metric":"files","value":"8"},{"metric":"complexity","value":"43"},{"metric":"ncloc","value":"382"},{"metric":"coverage","value":"85.2","bestValue":false},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"comment_lines_density","value":"0.3","bestValue":false},{"metric":"test_success_density","value":"100.0","bestValue":true}],"pullRequest":"19"},"components":[{"id":"AXzdZYXBebgT_A0tIxs2","key":"fga-eps-mds_2021.1-Pro-Especies-FishLog:src/app.ts","name":"app.ts","qualifier":"FIL","path":"src/app.ts","language":"ts","measures":[{"metric":"complexity","value":"0"},{"metric":"functions","value":"0"},{"metric":"ncloc","value":"11"},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"files","value":"1"},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_success_density","value":"100.0","bestValue":true}],"pullRequest":"19"},{"id":"AXzdZYXBebgT_A0tIxs3","key":"fga-eps-mds_2021.1-Pro-Especies-FishLog:src/middleware/auth.ts","name":"auth.ts","qualifier":"FIL","path":"src/middleware/auth.ts","language":"ts","measures":[{"metric":"functions","value":"3"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"files","value":"1"},{"metric":"complexity","value":"5"},{"metric":"ncloc","value":"31"},{"metric":"coverage","value":"38.9","bestValue":false},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_success_density","value":"100.0","bestValue":true}],"pullRequest":"19"},{"id":"AXzdZYXBebgT_A0tIxsx","key":"fga-eps-mds_2021.1-Pro-Especies-FishLog:src/config","name":"config","qualifier":"DIR","path":"src/config","measures":[{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"functions","value":"2"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"files","value":"1"},{"metric":"complexity","value":"4"},{"metric":"ncloc","value":"27"},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"comment_lines_density","value":"0.0","bestValue":false}],"pullRequest":"19"},{"id":"AXzdZYXBebgT_A0tIxs8","key":"fga-eps-mds_2021.1-Pro-Especies-FishLog:src/controllers","name":"controllers","qualifier":"DIR","path":"src/controllers","measures":[{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"functions","value":"7"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"files","value":"1"},{"metric":"complexity","value":"26"},{"metric":"ncloc","value":"189"},{"metric":"coverage","value":"91.5","bestValue":false},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"comment_lines_density","value":"0.0","bestValue":false}],"pullRequest":"19"},{"id":"AXzdZYXBebgT_A0tIxsw","key":"fga-eps-mds_2021.1-Pro-Especies-FishLog:src/config/database.ts","name":"database.ts","qualifier":"FIL","path":"src/config/database.ts","language":"ts","measures":[{"metric":"complexity","value":"4"},{"metric":"functions","value":"2"},{"metric":"ncloc","value":"27"},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"files","value":"1"},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_success_density","value":"100.0","bestValue":true}],"pullRequest":"19"},{"id":"AXzdZYXBebgT_A0tIxs5","key":"fga-eps-mds_2021.1-Pro-Especies-FishLog:src/models/fishLog.ts","name":"fishLog.ts","qualifier":"FIL","path":"src/models/fishLog.ts","language":"ts","measures":[{"metric":"complexity","value":"0"},{"metric":"functions","value":"0"},{"metric":"ncloc","value":"89"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"files","value":"1"},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_success_density","value":"100.0","bestValue":true}],"pullRequest":"19"},{"id":"AXzdZYXBebgT_A0tIxs-","key":"fga-eps-mds_2021.1-Pro-Especies-FishLog:test/controller/fishLogController.spec.ts","name":"fishLogController.spec.ts","qualifier":"UTS","path":"test/controller/fishLogController.spec.ts","language":"ts","measures":[{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"test_execution_time","value":"124"},{"metric":"tests","value":"24"},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_success_density","value":"100.0","bestValue":true}],"pullRequest":"19"},{"id":"AXzdZYXBebgT_A0tIxs7","key":"fga-eps-mds_2021.1-Pro-Especies-FishLog:src/controllers/fishLogController.ts","name":"fishLogController.ts","qualifier":"FIL","path":"src/controllers/fishLogController.ts","language":"ts","measures":[{"metric":"functions","value":"7"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"files","value":"1"},{"metric":"complexity","value":"26"},{"metric":"ncloc","value":"189"},{"metric":"coverage","value":"91.5","bestValue":false},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_success_density","value":"100.0","bestValue":true}],"pullRequest":"19"},{"id":"AXzdZYXBebgT_A0tIxs0","key":"fga-eps-mds_2021.1-Pro-Especies-FishLog:src/routes/fishLogRoutes.ts","name":"fishLogRoutes.ts","qualifier":"FIL","path":"src/routes/fishLogRoutes.ts","language":"ts","measures":[{"metric":"complexity","value":"6"},{"metric":"functions","value":"6"},{"metric":"ncloc","value":"25"},{"metric":"coverage","value":"0.0","bestValue":false},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"files","value":"1"},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_success_density","value":"100.0","bestValue":true}],"pullRequest":"19"},{"id":"AXzdZYXBebgT_A0tIxs4","key":"fga-eps-mds_2021.1-Pro-Especies-FishLog:src/middleware","name":"middleware","qualifier":"DIR","path":"src/middleware","measures":[{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"functions","value":"3"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"files","value":"1"},{"metric":"complexity","value":"5"},{"metric":"ncloc","value":"31"},{"metric":"coverage","value":"38.9","bestValue":false},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"comment_lines_density","value":"0.0","bestValue":false}],"pullRequest":"19"},{"id":"AXzdZYXBebgT_A0tIxs6","key":"fga-eps-mds_2021.1-Pro-Especies-FishLog:src/models","name":"models","qualifier":"DIR","path":"src/models","measures":[{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"functions","value":"0"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"files","value":"1"},{"metric":"complexity","value":"0"},{"metric":"ncloc","value":"89"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"comment_lines_density","value":"0.0","bestValue":false}],"pullRequest":"19"},{"id":"AXzdZYXBebgT_A0tIxsz","key":"fga-eps-mds_2021.1-Pro-Especies-FishLog:src/routes/router.ts","name":"router.ts","qualifier":"FIL","path":"src/routes/router.ts","language":"ts","measures":[{"metric":"complexity","value":"0"},{"metric":"functions","value":"0"},{"metric":"ncloc","value":"5"},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"comment_lines_density","value":"16.7","bestValue":false},{"metric":"files","value":"1"},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_success_density","value":"100.0","bestValue":true}],"pullRequest":"19"},{"id":"AXzdZYXBebgT_A0tIxs1","key":"fga-eps-mds_2021.1-Pro-Especies-FishLog:src/routes","name":"routes","qualifier":"DIR","path":"src/routes","measures":[{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"functions","value":"6"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"files","value":"2"},{"metric":"complexity","value":"6"},{"metric":"ncloc","value":"30"},{"metric":"coverage","value":"0.0","bestValue":false},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"comment_lines_density","value":"3.2","bestValue":false}],"pullRequest":"19"},{"id":"AXzdZYXBebgT_A0tIxsy","key":"fga-eps-mds_2021.1-Pro-Especies-FishLog:src/server.ts","name":"server.ts","qualifier":"FIL","path":"src/server.ts","language":"ts","measures":[{"metric":"complexity","value":"2"},{"metric":"functions","value":"1"},{"metric":"ncloc","value":"5"},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"files","value":"1"},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_success_density","value":"100.0","bestValue":true}],"pullRequest":"19"},{"id":"AXzdZYXBebgT_A0tIxs9","key":"fga-eps-mds_2021.1-Pro-Especies-FishLog:src","name":"src","qualifier":"DIR","path":"src","measures":[{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"functions","value":"19"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"files","value":"8"},{"metric":"complexity","value":"43"},{"metric":"ncloc","value":"382"},{"metric":"coverage","value":"85.2","bestValue":false},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"comment_lines_density","value":"0.3","bestValue":false}],"pullRequest":"19"},{"id":"AXzdZYXBebgT_A0tIxs_","key":"fga-eps-mds_2021.1-Pro-Especies-FishLog:test/controller","name":"test/controller","qualifier":"DIR","path":"test/controller","measures":[{"metric":"test_execution_time","value":"124"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"tests","value":"24"},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"test_success_density","value":"100.0","bestValue":true}],"pullRequest":"19"}]}
+{
+  "paging": { "pageIndex": 1, "pageSize": 500, "total": 16 },
+  "baseComponent": {
+    "id": "AXzdZYOQnHvA_7xzlsjk",
+    "key": "fga-eps-mds_2021.1-Pro-Especies-FishLog",
+    "name": "2021.1-Pro-Especies-FishLog",
+    "qualifier": "TRK",
+    "measures": [
+      {
+        "metric": "duplicated_lines_density",
+        "value": "0.0",
+        "bestValue": true
+      },
+      { "metric": "functions", "value": "19" },
+      { "metric": "test_execution_time", "value": "124" },
+      { "metric": "security_rating", "value": "1.0", "bestValue": true },
+      { "metric": "tests", "value": "24" },
+      { "metric": "files", "value": "8" },
+      { "metric": "complexity", "value": "43" },
+      { "metric": "ncloc", "value": "382" },
+      { "metric": "coverage", "value": "85.2", "bestValue": false },
+      { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+      { "metric": "comment_lines_density", "value": "0.3", "bestValue": false },
+      { "metric": "test_success_density", "value": "100.0", "bestValue": true }
+    ]
+  },
+  "components": [
+    {
+      "id": "AXzdZYXBebgT_A0tIxs2",
+      "key": "fga-eps-mds_2021.1-Pro-Especies-FishLog:src/app.ts",
+      "name": "app.ts",
+      "qualifier": "FIL",
+      "path": "src/app.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "0" },
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "11" },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXzdZYXBebgT_A0tIxs3",
+      "key": "fga-eps-mds_2021.1-Pro-Especies-FishLog:src/middleware/auth.ts",
+      "name": "auth.ts",
+      "qualifier": "FIL",
+      "path": "src/middleware/auth.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "functions", "value": "3" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "complexity", "value": "5" },
+        { "metric": "ncloc", "value": "31" },
+        { "metric": "coverage", "value": "38.9", "bestValue": false },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXzdZYXBebgT_A0tIxsx",
+      "key": "fga-eps-mds_2021.1-Pro-Especies-FishLog:src/config",
+      "name": "config",
+      "qualifier": "DIR",
+      "path": "src/config",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "2" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "complexity", "value": "4" },
+        { "metric": "ncloc", "value": "27" },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXzdZYXBebgT_A0tIxs8",
+      "key": "fga-eps-mds_2021.1-Pro-Especies-FishLog:src/controllers",
+      "name": "controllers",
+      "qualifier": "DIR",
+      "path": "src/controllers",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "7" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "complexity", "value": "26" },
+        { "metric": "ncloc", "value": "189" },
+        { "metric": "coverage", "value": "91.5", "bestValue": false },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXzdZYXBebgT_A0tIxsw",
+      "key": "fga-eps-mds_2021.1-Pro-Especies-FishLog:src/config/database.ts",
+      "name": "database.ts",
+      "qualifier": "FIL",
+      "path": "src/config/database.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "4" },
+        { "metric": "functions", "value": "2" },
+        { "metric": "ncloc", "value": "27" },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXzdZYXBebgT_A0tIxs5",
+      "key": "fga-eps-mds_2021.1-Pro-Especies-FishLog:src/models/fishLog.ts",
+      "name": "fishLog.ts",
+      "qualifier": "FIL",
+      "path": "src/models/fishLog.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "0" },
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "89" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXzdZYXBebgT_A0tIxs-",
+      "key": "fga-eps-mds_2021.1-Pro-Especies-FishLog:test/controller/fishLogController.spec.ts",
+      "name": "fishLogController.spec.ts",
+      "qualifier": "UTS",
+      "path": "test/controller/fishLogController.spec.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "test_execution_time", "value": "124" },
+        { "metric": "tests", "value": "24" },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXzdZYXBebgT_A0tIxs7",
+      "key": "fga-eps-mds_2021.1-Pro-Especies-FishLog:src/controllers/fishLogController.ts",
+      "name": "fishLogController.ts",
+      "qualifier": "FIL",
+      "path": "src/controllers/fishLogController.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "functions", "value": "7" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "complexity", "value": "26" },
+        { "metric": "ncloc", "value": "189" },
+        { "metric": "coverage", "value": "91.5", "bestValue": false },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXzdZYXBebgT_A0tIxs0",
+      "key": "fga-eps-mds_2021.1-Pro-Especies-FishLog:src/routes/fishLogRoutes.ts",
+      "name": "fishLogRoutes.ts",
+      "qualifier": "FIL",
+      "path": "src/routes/fishLogRoutes.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "6" },
+        { "metric": "functions", "value": "6" },
+        { "metric": "ncloc", "value": "25" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXzdZYXBebgT_A0tIxs4",
+      "key": "fga-eps-mds_2021.1-Pro-Especies-FishLog:src/middleware",
+      "name": "middleware",
+      "qualifier": "DIR",
+      "path": "src/middleware",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "3" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "complexity", "value": "5" },
+        { "metric": "ncloc", "value": "31" },
+        { "metric": "coverage", "value": "38.9", "bestValue": false },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXzdZYXBebgT_A0tIxs6",
+      "key": "fga-eps-mds_2021.1-Pro-Especies-FishLog:src/models",
+      "name": "models",
+      "qualifier": "DIR",
+      "path": "src/models",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "0" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "ncloc", "value": "89" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXzdZYXBebgT_A0tIxsz",
+      "key": "fga-eps-mds_2021.1-Pro-Especies-FishLog:src/routes/router.ts",
+      "name": "router.ts",
+      "qualifier": "FIL",
+      "path": "src/routes/router.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "0" },
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "5" },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "16.7",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXzdZYXBebgT_A0tIxs1",
+      "key": "fga-eps-mds_2021.1-Pro-Especies-FishLog:src/routes",
+      "name": "routes",
+      "qualifier": "DIR",
+      "path": "src/routes",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "6" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "2" },
+        { "metric": "complexity", "value": "6" },
+        { "metric": "ncloc", "value": "30" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "3.2",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXzdZYXBebgT_A0tIxsy",
+      "key": "fga-eps-mds_2021.1-Pro-Especies-FishLog:src/server.ts",
+      "name": "server.ts",
+      "qualifier": "FIL",
+      "path": "src/server.ts",
+      "language": "ts",
+      "measures": [
+        { "metric": "complexity", "value": "2" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "ncloc", "value": "5" },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "files", "value": "1" },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXzdZYXBebgT_A0tIxs9",
+      "key": "fga-eps-mds_2021.1-Pro-Especies-FishLog:src",
+      "name": "src",
+      "qualifier": "DIR",
+      "path": "src",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "19" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "8" },
+        { "metric": "complexity", "value": "43" },
+        { "metric": "ncloc", "value": "382" },
+        { "metric": "coverage", "value": "85.2", "bestValue": false },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.3",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXzdZYXBebgT_A0tIxs_",
+      "key": "fga-eps-mds_2021.1-Pro-Especies-FishLog:test/controller",
+      "name": "test/controller",
+      "qualifier": "DIR",
+      "path": "test/controller",
+      "measures": [
+        { "metric": "test_execution_time", "value": "124" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "tests", "value": "24" },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        }
+      ]
+    }
+  ]
+}
